@@ -19,7 +19,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15580
+            "stars": 15583
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-11T14:43:30Z",
             "owner": "aandrew-me",
             "repo": "tgpt",
-            "stars": 3237
+            "stars": 3242
           }
         },
         {
@@ -66,6 +66,20 @@
         },
         {
           "node_type": "item",
+          "title": "agent-manager",
+          "description": "tmux TUI for Claude Code, Codex, OpenCode, Grok, Gemini CLI, and Pi: live status, a prompt without attaching, and in-terminal diff review. (built with Bubbles, Bubble Tea and Lip Gloss)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T11:20:12Z",
+            "owner": "YoanWai",
+            "repo": "agent-manager",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
           "title": "chatgpt-tui",
           "description": "A TUI for ChatGPT with SQLite sessions. (built with Bubble Tea)",
           "children": [],
@@ -75,7 +89,7 @@
             "last_commit": "2026-07-16T19:31:00Z",
             "owner": "BalanceBalls",
             "repo": "nekot",
-            "stars": 196
+            "stars": 195
           }
         },
         {
@@ -86,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T09:43:47Z",
+            "last_commit": "2026-08-13T15:14:27Z",
             "owner": "Menfre01",
             "repo": "waveloom",
             "stars": 126
@@ -100,7 +114,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T01:07:58Z",
+            "last_commit": "2026-08-13T17:40:54Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
             "stars": 119
@@ -193,7 +207,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 72026
+            "stars": 72021
           }
         },
         {
@@ -246,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T04:36:01Z",
+            "last_commit": "2026-08-14T06:20:57Z",
             "owner": "cloudposse",
             "repo": "atmos",
-            "stars": 1353
+            "stars": 1355
           }
         },
         {
@@ -263,7 +277,7 @@
             "last_commit": "2026-01-02T11:17:40Z",
             "owner": "leg100",
             "repo": "pug",
-            "stars": 690
+            "stars": 691
           }
         },
         {
@@ -496,10 +510,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T13:56:18Z",
+            "last_commit": "2026-08-13T22:37:39Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27429
+            "stars": 27452
           }
         },
         {
@@ -533,7 +547,7 @@
             "last_commit": "2022-06-11T16:15:29Z",
             "owner": "mathaou",
             "repo": "termdbms",
-            "stars": 1816
+            "stars": 1817
           }
         },
         {
@@ -637,7 +651,7 @@
             "last_commit": "2026-08-13T11:19:04Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26853
+            "stars": 26875
           }
         },
         {
@@ -651,7 +665,7 @@
             "last_commit": "2026-08-12T20:41:12Z",
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24220
+            "stars": 24224
           }
         },
         {
@@ -665,7 +679,7 @@
             "last_commit": "2026-08-11T21:08:01Z",
             "owner": "twpayne",
             "repo": "chezmoi",
-            "stars": 21144
+            "stars": 21162
           }
         },
         {
@@ -679,7 +693,7 @@
             "last_commit": "2026-08-12T20:42:49Z",
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7143
+            "stars": 7152
           }
         },
         {
@@ -693,7 +707,7 @@
             "last_commit": "2026-08-12T21:02:17Z",
             "owner": "charmbracelet",
             "repo": "huh",
-            "stars": 7100
+            "stars": 7104
           }
         },
         {
@@ -735,7 +749,7 @@
             "last_commit": "2026-08-10T00:58:50Z",
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2161
+            "stars": 2162
           }
         },
         {
@@ -791,7 +805,7 @@
             "last_commit": "2026-04-03T09:38:42Z",
             "owner": "stefanlogue",
             "repo": "meteor",
-            "stars": 434
+            "stars": 435
           }
         },
         {
@@ -1110,7 +1124,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T00:13:18Z",
+            "last_commit": "2026-08-14T00:13:03Z",
             "owner": "nobe4",
             "repo": "gh-not",
             "stars": 32
@@ -1342,6 +1356,20 @@
         },
         {
           "node_type": "item",
+          "title": "sf-deck",
+          "description": "A keyboard-first Salesforce workspace for browsing multiple orgs, metadata, records, code, permissions, SOQL, and deployments. (built with Bubble Tea, Bubbles, and Lip Gloss)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:15:57Z",
+            "owner": "Jacob-Stokes",
+            "repo": "sf-deck",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "fenics-tui",
           "description": "Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.",
           "children": [],
@@ -1353,12 +1381,6 @@
             "repo": "fenics-tui",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "sf-deck",
-          "description": "A keyboard-first Salesforce workspace for browsing multiple orgs, metadata, records, code, permissions, SOQL, and deployments. (built with Bubble Tea, Bubbles, and Lip Gloss)",
-          "children": []
         }
       ],
       "title": "Development Tools"
@@ -1377,7 +1399,7 @@
             "last_commit": "2026-08-11T23:39:36Z",
             "owner": "yorukot",
             "repo": "superfile",
-            "stars": 22468
+            "stars": 22508
           }
         },
         {
@@ -1391,7 +1413,7 @@
             "last_commit": "2026-01-06T09:07:56Z",
             "owner": "antonmedv",
             "repo": "walk",
-            "stars": 3632
+            "stars": 3634
           }
         },
         {
@@ -1481,7 +1503,7 @@
             "last_commit": "2025-03-28T19:05:44Z",
             "owner": "ajeetdsouza",
             "repo": "clidle",
-            "stars": 631
+            "stars": 632
           }
         },
         {
@@ -1492,10 +1514,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T20:04:30Z",
+            "last_commit": "2026-08-14T00:04:35Z",
             "owner": "gabe565",
             "repo": "ascii-movie",
-            "stars": 609
+            "stars": 611
           }
         },
         {
@@ -1646,7 +1668,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T21:50:41Z",
+            "last_commit": "2026-08-14T04:16:13Z",
             "owner": "gabe565",
             "repo": "cli-of-life",
             "stars": 22
@@ -1786,7 +1808,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T20:44:53Z",
+            "last_commit": "2026-08-13T21:42:35Z",
             "owner": "BosBJJ",
             "repo": "hjkl-hero",
             "stars": 1
@@ -1995,7 +2017,7 @@
             "last_commit": "2024-08-20T14:40:18Z",
             "owner": "SpatiumPortae",
             "repo": "portal",
-            "stars": 1762
+            "stars": 1763
           }
         },
         {
@@ -2034,10 +2056,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T01:05:49Z",
+            "last_commit": "2026-08-14T04:03:46Z",
             "owner": "heymaikol",
             "repo": "network-doctor",
-            "stars": 228
+            "stars": 232
           }
         },
         {
@@ -2062,7 +2084,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T10:49:07Z",
+            "last_commit": "2026-08-14T08:37:40Z",
             "owner": "jonathandeamer",
             "repo": "lookit",
             "stars": 1
@@ -2099,7 +2121,7 @@
             "last_commit": "2026-06-28T21:50:24Z",
             "owner": "achannarasappa",
             "repo": "ticker",
-            "stars": 6188
+            "stars": 6196
           }
         },
         {
@@ -2250,7 +2272,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T11:08:11Z",
+            "last_commit": "2026-08-14T06:41:07Z",
             "owner": "dhth",
             "repo": "punchout",
             "stars": 28
@@ -2295,7 +2317,7 @@
             "last_commit": "2026-08-13T07:30:32Z",
             "owner": "scaccogatto",
             "repo": "nastro",
-            "stars": 14
+            "stars": 18
           }
         },
         {
@@ -2357,7 +2379,7 @@
             "last_commit": "2026-08-10T10:47:32Z",
             "owner": "bensadeh",
             "repo": "circumflex",
-            "stars": 2053
+            "stars": 2054
           }
         },
         {
@@ -2371,7 +2393,7 @@
             "last_commit": "2026-07-08T19:07:13Z",
             "owner": "guyfedwards",
             "repo": "nom",
-            "stars": 738
+            "stars": 739
           }
         },
         {
@@ -2475,7 +2497,7 @@
             "last_commit": "2026-02-23T12:02:41Z",
             "owner": "jon4hz",
             "repo": "fztea",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -2635,9 +2657,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:25:50.854Z",
+    "last_updated": "2026-08-14T11:24:12.277Z",
     "original_repository": "charm-and-friends/charm-in-the-wild",
-    "original_repository_sha": "a34ab1fe742dba86fa80e8c2bd48ae73b9557f08",
+    "original_repository_sha": "aed1b1532f41380d079b07418a8d76b5a421a3ea",
     "enhanced_repository": "enhansome/enhansome-charm-in-the-wild",
     "enhanced_repository_description": null,
     "title": "Awesome Charm In The Wild with stars"
