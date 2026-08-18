@@ -19,7 +19,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15589
+            "stars": 15588
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T10:20:21Z",
+            "last_commit": "2026-08-18T10:56:12Z",
             "owner": "aandrew-me",
             "repo": "tgpt",
-            "stars": 3246
+            "stars": 3245
           }
         },
         {
@@ -72,10 +72,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T23:03:17Z",
+            "last_commit": "2026-08-18T10:51:04Z",
             "owner": "YoanWai",
             "repo": "agent-manager",
-            "stars": 325
+            "stars": 333
           }
         },
         {
@@ -100,10 +100,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T03:04:54Z",
+            "last_commit": "2026-08-18T02:33:40Z",
             "owner": "Menfre01",
             "repo": "waveloom",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-17T01:11:50Z",
             "owner": "luoyuctl",
             "repo": "agenttrace",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -142,10 +142,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T03:25:24Z",
+            "last_commit": "2026-08-17T21:23:48Z",
             "owner": "aytzey",
             "repo": "showagent",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-07-24T07:12:07Z",
             "owner": "daytonaio",
             "repo": "daytona",
-            "stars": 71985
+            "stars": 71973
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-07-25T04:11:08Z",
             "owner": "Azure",
             "repo": "aztfexport",
-            "stars": 1905
+            "stars": 1906
           }
         },
         {
@@ -246,7 +246,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-07-27T19:55:52Z",
+            "last_commit": "2026-08-17T20:17:40Z",
             "owner": "awslabs",
             "repo": "eks-node-viewer",
             "stars": 1634
@@ -260,7 +260,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T02:13:13Z",
+            "last_commit": "2026-08-18T10:51:04Z",
             "owner": "cloudposse",
             "repo": "atmos",
             "stars": 1355
@@ -510,10 +510,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T18:09:53Z",
+            "last_commit": "2026-08-18T10:39:32Z",
             "owner": "trufflesecurity",
             "repo": "trufflehog",
-            "stars": 27493
+            "stars": 27503
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26917
+            "stars": 26934
           }
         },
         {
@@ -662,10 +662,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T20:41:12Z",
+            "last_commit": "2026-08-17T21:08:33Z",
             "owner": "charmbracelet",
             "repo": "gum",
-            "stars": 24239
+            "stars": 24245
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2026-08-16T17:37:49Z",
             "owner": "twpayne",
             "repo": "chezmoi",
-            "stars": 21187
+            "stars": 21202
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-12T20:42:49Z",
             "owner": "charmbracelet",
             "repo": "soft-serve",
-            "stars": 7164
+            "stars": 7178
           }
         },
         {
@@ -707,7 +707,7 @@
             "last_commit": "2026-08-12T21:02:17Z",
             "owner": "charmbracelet",
             "repo": "huh",
-            "stars": 7106
+            "stars": 7109
           }
         },
         {
@@ -749,7 +749,7 @@
             "last_commit": "2026-08-17T00:56:35Z",
             "owner": "Zxilly",
             "repo": "go-size-analyzer",
-            "stars": 2164
+            "stars": 2165
           }
         },
         {
@@ -763,7 +763,7 @@
             "last_commit": "2025-12-25T11:11:01Z",
             "owner": "abhimanyu003",
             "repo": "sttr",
-            "stars": 1339
+            "stars": 1340
           }
         },
         {
@@ -872,7 +872,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T07:38:26Z",
+            "last_commit": "2026-08-18T04:50:15Z",
             "owner": "hedhyw",
             "repo": "json-log-viewer",
             "stars": 232
@@ -973,7 +973,7 @@
             "last_commit": "2026-08-16T03:46:31Z",
             "owner": "gitsocial-org",
             "repo": "gitsocial",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -1104,6 +1104,20 @@
         },
         {
           "node_type": "item",
+          "title": "gh-not",
+          "description": "GitHub rule-based notifications management. (built with Bubble Tea)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-18T00:04:07Z",
+            "owner": "nobe4",
+            "repo": "gh-not",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
           "title": "campfire",
           "description": "Cozy up to your logs with realtime updating and filtering by both level and substring. (built with Bubble Tea and Lip Gloss)",
           "children": [],
@@ -1113,20 +1127,6 @@
             "last_commit": "2025-08-08T12:17:55Z",
             "owner": "DaltonSW",
             "repo": "campfire",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gh-not",
-          "description": "GitHub rule-based notifications management. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T00:03:41Z",
-            "owner": "nobe4",
-            "repo": "gh-not",
             "stars": 32
           }
         },
@@ -1226,6 +1226,20 @@
             "owner": "songlim327",
             "repo": "mpwt",
             "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revision",
+          "description": "A lazygit-inspired, fast, keyboard-driven TUI for SVN. (built with Bubble Tea, Bubbles, and Lip Gloss)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-18T04:21:17Z",
+            "owner": "bapatchirag",
+            "repo": "revision",
+            "stars": 4
           }
         },
         {
@@ -1362,7 +1376,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:55:20Z",
+            "last_commit": "2026-08-17T23:24:35Z",
             "owner": "Jacob-Stokes",
             "repo": "sf-deck",
             "stars": 0
@@ -1399,7 +1413,7 @@
             "last_commit": "2026-08-15T10:42:34Z",
             "owner": "yorukot",
             "repo": "superfile",
-            "stars": 22577
+            "stars": 22604
           }
         },
         {
@@ -1413,7 +1427,7 @@
             "last_commit": "2026-01-06T09:07:56Z",
             "owner": "antonmedv",
             "repo": "walk",
-            "stars": 3635
+            "stars": 3636
           }
         },
         {
@@ -1514,10 +1528,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T00:04:35Z",
+            "last_commit": "2026-08-17T12:04:14Z",
             "owner": "gabe565",
             "repo": "ascii-movie",
-            "stars": 612
+            "stars": 611
           }
         },
         {
@@ -1668,7 +1682,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T04:16:13Z",
+            "last_commit": "2026-08-17T11:11:52Z",
             "owner": "gabe565",
             "repo": "cli-of-life",
             "stars": 22
@@ -1808,7 +1822,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:42:35Z",
+            "last_commit": "2026-08-17T20:11:49Z",
             "owner": "BosBJJ",
             "repo": "hjkl-hero",
             "stars": 1
@@ -1974,6 +1988,20 @@
         },
         {
           "node_type": "item",
+          "title": "discord-delete",
+          "description": "Bulk-delete your Discord messages and reactions from your data package. (built with Bubble Tea, Bubbles and Lip Gloss)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T14:39:00Z",
+            "owner": "DatCodeMania",
+            "repo": "discord-delete",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "vault",
           "description": "A terminal chat application with file transfer support. (built with Bubble Tea)",
           "children": [],
@@ -1984,20 +2012,6 @@
             "owner": "athulreji",
             "repo": "vault-client",
             "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "discord-delete",
-          "description": "Bulk-delete your Discord messages and reactions from your data package. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-09T14:39:00Z",
-            "owner": "DatCodeMania",
-            "repo": "discord-delete",
-            "stars": 10
           }
         }
       ],
@@ -2056,10 +2070,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T20:37:50Z",
+            "last_commit": "2026-08-18T09:51:45Z",
             "owner": "heymaikol",
             "repo": "network-doctor",
-            "stars": 253
+            "stars": 257
           }
         },
         {
@@ -2084,7 +2098,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T22:14:35Z",
+            "last_commit": "2026-08-18T07:40:16Z",
             "owner": "jonathandeamer",
             "repo": "lookit",
             "stars": 1
@@ -2107,7 +2121,7 @@
             "last_commit": "2026-07-08T18:44:50Z",
             "owner": "maaslalani",
             "repo": "slides",
-            "stars": 11618
+            "stars": 11619
           }
         },
         {
@@ -2121,7 +2135,7 @@
             "last_commit": "2026-06-28T21:50:24Z",
             "owner": "achannarasappa",
             "repo": "ticker",
-            "stars": 6201
+            "stars": 6203
           }
         },
         {
@@ -2294,20 +2308,6 @@
         },
         {
           "node_type": "item",
-          "title": "typist",
-          "description": "A cross platform typing application built for users to master speed and syntax. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-24T20:20:49Z",
-            "owner": "chuma-beep",
-            "repo": "typist",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
           "title": "nastro",
           "description": "Terminal call recorder for macOS: records system audio + mic (no bot joins the call), transcribes on-device with speaker diarization. TUI + headless CLI. (built with Bubble Tea)",
           "children": [],
@@ -2317,6 +2317,20 @@
             "last_commit": "2026-08-13T07:30:32Z",
             "owner": "scaccogatto",
             "repo": "nastro",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typist",
+          "description": "A cross platform typing application built for users to master speed and syntax. (built with Bubble Tea)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-24T20:20:49Z",
+            "owner": "chuma-beep",
+            "repo": "typist",
             "stars": 20
           }
         },
@@ -2376,10 +2390,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T09:03:12Z",
+            "last_commit": "2026-08-17T11:36:50Z",
             "owner": "bensadeh",
             "repo": "circumflex",
-            "stars": 2054
+            "stars": 2058
           }
         },
         {
@@ -2573,7 +2587,7 @@
             "last_commit": "2026-07-10T11:12:53Z",
             "owner": "TheYahya",
             "repo": "enola",
-            "stars": 865
+            "stars": 867
           }
         },
         {
@@ -2657,9 +2671,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:00:22.584Z",
+    "last_updated": "2026-08-18T11:00:04.957Z",
     "original_repository": "charm-and-friends/charm-in-the-wild",
-    "original_repository_sha": "aed1b1532f41380d079b07418a8d76b5a421a3ea",
+    "original_repository_sha": "4234dd2fbdff216dbb24a5e80011c4cd3e0f1502",
     "enhanced_repository": "enhansome/enhansome-charm-in-the-wild",
     "enhanced_repository_description": null,
     "title": "Awesome Charm In The Wild with stars"
