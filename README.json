@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 1276660664,
                 "language": "Go",
-                "last_commit": "2026-08-18T19:00:42Z",
+                "last_commit": "2026-08-19T11:58:58Z",
                 "owner": "aytzey",
                 "repo": "showagent",
                 "stars": 45
@@ -705,7 +705,7 @@
                 "last_commit": "2026-08-16T00:02:03Z",
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 26948
+                "stars": 26949
               }
             },
             {
@@ -1200,7 +1200,7 @@
                 "last_commit": "2026-08-19T00:03:59Z",
                 "owner": "nobe4",
                 "repo": "gh-not",
-                "stars": 34
+                "stars": 35
               }
             },
             {
@@ -1332,7 +1332,7 @@
                 "archived": false,
                 "id": 1308511746,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:19:00Z",
+                "last_commit": "2026-08-19T12:06:30Z",
                 "owner": "bapatchirag",
                 "repo": "revision",
                 "stars": 4
@@ -1522,7 +1522,7 @@
                 "last_commit": "2026-08-15T10:42:34Z",
                 "owner": "yorukot",
                 "repo": "superfile",
-                "stars": 22632
+                "stars": 22635
               }
             },
             {
@@ -1646,7 +1646,7 @@
                 "archived": false,
                 "id": 541960471,
                 "language": "Go",
-                "last_commit": "2026-08-17T12:04:14Z",
+                "last_commit": "2026-08-19T12:04:42Z",
                 "owner": "gabe565",
                 "repo": "ascii-movie",
                 "stars": 611
@@ -2259,7 +2259,7 @@
                 "archived": false,
                 "id": 1253565816,
                 "language": "Go",
-                "last_commit": "2026-08-18T17:00:28Z",
+                "last_commit": "2026-08-19T11:42:21Z",
                 "owner": "jonathandeamer",
                 "repo": "lookit",
                 "stars": 4
@@ -2880,8 +2880,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:59:15.258Z",
+    "last_updated": "2026-08-19T12:18:13.139Z",
     "original_repository": "charm-and-friends/charm-in-the-wild",
+    "original_repository_id": 808303530,
     "original_repository_sha": "f087a1f00942457d88b09256315b3e0aca6e34a5",
     "enhanced_repository": "enhansome/enhansome-charm-in-the-wild",
     "enhanced_repository_description": null,
