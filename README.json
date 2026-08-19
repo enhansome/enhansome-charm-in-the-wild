@@ -1,2679 +1,2888 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Plandex",
+              "description": "A terminal-based AI coding engine for complex tasks. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 709538270,
+                "language": "Go",
+                "last_commit": "2025-10-03T21:49:58Z",
+                "owner": "plandex-ai",
+                "repo": "plandex",
+                "stars": 15588
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mods",
+              "description": "AI on the CLI, built for pipelines. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 620999276,
+                "language": "Go",
+                "last_commit": "2026-03-09T15:06:08Z",
+                "owner": "charmbracelet",
+                "repo": "mods",
+                "stars": 4526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tgpt",
+              "description": "Conversational AI for the CLI; no API keys necessary. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629049442,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:40:08Z",
+                "owner": "aandrew-me",
+                "repo": "tgpt",
+                "stars": 3246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chatgpt-cli",
+              "description": "A CLI for ChatGPT. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608593901,
+                "language": "Go",
+                "last_commit": "2026-03-09T13:56:47Z",
+                "owner": "j178",
+                "repo": "chatgpt",
+                "stars": 782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agent-manager",
+              "description": "tmux TUI for Claude Code, Codex, OpenCode, Grok, Gemini CLI, and Pi: live status, a prompt without attaching, and in-terminal diff review. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301824521,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:15:00Z",
+                "owner": "YoanWai",
+                "repo": "agent-manager",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chatgpt-tui",
+              "description": "A TUI for ChatGPT with SQLite sessions. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 720932048,
+                "language": "Go",
+                "last_commit": "2026-07-16T19:31:00Z",
+                "owner": "BalanceBalls",
+                "repo": "nekot",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Waveloom",
+              "description": "A DeepSeek-native terminal coding agent with prefix-cache architecture, Think-Act-Observe loop, and Claude Code-level TUI. (built with Bubble Tea, Glamour, and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1278881844,
+                "language": "Go",
+                "last_commit": "2026-08-18T02:33:40Z",
+                "owner": "Menfre01",
+                "repo": "waveloom",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "agenttrace",
+              "description": "TUI observability for AI coding-agent sessions. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1226187070,
+                "language": "Rust",
+                "last_commit": "2026-08-17T01:11:50Z",
+                "owner": "luoyuctl",
+                "repo": "agenttrace",
+                "stars": 121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPTUI",
+              "description": "A TUI for ChatGPT. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622605657,
+                "language": "Go",
+                "last_commit": "2023-04-03T09:29:27Z",
+                "owner": "dwisiswant0",
+                "repo": "chatgptui",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keen Code",
+              "description": "A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits. (built with Bubbles, Bubble Tea, Glamour, Lip Gloss, and Ultraviolet)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1158827208,
+                "language": "Go",
+                "last_commit": "2026-08-17T20:47:18Z",
+                "owner": "mochow13",
+                "repo": "keen-code",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "showagent",
+              "description": "Browse, search, resume, branch, and convert local AI coding-agent sessions from one TUI. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276660664,
+                "language": "Go",
+                "last_commit": "2026-08-18T19:00:42Z",
+                "owner": "aytzey",
+                "repo": "showagent",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vyai",
+              "description": "A lightweight CLI tool to interact with the Gemini API from the terminal. (built with Bubble Tea, Lip Gloss, Glamour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 930963858,
+                "language": "Go",
+                "last_commit": "2026-07-22T11:53:51Z",
+                "owner": "vybraan",
+                "repo": "vyai",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clawchat-cli",
+              "description": "A CLI chat client for OpenClaw Gateway and Ollama models. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168068058,
+                "language": "Go",
+                "last_commit": "2026-03-19T02:09:37Z",
+                "owner": "ngmaloney",
+                "repo": "clawchat-cli",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clipt",
+              "description": "Chat TUI go module for your agents and LLMs. (built with Bubble Tea, Lip Gloss, Glamour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 791909403,
+                "language": "Go",
+                "last_commit": "2026-07-02T22:14:31Z",
+                "owner": "Struki84",
+                "repo": "clipt",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Daytona",
+              "description": "An development environment manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 753490180,
+                "language": null,
+                "last_commit": "2026-07-24T07:12:07Z",
+                "owner": "daytonaio",
+                "repo": "daytona",
+                "stars": 71966
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mc",
+              "description": "The official MinIO client. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 29329884,
+                "language": "Go",
+                "last_commit": "2025-11-20T03:07:53Z",
+                "owner": "minio",
+                "repo": "mc",
+                "stars": 3523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aztify",
+              "description": "Bring Microsoft Azure resources under Terraform. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395943715,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:17:28Z",
+                "owner": "Azure",
+                "repo": "aztfexport",
+                "stars": 1908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eks-node-viewer",
+              "description": "A tool for visualizing dynamic node usage within an EKS cluster. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575555632,
+                "language": "Go",
+                "last_commit": "2026-08-18T13:51:23Z",
+                "owner": "awslabs",
+                "repo": "eks-node-viewer",
+                "stars": 1634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atmos",
+              "description": "Terraform orchestration tool for DevOps. (built with Bubble Tea, Lip Gloss, Glamour, Log, and Huh)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292427680,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:46:39Z",
+                "owner": "cloudposse",
+                "repo": "atmos",
+                "stars": 1355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pug",
+              "description": "Terraform task manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739703271,
+                "language": "Go",
+                "last_commit": "2026-01-02T11:17:40Z",
+                "owner": "leg100",
+                "repo": "pug",
+                "stars": 693
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wander",
+              "description": "A HashiCorp Nomad terminal client. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481096696,
+                "language": "Go",
+                "last_commit": "2024-06-18T23:55:45Z",
+                "owner": "robinovitch61",
+                "repo": "wander",
+                "stars": 480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "container-canary",
+              "description": "A container validator. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470275149,
+                "language": "Go",
+                "last_commit": "2026-08-18T15:00:40Z",
+                "owner": "NVIDIA",
+                "repo": "container-canary",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StormForge Optimize Controller",
+              "description": "A tool for experimenting with application configurations in Kubernetes. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 186039645,
+                "language": "Go",
+                "last_commit": "2023-01-13T16:17:19Z",
+                "owner": "thestormforge",
+                "repo": "optimize-controller",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cueitup",
+              "description": "Inspect messages in an AWS SQS queue in a simple and deliberate manner. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767414170,
+                "language": "Go",
+                "last_commit": "2026-06-08T00:43:26Z",
+                "owner": "dhth",
+                "repo": "cueitup",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "laboon",
+              "description": "A Docker-desktop-style container manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763647286,
+                "language": "Go",
+                "last_commit": "2024-03-08T07:23:04Z",
+                "owner": "arisnacg",
+                "repo": "laboon",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kplay",
+              "description": "Inspect messages in a Kafka topic. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766324160,
+                "language": "Go",
+                "last_commit": "2026-06-09T06:28:28Z",
+                "owner": "dhth",
+                "repo": "kplay",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dns53",
+              "description": "Dynamic DNS with Amazon Route53; expose your EC2 quickly, securely and privately. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 502261952,
+                "language": "Go",
+                "last_commit": "2024-04-19T12:14:33Z",
+                "owner": "purpleclay",
+                "repo": "dns53",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "docker-dash",
+              "description": "A tool for managing Docker resources from the comfort of your terminal. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1153054585,
+                "language": "Go",
+                "last_commit": "2026-08-19T05:59:34Z",
+                "owner": "GustavoCaso",
+                "repo": "docker-dash",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "outtasync",
+              "description": "Identify CloudFormation stacks that are out of sync with their template files. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765970215,
+                "language": "Go",
+                "last_commit": "2026-06-09T06:28:28Z",
+                "owner": "dhth",
+                "repo": "outtasync",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PassDIY",
+              "description": "A TUI for password management on HashiCorp Vault. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 871807948,
+                "language": "Go",
+                "last_commit": "2025-11-20T01:34:54Z",
+                "owner": "jalpp",
+                "repo": "PassDIY",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kbu",
+              "description": "A single-pane Kubernetes TUI — Tab / Space / Enter / Esc drive everything, with Relatives navigation, YAML compare, and an embedded shell. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1239407490,
+                "language": "Go",
+                "last_commit": "2026-08-18T14:28:19Z",
+                "owner": "vulcanshen",
+                "repo": "kbu",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lazygcs",
+              "description": "A fast, keyboard-driven TUI for exploring and managing Google Cloud Storage (GCS). (built with Bubbles, Bubble Tea, Glamour and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170889200,
+                "language": "Go",
+                "last_commit": "2026-03-31T13:38:22Z",
+                "owner": "idan-at",
+                "repo": "lazygcs",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "superdive",
+              "description": "A tool for exploring each layer in a Docker image. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136293434,
+                "language": "Go",
+                "last_commit": "2026-02-03T06:40:21Z",
+                "owner": "dukaev",
+                "repo": "superdive",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Provider Explorer",
+              "description": "A Terraform Provider Schema Explorer. (built with Bubble Tea, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1034603898,
+                "language": "Go",
+                "last_commit": "2025-08-10T03:48:10Z",
+                "owner": "TerraConstructs",
+                "repo": "provider-explorer",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dstroman",
+              "description": "Docker object storage handler and manipulator. (built with Gum)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 936877914,
+                "language": "Shell",
+                "last_commit": "2025-12-28T15:33:26Z",
+                "owner": "hackctl",
+                "repo": "dstroman",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud and DevOps"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Trufflehog",
+              "description": "Find leaked credentials. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77726177,
+                "language": "Go",
+                "last_commit": "2026-08-18T21:51:06Z",
+                "owner": "trufflesecurity",
+                "repo": "trufflehog",
+                "stars": 27521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WG Commander",
+              "description": "A TUI for a simple WireGuard VPN setup. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587747920,
+                "language": "Go",
+                "last_commit": "2026-07-07T10:11:51Z",
+                "owner": "AndrianBdn",
+                "repo": "wg-cmd",
+                "stars": 223
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cyber Security (built with Bubble Tea)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "termdbms",
+              "description": "A keyboard and mouse driven database browser. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 402455845,
+                "language": "Go",
+                "last_commit": "2022-06-11T16:15:29Z",
+                "owner": "mathaou",
+                "repo": "termdbms",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redis-viewer",
+              "description": "A Redis database browser. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456796243,
+                "language": "Go",
+                "last_commit": "2026-07-04T02:32:29Z",
+                "owner": "saltfishpr",
+                "repo": "redis-viewer",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redis_tui",
+              "description": "A Redis database browser. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 701347961,
+                "language": "Go",
+                "last_commit": "2025-04-20T16:47:28Z",
+                "owner": "mat2cc",
+                "repo": "redis_tui",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pgxcli",
+              "description": "Postgres CLI with autocompletion and syntax highlighting. (built with Bubble Tea, Lip Gloss, Huh)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1103082049,
+                "language": "Go",
+                "last_commit": "2026-08-19T04:11:38Z",
+                "owner": "balajz",
+                "repo": "pgxcli",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "qrypad",
+              "description": "A terminal SQL client for Postgres, MySQL and SQLite. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 821483237,
+                "language": "Go",
+                "last_commit": "2026-07-23T21:27:01Z",
+                "owner": "wheelibin",
+                "repo": "qrypad",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chtop",
+              "description": "Monitor your ClickHouse node without leaving the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 582706245,
+                "language": "Go",
+                "last_commit": "2024-05-24T12:55:49Z",
+                "owner": "chhetripradeep",
+                "repo": "chtop",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "schemas",
+              "description": "Lets you inspect PostgreSQL schemas in the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775182659,
+                "language": "Go",
+                "last_commit": "2026-06-07T23:41:31Z",
+                "owner": "dhth",
+                "repo": "schemas",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Glow",
+              "description": "A markdown reader, browser, and online markdown stash. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 219616873,
+                "language": "Go",
+                "last_commit": "2026-08-16T00:02:03Z",
+                "owner": "charmbracelet",
+                "repo": "glow",
+                "stars": 26948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gum",
+              "description": "Interactivity and styling for shells and shell scripts. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 502193049,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:11:15Z",
+                "owner": "charmbracelet",
+                "repo": "gum",
+                "stars": 24252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chezmoi",
+              "description": "Securely manage your dotfiles across multiple machines. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157245200,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:14:36Z",
+                "owner": "twpayne",
+                "repo": "chezmoi",
+                "stars": 21215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Soft Serve",
+              "description": "A command-line-first Git server that runs a TUI over SSH. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391209033,
+                "language": "Go",
+                "last_commit": "2026-08-12T20:42:49Z",
+                "owner": "charmbracelet",
+                "repo": "soft-serve",
+                "stars": 7181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Huh?",
+              "description": "An interactive prompt and form toolkit. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703663547,
+                "language": "Go",
+                "last_commit": "2026-08-12T21:02:17Z",
+                "owner": "charmbracelet",
+                "repo": "huh",
+                "stars": 7110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hiSHtory",
+              "description": "Your shell history in context: synced, and queryable. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446655824,
+                "language": "Go",
+                "last_commit": "2026-03-18T23:18:46Z",
+                "owner": "ddworken",
+                "repo": "hishtory",
+                "stars": 3108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "charm",
+              "description": "The official Charm user account manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 236106066,
+                "language": "Go",
+                "last_commit": "2025-03-06T13:39:14Z",
+                "owner": "charmbracelet",
+                "repo": "charm",
+                "stars": 2493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-size-analyzer",
+              "description": "Explore the dependency size of your golang binary in the terminal. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609147387,
+                "language": "Go",
+                "last_commit": "2026-08-17T00:56:35Z",
+                "owner": "Zxilly",
+                "repo": "go-size-analyzer",
+                "stars": 2165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sttr",
+              "description": "A general-purpose text transformer. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 407875512,
+                "language": "Go",
+                "last_commit": "2025-12-25T11:11:01Z",
+                "owner": "abhimanyu003",
+                "repo": "sttr",
+                "stars": 1341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mergestat",
+              "description": "Run SQL queries on Git repositories. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 462355543,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T07:56:03Z",
+                "owner": "mergestat",
+                "repo": "mergestat",
+                "stars": 541
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gama",
+              "description": "Manage GitHub Actions from the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725731033,
+                "language": "Go",
+                "last_commit": "2025-11-08T08:37:03Z",
+                "owner": "termkit",
+                "repo": "gama",
+                "stars": 482
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meteor",
+              "description": "A highly customizable conventional commit message tool. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714457662,
+                "language": "Go",
+                "last_commit": "2026-04-03T09:38:42Z",
+                "owner": "stefanlogue",
+                "repo": "meteor",
+                "stars": 435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gocovsh",
+              "description": "Explore Go coverage reports from the CLI. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 453526680,
+                "language": "Go",
+                "last_commit": "2025-12-05T14:03:52Z",
+                "owner": "orlangure",
+                "repo": "gocovsh",
+                "stars": 387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fork-cleaner",
+              "description": "Clean up old and inactive forks in your GitHub account. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 70362025,
+                "language": "Go",
+                "last_commit": "2026-07-07T02:29:47Z",
+                "owner": "caarlos0",
+                "repo": "fork-cleaner",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trainer",
+              "description": "A Go concurrency coding interview simulator with learning materials. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683025770,
+                "language": "Go",
+                "last_commit": "2025-01-20T09:04:52Z",
+                "owner": "rusinikita",
+                "repo": "trainer",
+                "stars": 310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "httpit",
+              "description": "A rapid http(s) benchmark tool. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342758643,
+                "language": "Go",
+                "last_commit": "2023-03-16T02:57:25Z",
+                "owner": "gonetx",
+                "repo": "httpit",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "json-log-viewer",
+              "description": "An interactive JSON log viewer. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 669762612,
+                "language": "Go",
+                "last_commit": "2026-08-18T04:50:15Z",
+                "owner": "hedhyw",
+                "repo": "json-log-viewer",
+                "stars": 232
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gitflow-toolkit",
+              "description": "A GitFlow submission tool. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123890578,
+                "language": "Go",
+                "last_commit": "2026-03-10T09:19:26Z",
+                "owner": "mritd",
+                "repo": "gitflow-toolkit",
+                "stars": 230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prs",
+              "description": "Stay up to date with your PRs. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779329820,
+                "language": "Go",
+                "last_commit": "2026-06-08T17:48:15Z",
+                "owner": "dhth",
+                "repo": "prs",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mdtt",
+              "description": "A TUI for editing markdown tables. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758887125,
+                "language": "Go",
+                "last_commit": "2025-05-19T10:00:28Z",
+                "owner": "szktkfm",
+                "repo": "mdtt",
+                "stars": 161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pathos",
+              "description": "A PATH environment variable editor. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509548307,
+                "language": "Go",
+                "last_commit": "2026-02-01T17:41:47Z",
+                "owner": "chip",
+                "repo": "pathos",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flow",
+              "description": "Customizable and interactive task runner / manager. (built with Bubble Tea, Glamour, and Log)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672419907,
+                "language": "Go",
+                "last_commit": "2026-08-07T16:27:53Z",
+                "owner": "flowexec",
+                "repo": "flow",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ditto",
+              "description": "A system-wide ASCII keyboard visualizer and keycaster. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1265828131,
+                "language": "Go",
+                "last_commit": "2026-08-02T11:00:48Z",
+                "owner": "arvingarciabtw",
+                "repo": "ditto",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitSocial",
+              "description": "Git-native cross-forge collaboration: posts, issues, PRs, releases, all in your repo. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1084535317,
+                "language": "Go",
+                "last_commit": "2026-08-16T03:46:31Z",
+                "owner": "gitsocial-org",
+                "repo": "gitsocial",
+                "stars": 119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CRT",
+              "description": "A simple terminal emulator for running Bubble Tea in a dedicated window, with optional shaders. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639753998,
+                "language": "Go",
+                "last_commit": "2024-05-09T17:55:10Z",
+                "owner": "BigJk",
+                "repo": "crt",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prism",
+              "description": "Make your unit testing downright beautiful. (built with Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1062893910,
+                "language": "Go",
+                "last_commit": "2026-07-08T22:34:08Z",
+                "owner": "DaltonSW",
+                "repo": "prism",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "termpicker",
+              "description": "A colorpicker for your terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 893248617,
+                "language": "Go",
+                "last_commit": "2026-06-24T20:35:48Z",
+                "owner": "ChausseBenjamin",
+                "repo": "termpicker",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brows",
+              "description": "A GitHub release browser. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577643654,
+                "language": "Go",
+                "last_commit": "2026-06-01T14:33:35Z",
+                "owner": "rubysolo",
+                "repo": "brows",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mult",
+              "description": "Run a command multiple times and glance at the outputs via a TUI. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793751148,
+                "language": "Go",
+                "last_commit": "2026-08-16T08:59:45Z",
+                "owner": "dhth",
+                "repo": "mult",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gh-b",
+              "description": "A GitHub CLI extension for managing branches. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464208375,
+                "language": "Go",
+                "last_commit": "2025-04-12T15:08:12Z",
+                "owner": "joaom00",
+                "repo": "gh-b",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skeleton",
+              "description": "A TUI multi-tab library based on Bubble Tea framework. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820599589,
+                "language": "Go",
+                "last_commit": "2026-07-03T15:13:39Z",
+                "owner": "termkit",
+                "repo": "skeleton",
+                "stars": 65
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tapioca",
+              "description": "Floating progress bar compatible with any loggers that you might use. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685603209,
+                "language": "Go",
+                "last_commit": "2024-07-30T06:29:56Z",
+                "owner": "charm-and-friends",
+                "repo": "tapioca",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AT CLI",
+              "description": "Execute AT Commands via serial port connections. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 388939650,
+                "language": "Go",
+                "last_commit": "2021-07-26T19:46:14Z",
+                "owner": "khaapamyaki",
+                "repo": "at_cli",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gh-not",
+              "description": "GitHub rule-based notifications management. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 800898004,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:03:59Z",
+                "owner": "nobe4",
+                "repo": "gh-not",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "campfire",
+              "description": "Cozy up to your logs with realtime updating and filtering by both level and substring. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1031564923,
+                "language": "Go",
+                "last_commit": "2025-08-08T12:17:55Z",
+                "owner": "DaltonSW",
+                "repo": "campfire",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SQ",
+              "description": "A keyboard-first SQL TUI built for VIM users. (built with Bubble Tea, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1117963653,
+                "language": "Go",
+                "last_commit": "2026-02-25T08:19:26Z",
+                "owner": "sheenazien8",
+                "repo": "sq",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ube",
+              "description": "A lines of code counter. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778403692,
+                "language": "Go",
+                "last_commit": "2024-07-28T22:46:07Z",
+                "owner": "ramirezfernando",
+                "repo": "ube",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gith",
+              "description": "A simple TUI Git helper for reoccuring tasks (Catppuccin theme). (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1025718567,
+                "language": "Go",
+                "last_commit": "2025-10-21T07:52:31Z",
+                "owner": "a3chron",
+                "repo": "gith",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Storydb",
+              "description": "An improved bash/zsh-style ctrl+r command history finder. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643763995,
+                "language": "Go",
+                "last_commit": "2025-04-17T05:31:09Z",
+                "owner": "grrlopes",
+                "repo": "storydb",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "startpoint",
+              "description": "A TUI/CLI tool for managing and scripting HTTP/RESTful requests. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 688884476,
+                "language": "Go",
+                "last_commit": "2025-03-07T08:17:00Z",
+                "owner": "susiteemu",
+                "repo": "startpoint",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tea-dash",
+              "description": "A gh-dash-style dashboard for Gitea and Forgejo: PRs, issues, notifications, and CI runs. (built with Bubble Tea, Bubbles, Lip Gloss and Glamour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1285935075,
+                "language": "Go",
+                "last_commit": "2026-08-17T01:27:56Z",
+                "owner": "gbarany",
+                "repo": "tea-dash",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mpwt",
+              "description": "A TUI tool transforming Windows Terminal experience by splitting multi commands into organized panes. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 856859490,
+                "language": "Go",
+                "last_commit": "2026-04-07T03:28:02Z",
+                "owner": "songlim327",
+                "repo": "mpwt",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "revision",
+              "description": "A lazygit-inspired, fast, keyboard-driven TUI for SVN. (built with Bubble Tea, Bubbles, and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1308511746,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:19:00Z",
+                "owner": "bapatchirag",
+                "repo": "revision",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kue",
+              "description": "A management interface for working wuth Amazon Web Services Simple Queue Services. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937318131,
+                "language": "Go",
+                "last_commit": "2026-05-28T18:32:57Z",
+                "owner": "kontrolplane",
+                "repo": "kue",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hanchond",
+              "description": "Web3 network manager with a Terminal Block Explorer. (Bubble Tea, Lip Gloss, Glamour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 834246236,
+                "language": "Go",
+                "last_commit": "2025-01-10T10:31:59Z",
+                "owner": "hanchon",
+                "repo": "hanchond",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "adotop",
+              "description": "Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal. (built with Bubble Tea, Bubbles, Lip Gloss, Glamour, and Chroma)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1223687463,
+                "language": "Go",
+                "last_commit": "2026-07-03T12:10:55Z",
+                "owner": "superyyrrzz",
+                "repo": "adotop",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fuzz.fish",
+              "description": "A Fish shell plugin for fuzzy finding command history, files, Git branches, and worktrees. (built with Bubble Tea, Bubbles, and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1131521215,
+                "language": "Go",
+                "last_commit": "2026-08-12T02:39:20Z",
+                "owner": "jedipunkz",
+                "repo": "fuzz.fish",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grpctui",
+              "description": "A full-screen terminal UI for exploring, calling and debugging gRPC services. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1325318524,
+                "language": "Go",
+                "last_commit": "2026-08-11T06:43:07Z",
+                "owner": "alonshuld",
+                "repo": "grpctui",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "magetui",
+              "description": "A docker buildx-style live progress display for mage builds. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1261534053,
+                "language": "Go",
+                "last_commit": "2026-06-07T15:38:40Z",
+                "owner": "dmotylev",
+                "repo": "magetui",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "prompt-manager",
+              "description": "Manage your prompt templates for all your CLI coding agents. (built with Bubbles and Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1070838995,
+                "language": "Python",
+                "last_commit": "2026-03-15T17:11:14Z",
+                "owner": "nkxxll",
+                "repo": "oneoffprojs",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TermiPOSTMAN",
+              "description": "A beautiful and intuitive Postman-like API testing tool — right in your terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975685159,
+                "language": "Go",
+                "last_commit": "2025-05-13T02:24:18Z",
+                "owner": "Suryakantdsa",
+                "repo": "TermiPOSTMAN",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fifty",
+              "description": "AI catch-up brief from your git history. Like the morning video in 50 First Dates, for your repos. (built with Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273669625,
+                "language": "Go",
+                "last_commit": "2026-06-19T11:58:57Z",
+                "owner": "balgaly",
+                "repo": "50-first-sessions",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sf-deck",
+              "description": "A keyboard-first Salesforce workspace for browsing multiple orgs, metadata, records, code, permissions, SOQL, and deployments. (built with Bubble Tea, Bubbles, and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1323181291,
+                "language": "Go",
+                "last_commit": "2026-08-18T15:52:03Z",
+                "owner": "Jacob-Stokes",
+                "repo": "sf-deck",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fenics-tui",
+              "description": "Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206103960,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-12T15:14:59Z",
+                "owner": "alfenec",
+                "repo": "fenics-tui",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "superfile",
+              "description": "A fancy, modern terminal-based file manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 774468912,
+                "language": "Go",
+                "last_commit": "2026-08-15T10:42:34Z",
+                "owner": "yorukot",
+                "repo": "superfile",
+                "stars": 22632
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "walk",
+              "description": "A terminal navigator. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 436414970,
+                "language": "Go",
+                "last_commit": "2026-01-06T09:07:56Z",
+                "owner": "antonmedv",
+                "repo": "walk",
+                "stars": 3637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fm",
+              "description": "A terminal-based file manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356883757,
+                "language": "Go",
+                "last_commit": "2025-12-30T17:19:36Z",
+                "owner": "mistakenelf",
+                "repo": "fm",
+                "stars": 635
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "diskbloom",
+              "description": "A pastel treemap disk usage analyzer. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1303106579,
+                "language": "Go",
+                "last_commit": "2026-07-16T18:48:28Z",
+                "owner": "Zingzy",
+                "repo": "diskbloom",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "typioca",
+              "description": "A typing test. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473981351,
+                "language": "Go",
+                "last_commit": "2025-03-06T10:52:58Z",
+                "owner": "bloznelis",
+                "repo": "typioca",
+                "stars": 951
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gambit",
+              "description": "Chess in the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434045629,
+                "language": "Go",
+                "last_commit": "2024-01-25T15:00:41Z",
+                "owner": "maaslalani",
+                "repo": "gambit",
+                "stars": 906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tetrigo",
+              "description": "Tetris in your terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717619659,
+                "language": "Go",
+                "last_commit": "2026-04-05T21:51:57Z",
+                "owner": "Broderick-Westrope",
+                "repo": "tetrigo",
+                "stars": 683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clidle",
+              "description": "A Wordle clone. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454585938,
+                "language": "Go",
+                "last_commit": "2025-03-28T19:05:44Z",
+                "owner": "ajeetdsouza",
+                "repo": "clidle",
+                "stars": 633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ASCII Movie",
+              "description": "A Star Wars ASCII art movie player. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 541960471,
+                "language": "Go",
+                "last_commit": "2026-08-17T12:04:14Z",
+                "owner": "gabe565",
+                "repo": "ascii-movie",
+                "stars": 611
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Typer",
+              "description": "A typing test. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 347547386,
+                "language": "Go",
+                "last_commit": "2024-05-25T17:30:49Z",
+                "owner": "maaslalani",
+                "repo": "typer",
+                "stars": 501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "solitaire-tui",
+              "description": "Klondike Solitaire for the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 584630595,
+                "language": "Go",
+                "last_commit": "2023-09-20T10:22:29Z",
+                "owner": "brianstrauch",
+                "repo": "solitaire-tui",
+                "stars": 364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "End Of Eden",
+              "description": "A \"Slay the Spire\"-like, roguelike deck-builder game. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625912772,
+                "language": "Go",
+                "last_commit": "2024-09-02T20:02:06Z",
+                "owner": "BigJk",
+                "repo": "end_of_eden",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kboard",
+              "description": "A typing game. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307164372,
+                "language": "Go",
+                "last_commit": "2023-06-05T08:56:46Z",
+                "owner": "CamiloGarciaLaRotta",
+                "repo": "kboard",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sku",
+              "description": "Sudoku on the CLI. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500503526,
+                "language": "Go",
+                "last_commit": "2022-11-10T16:36:23Z",
+                "owner": "fedeztk",
+                "repo": "sku",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flapioca",
+              "description": "Flappy Bird on the CLI! (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514928856,
+                "language": "Go",
+                "last_commit": "2022-07-20T20:38:07Z",
+                "owner": "kbrgl",
+                "repo": "flapioca",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-sweep",
+              "description": "Minesweeper in the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723605368,
+                "language": "Go",
+                "last_commit": "2023-12-29T04:32:05Z",
+                "owner": "maxpaulus43",
+                "repo": "go-sweep",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fractals-cli",
+              "description": "A multiplatform terminal fractal explorer. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519559090,
+                "language": "Go",
+                "last_commit": "2024-11-13T10:43:42Z",
+                "owner": "MicheleFiladelfia",
+                "repo": "fractals-cli",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-typer",
+              "description": "a sleek, blazing-fast and fun terminal typing game inspired by MonkeyType. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958146935,
+                "language": "Go",
+                "last_commit": "2026-04-13T22:20:04Z",
+                "owner": "prime-run",
+                "repo": "go-typer",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Advent of Go",
+              "description": "An Advent of Code TUI wrapper and utility package. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 833601149,
+                "language": "Go",
+                "last_commit": "2026-02-26T17:14:17Z",
+                "owner": "DaltonSW",
+                "repo": "aocgo",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cli-of-life",
+              "description": "Play Conway's Game of Life in your terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 827688902,
+                "language": "Go",
+                "last_commit": "2026-08-18T22:47:32Z",
+                "owner": "gabe565",
+                "repo": "cli-of-life",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-learn-vim",
+              "description": "A terminal-based game to teach users the basics of Vim motions. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 900740705,
+                "language": "Go",
+                "last_commit": "2026-02-14T13:35:52Z",
+                "owner": "dasvh",
+                "repo": "go-learn-vim",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scrabbler",
+              "description": "An automatic draw tool for your duplicate Scrabble games. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691201212,
+                "language": "Go",
+                "last_commit": "2024-02-21T15:54:48Z",
+                "owner": "wI2L",
+                "repo": "scrabbler",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wordle",
+              "description": "A wordle game for your terminal! (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 860413124,
+                "language": "Go",
+                "last_commit": "2024-09-27T13:36:29Z",
+                "owner": "sa-",
+                "repo": "wordle-tui",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VibeWorld",
+              "description": "A multiplayer cyberpunk world for the terminal, with voice chat and a moon you fly to and scream at. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1288669665,
+                "language": "Shell",
+                "last_commit": "2026-07-30T01:13:05Z",
+                "owner": "SorBalda",
+                "repo": "vibeworld",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dnc",
+              "description": "TTRPG character manager. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1050695491,
+                "language": "Go",
+                "last_commit": "2026-06-13T14:19:44Z",
+                "owner": "Simon-Hostettler",
+                "repo": "dnc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chip-8",
+              "description": "A CHIP-8 interpreter. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756104409,
+                "language": "Go",
+                "last_commit": "2024-03-10T06:11:24Z",
+                "owner": "braheezy",
+                "repo": "chip-8",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gifterm",
+              "description": "GIFs in the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 815642599,
+                "language": "Go",
+                "last_commit": "2025-07-04T16:50:34Z",
+                "owner": "namzug16",
+                "repo": "gifterm",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clipet",
+              "description": "A terminal-based virtual pet game with evolution system and mini games. (built with Bubble Tea, Lipgloss, Bubbles)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1168398886,
+                "language": "Go",
+                "last_commit": "2026-03-09T03:29:02Z",
+                "owner": "yizhixiaokong",
+                "repo": "clipet",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gophertyper",
+              "description": "A TUI typing game about gophers by gophers. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1172277622,
+                "language": "Go",
+                "last_commit": "2026-03-28T08:14:37Z",
+                "owner": "mikegetz",
+                "repo": "gophertyper",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hjkl-hero",
+              "description": "An educational Vim Motion roguelike with procedurally generated floors. (built with Bubble Tea, and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1271746840,
+                "language": "Go",
+                "last_commit": "2026-08-17T20:11:49Z",
+                "owner": "BosBJJ",
+                "repo": "hjkl-hero",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fireworks-cli",
+              "description": "fireworks on the CLI. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965233961,
+                "language": "Go",
+                "last_commit": "2025-04-28T00:44:17Z",
+                "owner": "Andrew-Wichmann",
+                "repo": "fireworks-cli",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "philosophic moon",
+              "description": "A tiny cozy moon in your terminal: stargaze through meteor showers, water a shared plant, read philosophy under the stars. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1304681216,
+                "language": "Shell",
+                "last_commit": "2026-07-25T13:07:45Z",
+                "owner": "SorBalda",
+                "repo": "philosophic-moon",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Toys"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Golazo",
+              "description": "A minimalist TUI for following live and recent football/soccer matches. (built with Bubble Tea, Bubbles, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1115340485,
+                "language": "Go",
+                "last_commit": "2026-07-26T02:22:05Z",
+                "owner": "0xjuanma",
+                "repo": "golazo",
+                "stars": 823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lazyspotify",
+              "description": "Terminal Spotify client for macOS and Linux. (built with Bubble Tea, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1185329586,
+                "language": "Go",
+                "last_commit": "2026-06-22T18:38:57Z",
+                "owner": "dubeyKartikay",
+                "repo": "lazyspotify",
+                "stars": 419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Waves",
+              "description": "Terminal music player with library browsing, queue management, and Soulseek integration. (built with Bubble Tea, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105798876,
+                "language": "Go",
+                "last_commit": "2026-06-18T18:16:05Z",
+                "owner": "llehouerou",
+                "repo": "waves",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sonicradio",
+              "description": "A TUI radio player making use of Radio Browser API. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761346360,
+                "language": "Go",
+                "last_commit": "2026-01-23T14:03:53Z",
+                "owner": "dancnb",
+                "repo": "sonicradio",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tTune",
+              "description": "An aesthetic guitar tuner for your terminal. (built with Bubble Tea, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126329878,
+                "language": "Go",
+                "last_commit": "2026-04-14T13:56:36Z",
+                "owner": "SteveMCWin",
+                "repo": "ttune",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rig.fm",
+              "description": "Internet radio in your terminal, with one-keypress Shazam-style track identification. (built with Bubble Tea, Bubbles, Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1128641538,
+                "language": "Go",
+                "last_commit": "2026-06-27T22:16:16Z",
+                "owner": "MWhyte",
+                "repo": "rig",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BatterUp",
+              "description": "A stylish (and discrete) way to monitor MLB games from your terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1070939226,
+                "language": "Go",
+                "last_commit": "2025-10-08T00:01:41Z",
+                "owner": "DaltonSW",
+                "repo": "BatterUp",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Media"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EKO",
+              "description": "A terminal-native Discord alternative for Terminal Nerds. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 867308599,
+                "language": "Go",
+                "last_commit": "2025-08-10T20:53:48Z",
+                "owner": "Kyren223",
+                "repo": "eko",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "discord-delete",
+              "description": "Bulk-delete your Discord messages and reactions from your data package. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1298848516,
+                "language": "Go",
+                "last_commit": "2026-08-09T14:39:00Z",
+                "owner": "DatCodeMania",
+                "repo": "discord-delete",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vault",
+              "description": "A terminal chat application with file transfer support. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763931919,
+                "language": "Go",
+                "last_commit": "2024-11-06T04:49:35Z",
+                "owner": "athulreji",
+                "repo": "vault-client",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Messaging and Communication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "portal",
+              "description": "Secure transfers between computers. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 412444545,
+                "language": "Go",
+                "last_commit": "2024-08-20T14:40:18Z",
+                "owner": "SpatiumPortae",
+                "repo": "portal",
+                "stars": 1763
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wishlist",
+              "description": "An SSH directory and bastian. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444063538,
+                "language": "Go",
+                "last_commit": "2026-08-12T20:43:42Z",
+                "owner": "charmbracelet",
+                "repo": "wishlist",
+                "stars": 1647
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tran",
+              "description": "Securely transfer stuff between computers (based on portal). (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452395183,
+                "language": "Go",
+                "last_commit": "2026-02-16T20:06:36Z",
+                "owner": "abdfnx",
+                "repo": "tran",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network Doctor",
+              "description": "A cross-platform TUI that pinpoints where a network connection breaks and suggests fixes. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1282665509,
+                "language": "Go",
+                "last_commit": "2026-08-19T06:09:43Z",
+                "owner": "heymaikol",
+                "repo": "network-doctor",
+                "stars": 259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "letshare",
+              "description": "A TUI for sharing files over local network - batteries included. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957535406,
+                "language": "Go",
+                "last_commit": "2025-08-06T20:52:35Z",
+                "owner": "MuhamedUsman",
+                "repo": "letshare",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lookit",
+              "description": "A modern TUI browser for the finger protocol (RFC 1288). Built for exploring, not just querying. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1253565816,
+                "language": "Go",
+                "last_commit": "2026-08-18T17:00:28Z",
+                "owner": "jonathandeamer",
+                "repo": "lookit",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networking and File Transfer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Slides",
+              "description": "A markdown-based presentation tool. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 364729022,
+                "language": "Go",
+                "last_commit": "2026-07-08T18:44:50Z",
+                "owner": "maaslalani",
+                "repo": "slides",
+                "stars": 11619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ticker",
+              "description": "A terminal stock viewer and stock position tracker. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332361864,
+                "language": "Go",
+                "last_commit": "2026-06-28T21:50:24Z",
+                "owner": "achannarasappa",
+                "repo": "ticker",
+                "stars": 6205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tz",
+              "description": "A scheduling aid for people in multiple time zones. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334494310,
+                "language": "Go",
+                "last_commit": "2025-02-14T01:46:51Z",
+                "owner": "oz",
+                "repo": "tz",
+                "stars": 898
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoSuki",
+              "description": "No cloud, real time, multi-browser, extension-free bookmark manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 700075378,
+                "language": "Go",
+                "last_commit": "2026-08-15T23:15:54Z",
+                "owner": "blob42",
+                "repo": "gosuki",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tasktimer",
+              "description": "A dead-simple task timer. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 329969457,
+                "language": "Go",
+                "last_commit": "2026-07-07T02:29:59Z",
+                "owner": "caarlos0",
+                "repo": "tasktimer",
+                "stars": 456
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hours",
+              "description": "A no-frills time tracking toolkit for the command line. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 812644610,
+                "language": "Go",
+                "last_commit": "2026-08-07T05:08:34Z",
+                "owner": "dhth",
+                "repo": "hours",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omm",
+              "description": "A keyboard-driven task manager for the command line. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 825978481,
+                "language": "Go",
+                "last_commit": "2026-08-05T21:12:55Z",
+                "owner": "dhth",
+                "repo": "omm",
+                "stars": 330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "togo",
+              "description": "A fast, simple and beautifull termianl-based todo manager built in go. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953210081,
+                "language": "Go",
+                "last_commit": "2026-06-24T07:42:19Z",
+                "owner": "prime-run",
+                "repo": "togo",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IDNT",
+              "description": "A batch software uninstaller. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 422960011,
+                "language": "Go",
+                "last_commit": "2022-02-12T07:46:25Z",
+                "owner": "r-darwish",
+                "repo": "idnt",
+                "stars": 103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SlurmCommander",
+              "description": "A Slurm workload manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580169762,
+                "language": "Go",
+                "last_commit": "2023-10-11T09:39:54Z",
+                "owner": "CLIP-HPC",
+                "repo": "SlurmCommander",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Noted",
+              "description": "A note viewer and manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470733750,
+                "language": "Go",
+                "last_commit": "2022-10-18T08:59:42Z",
+                "owner": "torbratsberg",
+                "repo": "noted",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "countdown",
+              "description": "A multi-event countdown timer. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 519682462,
+                "language": "Go",
+                "last_commit": "2026-07-16T03:01:21Z",
+                "owner": "aldernero",
+                "repo": "countdown",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "punchout",
+              "description": "Takes the suck out of logging time on JIRA. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 770680100,
+                "language": "Go",
+                "last_commit": "2026-08-19T08:05:20Z",
+                "owner": "dhth",
+                "repo": "punchout",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NaSC",
+              "description": "A TUI calculator where you do maths like a normal person. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1054390652,
+                "language": "Go",
+                "last_commit": "2026-08-15T17:10:55Z",
+                "owner": "parnoldx",
+                "repo": "nascTUI",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nastro",
+              "description": "Terminal call recorder for macOS: records system audio + mic (no bot joins the call), transcribes on-device with speaker diarization. TUI + headless CLI. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1329767103,
+                "language": "Go",
+                "last_commit": "2026-08-13T07:30:32Z",
+                "owner": "scaccogatto",
+                "repo": "nastro",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "typist",
+              "description": "A cross platform typing application built for users to master speed and syntax. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1190362453,
+                "language": "Go",
+                "last_commit": "2026-05-24T20:20:49Z",
+                "owner": "chuma-beep",
+                "repo": "typist",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ciphery",
+              "description": "A local vault manager app designed for securely storing and managing secrets.(built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 855262323,
+                "language": "Go",
+                "last_commit": "2024-09-12T21:45:44Z",
+                "owner": "aable0",
+                "repo": "ciphery",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BubbleCal",
+              "description": "A fast, keyboard-driven terminal calendar with event management. (built with Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1037521784,
+                "language": "Go",
+                "last_commit": "2025-08-14T14:16:04Z",
+                "owner": "yuvals1",
+                "repo": "bubblecal",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tudo",
+              "description": "A foreground todo TUI for keeping notes while working in Codex CLI or CC CLI. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1252135265,
+                "language": "Go",
+                "last_commit": "2026-05-28T10:03:37Z",
+                "owner": "FiyZou",
+                "repo": "tudo",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Productivity and Organization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "circumflex",
+              "description": "Read Hacker News in the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283105657,
+                "language": "Go",
+                "last_commit": "2026-08-17T11:36:50Z",
+                "owner": "bensadeh",
+                "repo": "circumflex",
+                "stars": 2061
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nom",
+              "description": "An RSS reader and manager. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580794699,
+                "language": "Go",
+                "last_commit": "2026-07-08T19:07:13Z",
+                "owner": "guyfedwards",
+                "repo": "nom",
+                "stars": 740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neon Modem Overdrive",
+              "description": "A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583532956,
+                "language": "Go",
+                "last_commit": "2026-07-21T14:05:18Z",
+                "owner": "mrusme",
+                "repo": "neonmodem",
+                "stars": 699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Canard",
+              "description": "An RSS client. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 356987767,
+                "language": "Go",
+                "last_commit": "2025-04-17T13:59:11Z",
+                "owner": "mrusme",
+                "repo": "canard",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rift",
+              "description": "LoL Esports in the terminal. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957538580,
+                "language": "Go",
+                "last_commit": "2026-07-20T14:00:21Z",
+                "owner": "matthieugusmini",
+                "repo": "rift",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nachrichten",
+              "description": "Access up-to-date news in German provided by the Tagesschau. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692788563,
+                "language": "Go",
+                "last_commit": "2026-02-01T11:31:40Z",
+                "owner": "zMoooooritz",
+                "repo": "nachrichten",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "drudgetea",
+              "description": "An interactive RSS Reader for drudgereportfeed.com. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1163019616,
+                "language": "Go",
+                "last_commit": "2026-03-28T07:46:11Z",
+                "owner": "mikegetz",
+                "repo": "drudgetea",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Marine-terminal",
+              "description": "A terminal-based application for displaying NOAA weather and tide information for US marine ports. (built with Bubble Tea, Bubbles and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1105582623,
+                "language": "Go",
+                "last_commit": "2025-12-01T15:10:28Z",
+                "owner": "ngmaloney",
+                "repo": "marine-terminal",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RSS, News and Weather"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fztea",
+              "description": "A Flipper Zero TUI. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518599161,
+                "language": "Go",
+                "last_commit": "2026-02-23T12:02:41Z",
+                "owner": "jon4hz",
+                "repo": "fztea",
+                "stars": 399
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cLive",
+              "description": "Automate terminal operations and view them live in a browser. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560164357,
+                "language": "Go",
+                "last_commit": "2026-08-11T01:40:07Z",
+                "owner": "koki-develop",
+                "repo": "clive",
+                "stars": 393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ugm",
+              "description": "A unix user and group browser. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 496742930,
+                "language": "Go",
+                "last_commit": "2026-04-27T20:14:21Z",
+                "owner": "ariasmn",
+                "repo": "ugm",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stylish",
+              "description": "A simple tool to configure stylish LS colors. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 911397182,
+                "language": "Go",
+                "last_commit": "2025-01-24T13:52:22Z",
+                "owner": "DaltonSW",
+                "repo": "stylish",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gobottom",
+              "description": "A TUI system monitor. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 907201837,
+                "language": "Go",
+                "last_commit": "2025-05-01T19:08:47Z",
+                "owner": "diegolara93",
+                "repo": "gobottom",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System Management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "enola",
+              "description": "Find social media accounts by username across social networks. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576970458,
+                "language": "Go",
+                "last_commit": "2026-07-10T11:12:53Z",
+                "owner": "TheYahya",
+                "repo": "enola",
+                "stars": 868
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "got",
+              "description": "A simple translator and text-to-speech app built on simplytranslate's APIs. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441671997,
+                "language": "Go",
+                "last_commit": "2023-06-14T20:34:41Z",
+                "owner": "fedeztk",
+                "repo": "got",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LinGo",
+              "description": "A terminal based language acquisition application, which allows you to learn languages while reading texts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723481587,
+                "language": "Go",
+                "last_commit": "2024-11-07T10:05:33Z",
+                "owner": "hsnborn22",
+                "repo": "LinGo",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STTG",
+              "description": "A teletext client for SVT, Sweden's national public television station. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310697466,
+                "language": "Go",
+                "last_commit": "2021-05-28T20:41:15Z",
+                "owner": "wille1101",
+                "repo": "sttg",
+                "stars": 23
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language and Translation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "puffin",
+              "description": "A TUI for hledger to manage your finances. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560224372,
+                "language": "Go",
+                "last_commit": "2026-03-11T15:16:44Z",
+                "owner": "siddhantac",
+                "repo": "puffin",
+                "stars": 567
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lunchtui",
+              "description": "A TUI for Lunch Money to view and manage your finances. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 915464270,
+                "language": "Go",
+                "last_commit": "2026-08-17T09:06:21Z",
+                "owner": "Rshep3087",
+                "repo": "lunchtui",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Finance"
+        }
+      ],
       "title": "Applications"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Plandex",
-          "description": "A terminal-based AI coding engine for complex tasks. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-10-03T21:49:58Z",
-            "owner": "plandex-ai",
-            "repo": "plandex",
-            "stars": 15588
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mods",
-          "description": "AI on the CLI, built for pipelines. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-03-09T15:06:08Z",
-            "owner": "charmbracelet",
-            "repo": "mods",
-            "stars": 4526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tgpt",
-          "description": "Conversational AI for the CLI; no API keys necessary. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T10:56:12Z",
-            "owner": "aandrew-me",
-            "repo": "tgpt",
-            "stars": 3245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chatgpt-cli",
-          "description": "A CLI for ChatGPT. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-09T13:56:47Z",
-            "owner": "j178",
-            "repo": "chatgpt",
-            "stars": 782
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agent-manager",
-          "description": "tmux TUI for Claude Code, Codex, OpenCode, Grok, Gemini CLI, and Pi: live status, a prompt without attaching, and in-terminal diff review. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T10:51:04Z",
-            "owner": "YoanWai",
-            "repo": "agent-manager",
-            "stars": 333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chatgpt-tui",
-          "description": "A TUI for ChatGPT with SQLite sessions. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-16T19:31:00Z",
-            "owner": "BalanceBalls",
-            "repo": "nekot",
-            "stars": 196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Waveloom",
-          "description": "A DeepSeek-native terminal coding agent with prefix-cache architecture, Think-Act-Observe loop, and Claude Code-level TUI. (built with Bubble Tea, Glamour, and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T02:33:40Z",
-            "owner": "Menfre01",
-            "repo": "waveloom",
-            "stars": 130
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agenttrace",
-          "description": "TUI observability for AI coding-agent sessions. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T01:11:50Z",
-            "owner": "luoyuctl",
-            "repo": "agenttrace",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChatGPTUI",
-          "description": "A TUI for ChatGPT. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-04-03T09:29:27Z",
-            "owner": "dwisiswant0",
-            "repo": "chatgptui",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "showagent",
-          "description": "Browse, search, resume, branch, and convert local AI coding-agent sessions from one TUI. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T21:23:48Z",
-            "owner": "aytzey",
-            "repo": "showagent",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vyai",
-          "description": "A lightweight CLI tool to interact with the Gemini API from the terminal. (built with Bubble Tea, Lip Gloss, Glamour)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-22T11:53:51Z",
-            "owner": "vybraan",
-            "repo": "vyai",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clawchat-cli",
-          "description": "A CLI chat client for OpenClaw Gateway and Ollama models. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-19T02:09:37Z",
-            "owner": "ngmaloney",
-            "repo": "clawchat-cli",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clipt",
-          "description": "Chat TUI go module for your agents and LLMs. (built with Bubble Tea, Lip Gloss, Glamour)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-02T22:14:31Z",
-            "owner": "Struki84",
-            "repo": "clipt",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "AI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Daytona",
-          "description": "An development environment manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-24T07:12:07Z",
-            "owner": "daytonaio",
-            "repo": "daytona",
-            "stars": 71973
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mc",
-          "description": "The official MinIO client. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-11-20T03:07:53Z",
-            "owner": "minio",
-            "repo": "mc",
-            "stars": 3523
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aztify",
-          "description": "Bring Microsoft Azure resources under Terraform. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-25T04:11:08Z",
-            "owner": "Azure",
-            "repo": "aztfexport",
-            "stars": 1906
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eks-node-viewer",
-          "description": "A tool for visualizing dynamic node usage within an EKS cluster. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:17:40Z",
-            "owner": "awslabs",
-            "repo": "eks-node-viewer",
-            "stars": 1634
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Atmos",
-          "description": "Terraform orchestration tool for DevOps. (built with Bubble Tea, Lip Gloss, Glamour, Log, and Huh)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T10:51:04Z",
-            "owner": "cloudposse",
-            "repo": "atmos",
-            "stars": 1355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pug",
-          "description": "Terraform task manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-02T11:17:40Z",
-            "owner": "leg100",
-            "repo": "pug",
-            "stars": 693
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wander",
-          "description": "A HashiCorp Nomad terminal client. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-06-18T23:55:45Z",
-            "owner": "robinovitch61",
-            "repo": "wander",
-            "stars": 480
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "container-canary",
-          "description": "A container validator. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-10T14:23:41Z",
-            "owner": "NVIDIA",
-            "repo": "container-canary",
-            "stars": 306
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StormForge Optimize Controller",
-          "description": "A tool for experimenting with application configurations in Kubernetes. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-01-13T16:17:19Z",
-            "owner": "thestormforge",
-            "repo": "optimize-controller",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cueitup",
-          "description": "Inspect messages in an AWS SQS queue in a simple and deliberate manner. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-08T00:43:26Z",
-            "owner": "dhth",
-            "repo": "cueitup",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "laboon",
-          "description": "A Docker-desktop-style container manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-08T07:23:04Z",
-            "owner": "arisnacg",
-            "repo": "laboon",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kplay",
-          "description": "Inspect messages in a Kafka topic. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-09T06:28:28Z",
-            "owner": "dhth",
-            "repo": "kplay",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dns53",
-          "description": "Dynamic DNS with Amazon Route53; expose your EC2 quickly, securely and privately. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-04-19T12:14:33Z",
-            "owner": "purpleclay",
-            "repo": "dns53",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docker-dash",
-          "description": "A tool for managing Docker resources from the comfort of your terminal. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-02T06:19:46Z",
-            "owner": "GustavoCaso",
-            "repo": "docker-dash",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "outtasync",
-          "description": "Identify CloudFormation stacks that are out of sync with their template files. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-09T06:28:28Z",
-            "owner": "dhth",
-            "repo": "outtasync",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PassDIY",
-          "description": "A TUI for password management on HashiCorp Vault. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-11-20T01:34:54Z",
-            "owner": "jalpp",
-            "repo": "PassDIY",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kbu",
-          "description": "A single-pane Kubernetes TUI — Tab / Space / Enter / Esc drive everything, with Relatives navigation, YAML compare, and an embedded shell. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-04T15:22:03Z",
-            "owner": "vulcanshen",
-            "repo": "kbu",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lazygcs",
-          "description": "A fast, keyboard-driven TUI for exploring and managing Google Cloud Storage (GCS). (built with Bubbles, Bubble Tea, Glamour and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-31T13:38:22Z",
-            "owner": "idan-at",
-            "repo": "lazygcs",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "superdive",
-          "description": "A tool for exploring each layer in a Docker image. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-03T06:40:21Z",
-            "owner": "dukaev",
-            "repo": "superdive",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Provider Explorer",
-          "description": "A Terraform Provider Schema Explorer. (built with Bubble Tea, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-08-10T03:48:10Z",
-            "owner": "TerraConstructs",
-            "repo": "provider-explorer",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dstroman",
-          "description": "Docker object storage handler and manipulator. (built with Gum)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2025-12-28T15:33:26Z",
-            "owner": "hackctl",
-            "repo": "dstroman",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kuzco",
-          "description": "Intelligently analyze your Terraform and OpenTofu configurations. (built with Glamour and Lip Gloss)",
-          "children": []
-        }
-      ],
-      "title": "Cloud and DevOps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Trufflehog",
-          "description": "Find leaked credentials. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T10:39:32Z",
-            "owner": "trufflesecurity",
-            "repo": "trufflehog",
-            "stars": 27503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WG Commander",
-          "description": "A TUI for a simple WireGuard VPN setup. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-07T10:11:51Z",
-            "owner": "AndrianBdn",
-            "repo": "wg-cmd",
-            "stars": 223
-          }
-        }
-      ],
-      "title": "Cyber Security (built with Bubble Tea)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "termdbms",
-          "description": "A keyboard and mouse driven database browser. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-06-11T16:15:29Z",
-            "owner": "mathaou",
-            "repo": "termdbms",
-            "stars": 1817
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "redis-viewer",
-          "description": "A Redis database browser. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-04T02:32:29Z",
-            "owner": "saltfishpr",
-            "repo": "redis-viewer",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "redis_tui",
-          "description": "A Redis database browser. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-20T16:47:28Z",
-            "owner": "mat2cc",
-            "repo": "redis_tui",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pgxcli",
-          "description": "Postgres CLI with autocompletion and syntax highlighting. (built with Bubble Tea, Lip Gloss, Huh)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T18:10:01Z",
-            "owner": "balajz",
-            "repo": "pgxcli",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "qrypad",
-          "description": "A terminal SQL client for Postgres, MySQL and SQLite. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-23T21:27:01Z",
-            "owner": "wheelibin",
-            "repo": "qrypad",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chtop",
-          "description": "Monitor your ClickHouse node without leaving the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-24T12:55:49Z",
-            "owner": "chhetripradeep",
-            "repo": "chtop",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "schemas",
-          "description": "Lets you inspect PostgreSQL schemas in the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-07T23:41:31Z",
-            "owner": "dhth",
-            "repo": "schemas",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Database Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Glow",
-          "description": "A markdown reader, browser, and online markdown stash. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T00:02:03Z",
-            "owner": "charmbracelet",
-            "repo": "glow",
-            "stars": 26934
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gum",
-          "description": "Interactivity and styling for shells and shell scripts. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T21:08:33Z",
-            "owner": "charmbracelet",
-            "repo": "gum",
-            "stars": 24245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chezmoi",
-          "description": "Securely manage your dotfiles across multiple machines. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T17:37:49Z",
-            "owner": "twpayne",
-            "repo": "chezmoi",
-            "stars": 21202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Soft Serve",
-          "description": "A command-line-first Git server that runs a TUI over SSH. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T20:42:49Z",
-            "owner": "charmbracelet",
-            "repo": "soft-serve",
-            "stars": 7178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Huh?",
-          "description": "An interactive prompt and form toolkit. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T21:02:17Z",
-            "owner": "charmbracelet",
-            "repo": "huh",
-            "stars": 7109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hiSHtory",
-          "description": "Your shell history in context: synced, and queryable. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-18T23:18:46Z",
-            "owner": "ddworken",
-            "repo": "hishtory",
-            "stars": 3107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "charm",
-          "description": "The official Charm user account manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-03-06T13:39:14Z",
-            "owner": "charmbracelet",
-            "repo": "charm",
-            "stars": 2493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-size-analyzer",
-          "description": "Explore the dependency size of your golang binary in the terminal. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T00:56:35Z",
-            "owner": "Zxilly",
-            "repo": "go-size-analyzer",
-            "stars": 2165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sttr",
-          "description": "A general-purpose text transformer. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-25T11:11:01Z",
-            "owner": "abhimanyu003",
-            "repo": "sttr",
-            "stars": 1340
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mergestat",
-          "description": "Run SQL queries on Git repositories. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T07:56:03Z",
-            "owner": "mergestat",
-            "repo": "mergestat",
-            "stars": 541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gama",
-          "description": "Manage GitHub Actions from the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-11-08T08:37:03Z",
-            "owner": "termkit",
-            "repo": "gama",
-            "stars": 482
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meteor",
-          "description": "A highly customizable conventional commit message tool. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-03T09:38:42Z",
-            "owner": "stefanlogue",
-            "repo": "meteor",
-            "stars": 435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gocovsh",
-          "description": "Explore Go coverage reports from the CLI. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-05T14:03:52Z",
-            "owner": "orlangure",
-            "repo": "gocovsh",
-            "stars": 387
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fork-cleaner",
-          "description": "Clean up old and inactive forks in your GitHub account. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-07-07T02:29:47Z",
-            "owner": "caarlos0",
-            "repo": "fork-cleaner",
-            "stars": 371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trainer",
-          "description": "A Go concurrency coding interview simulator with learning materials. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-01-20T09:04:52Z",
-            "owner": "rusinikita",
-            "repo": "trainer",
-            "stars": 309
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "httpit",
-          "description": "A rapid http(s) benchmark tool. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-03-16T02:57:25Z",
-            "owner": "gonetx",
-            "repo": "httpit",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "json-log-viewer",
-          "description": "An interactive JSON log viewer. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T04:50:15Z",
-            "owner": "hedhyw",
-            "repo": "json-log-viewer",
-            "stars": 232
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gitflow-toolkit",
-          "description": "A GitFlow submission tool. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-10T09:19:26Z",
-            "owner": "mritd",
-            "repo": "gitflow-toolkit",
-            "stars": 230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prs",
-          "description": "Stay up to date with your PRs. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-08T17:48:15Z",
-            "owner": "dhth",
-            "repo": "prs",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mdtt",
-          "description": "A TUI for editing markdown tables. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-05-19T10:00:28Z",
-            "owner": "szktkfm",
-            "repo": "mdtt",
-            "stars": 161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pathos",
-          "description": "A PATH environment variable editor. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-01T17:41:47Z",
-            "owner": "chip",
-            "repo": "pathos",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flow",
-          "description": "Customizable and interactive task runner / manager. (built with Bubble Tea, Glamour, and Log)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-07T16:27:53Z",
-            "owner": "flowexec",
-            "repo": "flow",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ditto",
-          "description": "A system-wide ASCII keyboard visualizer and keycaster. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-02T11:00:48Z",
-            "owner": "arvingarciabtw",
-            "repo": "ditto",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GitSocial",
-          "description": "Git-native cross-forge collaboration: posts, issues, PRs, releases, all in your repo. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T03:46:31Z",
-            "owner": "gitsocial-org",
-            "repo": "gitsocial",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CRT",
-          "description": "A simple terminal emulator for running Bubble Tea in a dedicated window, with optional shaders. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-09T17:55:10Z",
-            "owner": "BigJk",
-            "repo": "crt",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prism",
-          "description": "Make your unit testing downright beautiful. (built with Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-08T22:34:08Z",
-            "owner": "DaltonSW",
-            "repo": "prism",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "termpicker",
-          "description": "A colorpicker for your terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-24T20:35:48Z",
-            "owner": "ChausseBenjamin",
-            "repo": "termpicker",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brows",
-          "description": "A GitHub release browser. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-01T14:33:35Z",
-            "owner": "rubysolo",
-            "repo": "brows",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mult",
-          "description": "Run a command multiple times and glance at the outputs via a TUI. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T08:59:45Z",
-            "owner": "dhth",
-            "repo": "mult",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gh-b",
-          "description": "A GitHub CLI extension for managing branches. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-12T15:08:12Z",
-            "owner": "joaom00",
-            "repo": "gh-b",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skeleton",
-          "description": "A TUI multi-tab library based on Bubble Tea framework. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-03T15:13:39Z",
-            "owner": "termkit",
-            "repo": "skeleton",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tapioca",
-          "description": "Floating progress bar compatible with any loggers that you might use. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-07-30T06:29:56Z",
-            "owner": "charm-and-friends",
-            "repo": "tapioca",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AT CLI",
-          "description": "Execute AT Commands via serial port connections. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-07-26T19:46:14Z",
-            "owner": "khaapamyaki",
-            "repo": "at_cli",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gh-not",
-          "description": "GitHub rule-based notifications management. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T00:04:07Z",
-            "owner": "nobe4",
-            "repo": "gh-not",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "campfire",
-          "description": "Cozy up to your logs with realtime updating and filtering by both level and substring. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-08-08T12:17:55Z",
-            "owner": "DaltonSW",
-            "repo": "campfire",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SQ",
-          "description": "A keyboard-first SQL TUI built for VIM users. (built with Bubble Tea, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-25T08:19:26Z",
-            "owner": "sheenazien8",
-            "repo": "sq",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ube",
-          "description": "A lines of code counter. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-07-28T22:46:07Z",
-            "owner": "ramirezfernando",
-            "repo": "ube",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gith",
-          "description": "A simple TUI Git helper for reoccuring tasks (Catppuccin theme). (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-10-21T07:52:31Z",
-            "owner": "a3chron",
-            "repo": "gith",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Storydb",
-          "description": "An improved bash/zsh-style ctrl+r command history finder. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-17T05:31:09Z",
-            "owner": "grrlopes",
-            "repo": "storydb",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "startpoint",
-          "description": "A TUI/CLI tool for managing and scripting HTTP/RESTful requests. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-07T08:17:00Z",
-            "owner": "susiteemu",
-            "repo": "startpoint",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tea-dash",
-          "description": "A gh-dash-style dashboard for Gitea and Forgejo: PRs, issues, notifications, and CI runs. (built with Bubble Tea, Bubbles, Lip Gloss and Glamour)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T01:27:56Z",
-            "owner": "gbarany",
-            "repo": "tea-dash",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mpwt",
-          "description": "A TUI tool transforming Windows Terminal experience by splitting multi commands into organized panes. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-07T03:28:02Z",
-            "owner": "songlim327",
-            "repo": "mpwt",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "revision",
-          "description": "A lazygit-inspired, fast, keyboard-driven TUI for SVN. (built with Bubble Tea, Bubbles, and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T04:21:17Z",
-            "owner": "bapatchirag",
-            "repo": "revision",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kue",
-          "description": "A management interface for working wuth Amazon Web Services Simple Queue Services. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-28T18:32:57Z",
-            "owner": "kontrolplane",
-            "repo": "kue",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hanchond",
-          "description": "Web3 network manager with a Terminal Block Explorer. (Bubble Tea, Lip Gloss, Glamour)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-01-10T10:31:59Z",
-            "owner": "hanchon",
-            "repo": "hanchond",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "adotop",
-          "description": "Terminal UI for Azure DevOps pull requests: browse, diff, comment, and approve from the terminal. (built with Bubble Tea, Bubbles, Lip Gloss, Glamour, and Chroma)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-03T12:10:55Z",
-            "owner": "superyyrrzz",
-            "repo": "adotop",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fuzz.fish",
-          "description": "A Fish shell plugin for fuzzy finding command history, files, Git branches, and worktrees. (built with Bubble Tea, Bubbles, and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T02:39:20Z",
-            "owner": "jedipunkz",
-            "repo": "fuzz.fish",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grpctui",
-          "description": "A full-screen terminal UI for exploring, calling and debugging gRPC services. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T06:43:07Z",
-            "owner": "alonshuld",
-            "repo": "grpctui",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "magetui",
-          "description": "A docker buildx-style live progress display for mage builds. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-07T15:38:40Z",
-            "owner": "dmotylev",
-            "repo": "magetui",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "prompt-manager",
-          "description": "Manage your prompt templates for all your CLI coding agents. (built with Bubbles and Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-15T17:11:14Z",
-            "owner": "nkxxll",
-            "repo": "oneoffprojs",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TermiPOSTMAN",
-          "description": "A beautiful and intuitive Postman-like API testing tool — right in your terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-05-13T02:24:18Z",
-            "owner": "Suryakantdsa",
-            "repo": "TermiPOSTMAN",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fifty",
-          "description": "AI catch-up brief from your git history. Like the morning video in 50 First Dates, for your repos. (built with Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-19T11:58:57Z",
-            "owner": "balgaly",
-            "repo": "50-first-sessions",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sf-deck",
-          "description": "A keyboard-first Salesforce workspace for browsing multiple orgs, metadata, records, code, permissions, SOQL, and deployments. (built with Bubble Tea, Bubbles, and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T23:24:35Z",
-            "owner": "Jacob-Stokes",
-            "repo": "sf-deck",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fenics-tui",
-          "description": "Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-04-12T15:14:59Z",
-            "owner": "alfenec",
-            "repo": "fenics-tui",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Development Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "superfile",
-          "description": "A fancy, modern terminal-based file manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T10:42:34Z",
-            "owner": "yorukot",
-            "repo": "superfile",
-            "stars": 22604
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "walk",
-          "description": "A terminal navigator. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-06T09:07:56Z",
-            "owner": "antonmedv",
-            "repo": "walk",
-            "stars": 3636
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fm",
-          "description": "A terminal-based file manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-30T17:19:36Z",
-            "owner": "mistakenelf",
-            "repo": "fm",
-            "stars": 635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "diskbloom",
-          "description": "A pastel treemap disk usage analyzer. (built with Bubbles, Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-16T18:48:28Z",
-            "owner": "Zingzy",
-            "repo": "diskbloom",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "File Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "typioca",
-          "description": "A typing test. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-06T10:52:58Z",
-            "owner": "bloznelis",
-            "repo": "typioca",
-            "stars": 950
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gambit",
-          "description": "Chess in the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-01-25T15:00:41Z",
-            "owner": "maaslalani",
-            "repo": "gambit",
-            "stars": 906
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tetrigo",
-          "description": "Tetris in your terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-05T21:51:57Z",
-            "owner": "Broderick-Westrope",
-            "repo": "tetrigo",
-            "stars": 683
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clidle",
-          "description": "A Wordle clone. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-03-28T19:05:44Z",
-            "owner": "ajeetdsouza",
-            "repo": "clidle",
-            "stars": 633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ASCII Movie",
-          "description": "A Star Wars ASCII art movie player. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T12:04:14Z",
-            "owner": "gabe565",
-            "repo": "ascii-movie",
-            "stars": 611
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Typer",
-          "description": "A typing test. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-25T17:30:49Z",
-            "owner": "maaslalani",
-            "repo": "typer",
-            "stars": 501
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "solitaire-tui",
-          "description": "Klondike Solitaire for the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-09-20T10:22:29Z",
-            "owner": "brianstrauch",
-            "repo": "solitaire-tui",
-            "stars": 364
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "End Of Eden",
-          "description": "A \"Slay the Spire\"-like, roguelike deck-builder game. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-09-02T20:02:06Z",
-            "owner": "BigJk",
-            "repo": "end_of_eden",
-            "stars": 203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kboard",
-          "description": "A typing game. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-06-05T08:56:46Z",
-            "owner": "CamiloGarciaLaRotta",
-            "repo": "kboard",
-            "stars": 189
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sku",
-          "description": "Sudoku on the CLI. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-11-10T16:36:23Z",
-            "owner": "fedeztk",
-            "repo": "sku",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flapioca",
-          "description": "Flappy Bird on the CLI! (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-07-20T20:38:07Z",
-            "owner": "kbrgl",
-            "repo": "flapioca",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-sweep",
-          "description": "Minesweeper in the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-12-29T04:32:05Z",
-            "owner": "maxpaulus43",
-            "repo": "go-sweep",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fractals-cli",
-          "description": "A multiplatform terminal fractal explorer. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-11-13T10:43:42Z",
-            "owner": "MicheleFiladelfia",
-            "repo": "fractals-cli",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-typer",
-          "description": "a sleek, blazing-fast and fun terminal typing game inspired by MonkeyType. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-13T22:20:04Z",
-            "owner": "prime-run",
-            "repo": "go-typer",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Advent of Go",
-          "description": "An Advent of Code TUI wrapper and utility package. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-26T17:14:17Z",
-            "owner": "DaltonSW",
-            "repo": "aocgo",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cli-of-life",
-          "description": "Play Conway's Game of Life in your terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T11:11:52Z",
-            "owner": "gabe565",
-            "repo": "cli-of-life",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-learn-vim",
-          "description": "A terminal-based game to teach users the basics of Vim motions. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-14T13:35:52Z",
-            "owner": "dasvh",
-            "repo": "go-learn-vim",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scrabbler",
-          "description": "An automatic draw tool for your duplicate Scrabble games. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-02-21T15:54:48Z",
-            "owner": "wI2L",
-            "repo": "scrabbler",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wordle",
-          "description": "A wordle game for your terminal! (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-09-27T13:36:29Z",
-            "owner": "sa-",
-            "repo": "wordle-tui",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VibeWorld",
-          "description": "A multiplayer cyberpunk world for the terminal, with voice chat and a moon you fly to and scream at. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-30T01:13:05Z",
-            "owner": "SorBalda",
-            "repo": "vibeworld",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dnc",
-          "description": "TTRPG character manager. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-13T14:19:44Z",
-            "owner": "Simon-Hostettler",
-            "repo": "dnc",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chip-8",
-          "description": "A CHIP-8 interpreter. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-10T06:11:24Z",
-            "owner": "braheezy",
-            "repo": "chip-8",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gifterm",
-          "description": "GIFs in the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-07-04T16:50:34Z",
-            "owner": "namzug16",
-            "repo": "gifterm",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clipet",
-          "description": "A terminal-based virtual pet game with evolution system and mini games. (built with Bubble Tea, Lipgloss, Bubbles)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-09T03:29:02Z",
-            "owner": "yizhixiaokong",
-            "repo": "clipet",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gophertyper",
-          "description": "A TUI typing game about gophers by gophers. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-28T08:14:37Z",
-            "owner": "mikegetz",
-            "repo": "gophertyper",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hjkl-hero",
-          "description": "An educational Vim Motion roguelike with procedurally generated floors. (built with Bubble Tea, and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T20:11:49Z",
-            "owner": "BosBJJ",
-            "repo": "hjkl-hero",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fireworks-cli",
-          "description": "fireworks on the CLI. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-04-28T00:44:17Z",
-            "owner": "Andrew-Wichmann",
-            "repo": "fireworks-cli",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "philosophic moon",
-          "description": "A tiny cozy moon in your terminal: stargaze through meteor showers, water a shared plant, read philosophy under the stars. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-25T13:07:45Z",
-            "owner": "SorBalda",
-            "repo": "philosophic-moon",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Toys"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Golazo",
-          "description": "A minimalist TUI for following live and recent football/soccer matches. (built with Bubble Tea, Bubbles, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-26T02:22:05Z",
-            "owner": "0xjuanma",
-            "repo": "golazo",
-            "stars": 823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lazyspotify",
-          "description": "Terminal Spotify client for macOS and Linux. (built with Bubble Tea, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-22T18:38:57Z",
-            "owner": "dubeyKartikay",
-            "repo": "lazyspotify",
-            "stars": 417
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Waves",
-          "description": "Terminal music player with library browsing, queue management, and Soulseek integration. (built with Bubble Tea, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-18T18:16:05Z",
-            "owner": "llehouerou",
-            "repo": "waves",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sonicradio",
-          "description": "A TUI radio player making use of Radio Browser API. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-01-23T14:03:53Z",
-            "owner": "dancnb",
-            "repo": "sonicradio",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tTune",
-          "description": "An aesthetic guitar tuner for your terminal. (built with Bubble Tea, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-14T13:56:36Z",
-            "owner": "SteveMCWin",
-            "repo": "ttune",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rig.fm",
-          "description": "Internet radio in your terminal, with one-keypress Shazam-style track identification. (built with Bubble Tea, Bubbles, Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-27T22:16:16Z",
-            "owner": "MWhyte",
-            "repo": "rig",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BatterUp",
-          "description": "A stylish (and discrete) way to monitor MLB games from your terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-10-08T00:01:41Z",
-            "owner": "DaltonSW",
-            "repo": "BatterUp",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Media"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EKO",
-          "description": "A terminal-native Discord alternative for Terminal Nerds. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-08-10T20:53:48Z",
-            "owner": "Kyren223",
-            "repo": "eko",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "discord-delete",
-          "description": "Bulk-delete your Discord messages and reactions from your data package. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-09T14:39:00Z",
-            "owner": "DatCodeMania",
-            "repo": "discord-delete",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vault",
-          "description": "A terminal chat application with file transfer support. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-11-06T04:49:35Z",
-            "owner": "athulreji",
-            "repo": "vault-client",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Messaging and Communication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "portal",
-          "description": "Secure transfers between computers. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-08-20T14:40:18Z",
-            "owner": "SpatiumPortae",
-            "repo": "portal",
-            "stars": 1763
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wishlist",
-          "description": "An SSH directory and bastian. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-12T20:43:42Z",
-            "owner": "charmbracelet",
-            "repo": "wishlist",
-            "stars": 1647
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tran",
-          "description": "Securely transfer stuff between computers (based on portal). (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-16T20:06:36Z",
-            "owner": "abdfnx",
-            "repo": "tran",
-            "stars": 447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Network Doctor",
-          "description": "A cross-platform TUI that pinpoints where a network connection breaks and suggests fixes. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T09:51:45Z",
-            "owner": "heymaikol",
-            "repo": "network-doctor",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "letshare",
-          "description": "A TUI for sharing files over local network - batteries included. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-08-06T20:52:35Z",
-            "owner": "MuhamedUsman",
-            "repo": "letshare",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lookit",
-          "description": "A modern TUI browser for the finger protocol (RFC 1288). Built for exploring, not just querying. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:40:16Z",
-            "owner": "jonathandeamer",
-            "repo": "lookit",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Networking and File Transfer"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Slides",
-          "description": "A markdown-based presentation tool. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-08T18:44:50Z",
-            "owner": "maaslalani",
-            "repo": "slides",
-            "stars": 11619
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ticker",
-          "description": "A terminal stock viewer and stock position tracker. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-28T21:50:24Z",
-            "owner": "achannarasappa",
-            "repo": "ticker",
-            "stars": 6203
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tz",
-          "description": "A scheduling aid for people in multiple time zones. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-02-14T01:46:51Z",
-            "owner": "oz",
-            "repo": "tz",
-            "stars": 898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GoSuki",
-          "description": "No cloud, real time, multi-browser, extension-free bookmark manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T23:15:54Z",
-            "owner": "blob42",
-            "repo": "gosuki",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tasktimer",
-          "description": "A dead-simple task timer. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-07-07T02:29:59Z",
-            "owner": "caarlos0",
-            "repo": "tasktimer",
-            "stars": 456
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hours",
-          "description": "A no-frills time tracking toolkit for the command line. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-07T05:08:34Z",
-            "owner": "dhth",
-            "repo": "hours",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omm",
-          "description": "A keyboard-driven task manager for the command line. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-05T21:12:55Z",
-            "owner": "dhth",
-            "repo": "omm",
-            "stars": 330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "togo",
-          "description": "A fast, simple and beautifull termianl-based todo manager built in go. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-24T07:42:19Z",
-            "owner": "prime-run",
-            "repo": "togo",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IDNT",
-          "description": "A batch software uninstaller. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-02-12T07:46:25Z",
-            "owner": "r-darwish",
-            "repo": "idnt",
-            "stars": 103
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SlurmCommander",
-          "description": "A Slurm workload manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-10-11T09:39:54Z",
-            "owner": "CLIP-HPC",
-            "repo": "SlurmCommander",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Noted",
-          "description": "A note viewer and manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-10-18T08:59:42Z",
-            "owner": "torbratsberg",
-            "repo": "noted",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "countdown",
-          "description": "A multi-event countdown timer. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-16T03:01:21Z",
-            "owner": "aldernero",
-            "repo": "countdown",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "punchout",
-          "description": "Takes the suck out of logging time on JIRA. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T07:09:55Z",
-            "owner": "dhth",
-            "repo": "punchout",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NaSC",
-          "description": "A TUI calculator where you do maths like a normal person. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-15T17:10:55Z",
-            "owner": "parnoldx",
-            "repo": "nascTUI",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nastro",
-          "description": "Terminal call recorder for macOS: records system audio + mic (no bot joins the call), transcribes on-device with speaker diarization. TUI + headless CLI. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T07:30:32Z",
-            "owner": "scaccogatto",
-            "repo": "nastro",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "typist",
-          "description": "A cross platform typing application built for users to master speed and syntax. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-24T20:20:49Z",
-            "owner": "chuma-beep",
-            "repo": "typist",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ciphery",
-          "description": "A local vault manager app designed for securely storing and managing secrets.(built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-09-12T21:45:44Z",
-            "owner": "aable0",
-            "repo": "ciphery",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BubbleCal",
-          "description": "A fast, keyboard-driven terminal calendar with event management. (built with Bubble Tea and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-08-14T14:16:04Z",
-            "owner": "yuvals1",
-            "repo": "bubblecal",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tudo",
-          "description": "A foreground todo TUI for keeping notes while working in Codex CLI or CC CLI. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-28T10:03:37Z",
-            "owner": "FiyZou",
-            "repo": "tudo",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Productivity and Organization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "circumflex",
-          "description": "Read Hacker News in the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T11:36:50Z",
-            "owner": "bensadeh",
-            "repo": "circumflex",
-            "stars": 2058
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nom",
-          "description": "An RSS reader and manager. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-08T19:07:13Z",
-            "owner": "guyfedwards",
-            "repo": "nom",
-            "stars": 739
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neon Modem Overdrive",
-          "description": "A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-21T14:05:18Z",
-            "owner": "mrusme",
-            "repo": "neonmodem",
-            "stars": 699
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Canard",
-          "description": "An RSS client. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2025-04-17T13:59:11Z",
-            "owner": "mrusme",
-            "repo": "canard",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rift",
-          "description": "LoL Esports in the terminal. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-20T14:00:21Z",
-            "owner": "matthieugusmini",
-            "repo": "rift",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nachrichten",
-          "description": "Access up-to-date news in German provided by the Tagesschau. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-01T11:31:40Z",
-            "owner": "zMoooooritz",
-            "repo": "nachrichten",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "drudgetea",
-          "description": "An interactive RSS Reader for drudgereportfeed.com. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-28T07:46:11Z",
-            "owner": "mikegetz",
-            "repo": "drudgetea",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Marine-terminal",
-          "description": "A terminal-based application for displaying NOAA weather and tide information for US marine ports. (built with Bubble Tea, Bubbles and Lip Gloss)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-01T15:10:28Z",
-            "owner": "ngmaloney",
-            "repo": "marine-terminal",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "RSS, News and Weather"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "fztea",
-          "description": "A Flipper Zero TUI. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-23T12:02:41Z",
-            "owner": "jon4hz",
-            "repo": "fztea",
-            "stars": 399
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cLive",
-          "description": "Automate terminal operations and view them live in a browser. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T01:40:07Z",
-            "owner": "koki-develop",
-            "repo": "clive",
-            "stars": 393
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ugm",
-          "description": "A unix user and group browser. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-27T20:14:21Z",
-            "owner": "ariasmn",
-            "repo": "ugm",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stylish",
-          "description": "A simple tool to configure stylish LS colors. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-01-24T13:52:22Z",
-            "owner": "DaltonSW",
-            "repo": "stylish",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gobottom",
-          "description": "A TUI system monitor. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-05-01T19:08:47Z",
-            "owner": "diegolara93",
-            "repo": "gobottom",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "System Management"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "enola",
-          "description": "Find social media accounts by username across social networks. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-10T11:12:53Z",
-            "owner": "TheYahya",
-            "repo": "enola",
-            "stars": 867
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "got",
-          "description": "A simple translator and text-to-speech app built on simplytranslate's APIs. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-06-14T20:34:41Z",
-            "owner": "fedeztk",
-            "repo": "got",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LinGo",
-          "description": "A terminal based language acquisition application, which allows you to learn languages while reading texts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-11-07T10:05:33Z",
-            "owner": "hsnborn22",
-            "repo": "LinGo",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STTG",
-          "description": "A teletext client for SVT, Sweden's national public television station. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-05-28T20:41:15Z",
-            "owner": "wille1101",
-            "repo": "sttg",
-            "stars": 23
-          }
-        }
-      ],
-      "title": "Language and Translation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "puffin",
-          "description": "A TUI for hledger to manage your finances. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-03-11T15:16:44Z",
-            "owner": "siddhantac",
-            "repo": "puffin",
-            "stars": 567
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lunchtui",
-          "description": "A TUI for Lunch Money to view and manage your finances. (built with Bubble Tea)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-17T09:06:21Z",
-            "owner": "Rshep3087",
-            "repo": "lunchtui",
-            "stars": 25
-          }
-        }
-      ],
-      "title": "Finance"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:00:04.957Z",
+    "last_updated": "2026-08-19T10:59:15.258Z",
     "original_repository": "charm-and-friends/charm-in-the-wild",
-    "original_repository_sha": "4234dd2fbdff216dbb24a5e80011c4cd3e0f1502",
+    "original_repository_sha": "f087a1f00942457d88b09256315b3e0aca6e34a5",
     "enhanced_repository": "enhansome/enhansome-charm-in-the-wild",
     "enhanced_repository_description": null,
     "title": "Awesome Charm In The Wild with stars"
