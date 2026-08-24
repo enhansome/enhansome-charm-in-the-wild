@@ -249,7 +249,7 @@
                 "last_commit": "2026-07-24T07:12:07Z",
                 "owner": "daytonaio",
                 "repo": "daytona",
-                "stars": 71894
+                "stars": 71891
               }
             },
             {
@@ -306,7 +306,7 @@
                 "archived": false,
                 "id": 292427680,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:48:02Z",
+                "last_commit": "2026-08-24T14:23:28Z",
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1361
@@ -568,10 +568,10 @@
                 "archived": false,
                 "id": 77726177,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:46:05Z",
+                "last_commit": "2026-08-24T13:40:24Z",
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 27568
+                "stars": 27571
               }
             },
             {
@@ -720,7 +720,7 @@
                 "last_commit": "2026-08-16T00:02:03Z",
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27016
+                "stars": 27018
               }
             },
             {
@@ -735,7 +735,7 @@
                 "last_commit": "2026-08-20T08:08:40Z",
                 "owner": "charmbracelet",
                 "repo": "gum",
-                "stars": 24267
+                "stars": 24269
               }
             },
             {
@@ -750,7 +750,7 @@
                 "last_commit": "2026-08-23T14:22:14Z",
                 "owner": "twpayne",
                 "repo": "chezmoi",
-                "stars": 21282
+                "stars": 21287
               }
             },
             {
@@ -765,7 +765,7 @@
                 "last_commit": "2026-08-12T20:42:49Z",
                 "owner": "charmbracelet",
                 "repo": "soft-serve",
-                "stars": 7194
+                "stars": 7196
               }
             },
             {
@@ -1537,7 +1537,7 @@
                 "last_commit": "2026-08-20T19:55:07Z",
                 "owner": "yorukot",
                 "repo": "superfile",
-                "stars": 22775
+                "stars": 22777
               }
             },
             {
@@ -1661,7 +1661,7 @@
                 "archived": false,
                 "id": 541960471,
                 "language": "Go",
-                "last_commit": "2026-08-21T12:03:40Z",
+                "last_commit": "2026-08-24T12:03:51Z",
                 "owner": "gabe565",
                 "repo": "ascii-movie",
                 "stars": 612
@@ -2038,7 +2038,7 @@
                 "last_commit": "2026-07-26T02:22:05Z",
                 "owner": "0xjuanma",
                 "repo": "golazo",
-                "stars": 823
+                "stars": 822
               }
             },
             {
@@ -2262,7 +2262,7 @@
                 "last_commit": "2026-08-24T07:06:46Z",
                 "owner": "heymaikol",
                 "repo": "network-doctor",
-                "stars": 290
+                "stars": 292
               }
             },
             {
@@ -2314,7 +2314,7 @@
                 "last_commit": "2026-07-08T18:44:50Z",
                 "owner": "maaslalani",
                 "repo": "slides",
-                "stars": 11624
+                "stars": 11626
               }
             },
             {
@@ -2907,10 +2907,52 @@
         }
       ],
       "title": "Applications"
+    },
+    {
+      "description": "Plugins for text editors and IDEs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "freeze.nvim",
+          "description": "A wrapper for charm's freeze cli tool for usage in neovim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 778232974,
+            "language": "Lua",
+            "last_commit": "2025-03-25T13:10:43Z",
+            "owner": "charm-and-friends",
+            "repo": "freeze.nvim",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "Get started with the Charm ecosystem with these dazzling tutorials.\nPart of Charm and Friends.\nCharm热爱开源 • Charm loves open source",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Outsourcing My Memory to Gum",
+          "description": "Build a function to discover npm scripts in any project using jq and Gum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5101141,
+            "language": "C",
+            "last_commit": "2026-08-23T15:06:16Z",
+            "owner": "jqlang",
+            "repo": "jq",
+            "stars": 35478
+          }
+        }
+      ],
+      "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:05:05.817Z",
+    "last_updated": "2026-08-24T14:30:23.153Z",
     "original_repository": "charm-and-friends/charm-in-the-wild",
     "original_repository_id": 808303530,
     "original_repository_sha": "cd3fa7fbc3af2caa2b894a05e7ed6e43185618a4",
