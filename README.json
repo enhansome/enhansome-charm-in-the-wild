@@ -21,7 +21,7 @@
                 "open_issues": 62,
                 "owner": "plandex-ai",
                 "repo": "plandex",
-                "stars": 15597,
+                "stars": 15598,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -59,7 +59,7 @@
                 "open_issues": 85,
                 "owner": "charmbracelet",
                 "repo": "mods",
-                "stars": 4524,
+                "stars": 4525,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
@@ -111,8 +111,8 @@
                 "id": 608593901,
                 "language": "Go",
                 "license": null,
-                "last_commit": "2026-08-28T13:50:45Z",
-                "open_issues": 12,
+                "last_commit": "2026-08-29T09:50:37Z",
+                "open_issues": 11,
                 "owner": "j178",
                 "repo": "chatgpt",
                 "stars": 782,
@@ -140,10 +140,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:13:42Z",
-                "open_issues": 19,
+                "open_issues": 18,
                 "owner": "YoanWai",
                 "repo": "agent-manager",
-                "stars": 372,
+                "stars": 371,
                 "topics": [
                   "agentic",
                   "ai-agents",
@@ -246,7 +246,7 @@
                 "open_issues": 7,
                 "owner": "luoyuctl",
                 "repo": "agenttrace",
-                "stars": 124,
+                "stars": 126,
                 "topics": [
                   "ai-agent-observability",
                   "ai-agents",
@@ -404,41 +404,6 @@
             },
             {
               "node_type": "item",
-              "title": "bermuda",
-              "description": "Orchestration harness beneath Claude Code on the herdr terminal multiplexer: schedules agent jobs on a cron, runs declared flows a step of which can't be skipped, and gives agents a shared thread/claim/forum layer. (built with Bubbles, Bubble Tea and Lip Gloss)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Orchestration under Claude Code on herdr: flows an agent cannot skip, jobs on a clock, threads with claims, and a forum agents search later",
-                "homepage": "https://github.com/bon5co/bermuda#readme",
-                "id": 1313441522,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-08-28T21:06:43Z",
-                "open_issues": 1,
-                "owner": "bon5co",
-                "repo": "bermuda",
-                "stars": 9,
-                "topics": [
-                  "agent-orchestration",
-                  "agents",
-                  "ai-agents",
-                  "automation",
-                  "claude-code",
-                  "cli",
-                  "cron",
-                  "developer-tools",
-                  "golang",
-                  "herdr-plugin",
-                  "llm",
-                  "scheduler",
-                  "tui"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:02.085Z"
-            },
-            {
-              "node_type": "item",
               "title": "clawchat-cli",
               "description": "A CLI chat client for OpenClaw Gateway and Ollama models. (built with Bubble Tea and Lip Gloss)",
               "children": [],
@@ -457,6 +422,41 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bermuda",
+              "description": "Orchestration harness beneath Claude Code on the herdr terminal multiplexer: schedules agent jobs on a cron, runs declared flows a step of which can't be skipped, and gives agents a shared thread/claim/forum layer. (built with Bubbles, Bubble Tea and Lip Gloss)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Orchestration under Claude Code on herdr: flows an agent cannot skip, jobs on a clock, threads with claims, and a forum agents search later",
+                "homepage": "https://github.com/bon5co/bermuda#readme",
+                "id": 1350488158,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-08-29T14:46:09Z",
+                "open_issues": 0,
+                "owner": "bon5co",
+                "repo": "bermuda",
+                "stars": 0,
+                "topics": [
+                  "agent-orchestration",
+                  "agents",
+                  "ai-agents",
+                  "automation",
+                  "claude-code",
+                  "cli",
+                  "cron",
+                  "developer-tools",
+                  "golang",
+                  "herdr-plugin",
+                  "llm",
+                  "scheduler",
+                  "tui"
+                ]
+              },
+              "first_seen": "2026-08-29T15:17:53.581Z"
             },
             {
               "node_type": "item",
@@ -502,7 +502,7 @@
                 "open_issues": 448,
                 "owner": "daytonaio",
                 "repo": "daytona",
-                "stars": 71864,
+                "stars": 71857,
                 "topics": [
                   "agentic-workflow",
                   "ai",
@@ -532,7 +532,7 @@
                 "open_issues": 46,
                 "owner": "minio",
                 "repo": "mc",
-                "stars": 3522,
+                "stars": 3523,
                 "topics": [
                   "aws",
                   "aws-s3",
@@ -564,7 +564,7 @@
                 "open_issues": 25,
                 "owner": "Azure",
                 "repo": "aztfexport",
-                "stars": 1910,
+                "stars": 1911,
                 "topics": [
                   "azure",
                   "devops",
@@ -1051,7 +1051,7 @@
                 "open_issues": 525,
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 27622,
+                "stars": 27626,
                 "topics": [
                   "credentials",
                   "devsecops",
@@ -1227,7 +1227,7 @@
                 "open_issues": 0,
                 "owner": "wheelibin",
                 "repo": "qrypad",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "cli",
                   "databases",
@@ -1315,7 +1315,7 @@
                 "open_issues": 225,
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27104,
+                "stars": 27110,
                 "topics": [
                   "cli",
                   "excitement",
@@ -1341,7 +1341,7 @@
                 "open_issues": 197,
                 "owner": "charmbracelet",
                 "repo": "gum",
-                "stars": 24299,
+                "stars": 24302,
                 "topics": [
                   "bash",
                   "shell"
@@ -1361,11 +1361,11 @@
                 "id": 157245200,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T22:00:04Z",
+                "last_commit": "2026-08-29T09:38:40Z",
                 "open_issues": 60,
                 "owner": "twpayne",
                 "repo": "chezmoi",
-                "stars": 21349,
+                "stars": 21359,
                 "topics": [
                   "configuration",
                   "dotfile",
@@ -1422,7 +1422,7 @@
                 "open_issues": 88,
                 "owner": "charmbracelet",
                 "repo": "huh",
-                "stars": 7133,
+                "stars": 7134,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
@@ -2487,7 +2487,7 @@
                 "id": 1308511746,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T04:39:26Z",
+                "last_commit": "2026-08-29T05:52:37Z",
                 "open_issues": 0,
                 "owner": "bapatchirag",
                 "repo": "revision",
@@ -2600,7 +2600,7 @@
                 "id": 1131521215,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:19:41Z",
+                "last_commit": "2026-08-29T04:59:25Z",
                 "open_issues": 0,
                 "owner": "jedipunkz",
                 "repo": "fuzz.fish",
@@ -2811,7 +2811,7 @@
                 "open_issues": 261,
                 "owner": "yorukot",
                 "repo": "superfile",
-                "stars": 22947,
+                "stars": 22958,
                 "topics": [
                   "bubbletea",
                   "cli",
@@ -2844,7 +2844,7 @@
                 "open_issues": 10,
                 "owner": "antonmedv",
                 "repo": "walk",
-                "stars": 3636,
+                "stars": 3637,
                 "topics": [
                   "cli",
                   "file-manager",
@@ -3336,7 +3336,7 @@
                 "id": 827688902,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T15:59:14Z",
+                "last_commit": "2026-08-29T13:15:39Z",
                 "open_issues": 10,
                 "owner": "gabe565",
                 "repo": "cli-of-life",
@@ -4046,7 +4046,7 @@
                 "open_issues": 19,
                 "owner": "charmbracelet",
                 "repo": "wishlist",
-                "stars": 1655,
+                "stars": 1656,
                 "topics": [
                   "hacktoberfest",
                   "ssh"
@@ -4101,11 +4101,11 @@
                 "id": 1282665509,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:04:35Z",
+                "last_commit": "2026-08-29T08:02:35Z",
                 "open_issues": 0,
                 "owner": "heymaikol",
                 "repo": "network-doctor",
-                "stars": 308,
+                "stars": 310,
                 "topics": [
                   "bubbletea",
                   "cli",
@@ -4205,7 +4205,7 @@
                 "open_issues": 77,
                 "owner": "maaslalani",
                 "repo": "slides",
-                "stars": 11637,
+                "stars": 11638,
                 "topics": [
                   "markdown",
                   "presentation",
@@ -5321,10 +5321,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
-            "open_issues": 472,
+            "open_issues": 473,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35506,
+            "stars": 35508,
             "topics": [
               "jq"
             ]
@@ -5336,7 +5336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:09.098Z",
+    "last_updated": "2026-08-29T15:17:53.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Featuring only the most showstopping, glamorous CLI tooling out there...",
