@@ -12,12 +12,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+                "homepage": "https://plandex.ai",
                 "id": 709538270,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-10-03T21:49:58Z",
+                "open_issues": 62,
                 "owner": "plandex-ai",
                 "repo": "plandex",
-                "stars": 15598
+                "stars": 15597,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "ai-developer-tools",
+                  "ai-tools",
+                  "cli",
+                  "command-line",
+                  "developer-tools",
+                  "git",
+                  "golang",
+                  "gpt-4",
+                  "llm",
+                  "openai",
+                  "polyglot-programming",
+                  "terminal",
+                  "terminal-based",
+                  "terminal-ui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -28,12 +50,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AI on the command line",
+                "homepage": null,
                 "id": 620999276,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-09T15:06:08Z",
+                "open_issues": 85,
                 "owner": "charmbracelet",
                 "repo": "mods",
-                "stars": 4524
+                "stars": 4524,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -44,12 +71,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Chatbots in terminal for free",
+                "homepage": null,
                 "id": 629049442,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T08:18:15Z",
+                "open_issues": 8,
                 "owner": "aandrew-me",
                 "repo": "tgpt",
-                "stars": 3253
+                "stars": 3253,
+                "topics": [
+                  "ai",
+                  "chatbot",
+                  "chatgpt",
+                  "cli",
+                  "go",
+                  "golang",
+                  "gpt4",
+                  "linux",
+                  "llama",
+                  "macos",
+                  "mixtral",
+                  "terminal",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -60,12 +106,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elegant interactive CLI for ChatGPT",
+                "homepage": null,
                 "id": 608593901,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-08-28T13:50:45Z",
+                "open_issues": 12,
                 "owner": "j178",
                 "repo": "chatgpt",
-                "stars": 782
+                "stars": 782,
+                "topics": [
+                  "chatgpt",
+                  "cli",
+                  "go",
+                  "golang",
+                  "gpt-3",
+                  "gpt-4"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -76,12 +134,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+                "homepage": "https://agent-manager.dev",
                 "id": 1301824521,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:13:42Z",
+                "open_issues": 19,
                 "owner": "YoanWai",
                 "repo": "agent-manager",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "agentic",
+                  "ai-agents",
+                  "bubbletea",
+                  "claude-code",
+                  "cli",
+                  "code-review",
+                  "codex",
+                  "coding-agent",
+                  "developer-tools",
+                  "gemini-cli",
+                  "golang",
+                  "grok",
+                  "mcp-server",
+                  "model-context-protocol",
+                  "opencode",
+                  "terminal",
+                  "tmux",
+                  "tui",
+                  "wsl"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -92,12 +175,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable terminal AI interface",
+                "homepage": null,
                 "id": 720932048,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-16T19:31:00Z",
+                "open_issues": 5,
                 "owner": "BalanceBalls",
                 "repo": "nekot",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "chatgpt-api",
+                  "gemini-api",
+                  "go",
+                  "llama-cpp",
+                  "llm",
+                  "ollama",
+                  "terminal",
+                  "tui",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -108,12 +206,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "为 DeepSeek 前缀缓存定制的终端 Code Agent(纯 Go),缓存命中率 95-99%,命中输入定价为未命中的 1/30。A terminal coding agent optimized for DeepSeek prefix caching — 95-99% cache hit, cache-hit input priced at 1/30th of cache-miss.",
+                "homepage": "https://github.com/Menfre01/waveloom",
                 "id": 1278881844,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:35:39Z",
+                "open_issues": 1,
                 "owner": "Menfre01",
                 "repo": "waveloom",
-                "stars": 129
+                "stars": 130,
+                "topics": [
+                  "ai",
+                  "bubble-tea",
+                  "cli",
+                  "coding-agent",
+                  "deepseek",
+                  "go",
+                  "llm",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -124,12 +237,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
+                "homepage": "https://github.com/luoyuctl/agenttrace",
                 "id": 1226187070,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-24T01:09:37Z",
+                "open_issues": 7,
                 "owner": "luoyuctl",
                 "repo": "agenttrace",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "ai-agent-observability",
+                  "ai-agents",
+                  "ai-cost-tracking",
+                  "claude-code",
+                  "codex-cli",
+                  "coding-agent",
+                  "cursor",
+                  "gemini-cli",
+                  "opencode",
+                  "qwen-code",
+                  "rust",
+                  "rust-cli",
+                  "session-history",
+                  "token-usage",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -140,12 +274,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT 🤖 with Textual User Interface (TUI) mode written in Go.",
+                "homepage": null,
                 "id": 622605657,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-04-03T09:29:27Z",
+                "open_issues": 1,
                 "owner": "dwisiswant0",
                 "repo": "chatgptui",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-api",
+                  "chatgpt-app",
+                  "chatgpt3",
+                  "chatgpt4",
+                  "code-davinci",
+                  "gpt",
+                  "gpt-3",
+                  "gpt-35-turbo",
+                  "gpt-4",
+                  "llm",
+                  "openai",
+                  "openai-chatgpt",
+                  "text-davinci-003"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -156,12 +310,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A context-aware terminal-based coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, hashline edits, and more.",
+                "homepage": "https://mochow13.github.io/keen-code/",
                 "id": 1158827208,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:33:09Z",
+                "open_issues": 12,
                 "owner": "mochow13",
                 "repo": "keen-code",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "agentic-ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "ai-assistant",
+                  "ai-coding",
+                  "ai-coding-agent",
+                  "ai-coding-tool",
+                  "ai-tools",
+                  "coding-agent",
+                  "coding-assistant",
+                  "terminal-based",
+                  "terminal-ui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -172,12 +344,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Every AI coding session on your machine, in one TUI: browse, search, resume, branch — and convert conversations between Codex, Claude Code and more.",
+                "homepage": null,
                 "id": 1276660664,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:42:44Z",
+                "open_issues": 0,
                 "owner": "aytzey",
                 "repo": "showagent",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "ai-agents",
+                  "bubbletea",
+                  "claude-code",
+                  "cli",
+                  "codex",
+                  "developer-tools",
+                  "gemini-cli",
+                  "golang",
+                  "lipgloss",
+                  "mcp",
+                  "model-context-protocol",
+                  "opencode",
+                  "session-history",
+                  "session-manager",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -188,12 +382,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vyai – A lightweight CLI tool to interact with the Gemini API from the terminal.",
+                "homepage": null,
                 "id": 930963858,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-22T11:53:51Z",
+                "open_issues": 0,
                 "owner": "vybraan",
                 "repo": "vyai",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "ai",
+                  "cli",
+                  "gemini-ai",
+                  "golang",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -204,12 +409,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Orchestration under Claude Code on herdr: flows an agent cannot skip, jobs on a clock, threads with claims, and a forum agents search later",
+                "homepage": "https://github.com/bon5co/bermuda#readme",
                 "id": 1313441522,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T21:06:43Z",
+                "open_issues": 1,
                 "owner": "bon5co",
                 "repo": "bermuda",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "agent-orchestration",
+                  "agents",
+                  "ai-agents",
+                  "automation",
+                  "claude-code",
+                  "cli",
+                  "cron",
+                  "developer-tools",
+                  "golang",
+                  "herdr-plugin",
+                  "llm",
+                  "scheduler",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -220,12 +444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clawchat CLI mode",
+                "homepage": null,
                 "id": 1168068058,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-19T02:09:37Z",
+                "open_issues": 0,
                 "owner": "ngmaloney",
                 "repo": "clawchat-cli",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -236,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chat TUI for your agents and LLMs",
+                "homepage": null,
                 "id": 791909403,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-02T22:14:31Z",
+                "open_issues": 9,
                 "owner": "Struki84",
                 "repo": "clipt",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -259,12 +493,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+                "homepage": "https://daytona.io",
                 "id": 753490180,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-24T07:12:07Z",
+                "open_issues": 448,
                 "owner": "daytonaio",
                 "repo": "daytona",
-                "stars": 71864
+                "stars": 71864,
+                "topics": [
+                  "agentic-workflow",
+                  "ai",
+                  "ai-agents",
+                  "ai-runtime",
+                  "ai-sandboxes",
+                  "code-execution",
+                  "code-interpreter",
+                  "developer-tools"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -275,12 +523,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unix like utilities for object store",
+                "homepage": "https://min.io/download",
                 "id": 29329884,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-11-20T03:07:53Z",
+                "open_issues": 46,
                 "owner": "minio",
                 "repo": "mc",
-                "stars": 3522
+                "stars": 3522,
+                "topics": [
+                  "aws",
+                  "aws-s3",
+                  "coreutils",
+                  "filesystem",
+                  "go",
+                  "golang",
+                  "s3",
+                  "s3-bucket",
+                  "storage",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -291,12 +555,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to bring existing Azure resources under Terraform's management",
+                "homepage": "https://azure.github.io/aztfexport/",
                 "id": 395943715,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-24T07:15:23Z",
+                "open_issues": 25,
                 "owner": "Azure",
                 "repo": "aztfexport",
-                "stars": 1910
+                "stars": 1910,
+                "topics": [
+                  "azure",
+                  "devops",
+                  "iac",
+                  "terraform",
+                  "terraform-azurerm",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -307,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EKS Node Viewer",
+                "homepage": null,
                 "id": 575555632,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T21:20:45Z",
+                "open_issues": 24,
                 "owner": "awslabs",
                 "repo": "eks-node-viewer",
-                "stars": 1639
+                "stars": 1639,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -323,12 +604,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.",
+                "homepage": "https://atmos.tools",
                 "id": 292427680,
                 "language": "Go",
-                "last_commit": "2026-08-28T21:03:18Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:57:27Z",
+                "open_issues": 300,
                 "owner": "cloudposse",
                 "repo": "atmos",
-                "stars": 1362
+                "stars": 1362,
+                "topics": [
+                  "automation",
+                  "cli",
+                  "cloud",
+                  "devops",
+                  "hcl2",
+                  "helm",
+                  "helmfile",
+                  "orchestration",
+                  "terraform",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -339,12 +636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drive terraform at terminal velocity.",
+                "homepage": null,
                 "id": 739703271,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-02T11:17:40Z",
+                "open_issues": 21,
                 "owner": "leg100",
                 "repo": "pug",
-                "stars": 695
+                "stars": 695,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -355,12 +657,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal app/TUI for HashiCorp Nomad",
+                "homepage": null,
                 "id": 481096696,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-06-18T23:55:45Z",
+                "open_issues": 4,
                 "owner": "robinovitch61",
                 "repo": "wander",
-                "stars": 480
+                "stars": 480,
+                "topics": [
+                  "bubbletea",
+                  "charm",
+                  "charmbracelet",
+                  "hacktoberfest",
+                  "hashicorp",
+                  "hashicorp-nomad",
+                  "nomad",
+                  "terminal",
+                  "tui",
+                  "wish"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -371,12 +689,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for testing and validating container requirements against versioned manifests",
+                "homepage": null,
                 "id": 470275149,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T15:00:40Z",
+                "open_issues": 35,
                 "owner": "NVIDIA",
                 "repo": "container-canary",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "automation",
+                  "ci",
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "podman",
+                  "utilities",
+                  "versioning"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -387,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Legacy Optimize Pro controller",
+                "homepage": "https://docs.stormforge.io/optimize-pro/",
                 "id": 186039645,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-13T16:17:19Z",
+                "open_issues": 0,
                 "owner": "thestormforge",
                 "repo": "optimize-controller",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -403,12 +740,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect messages in an AWS SQS queue in a simple and deliberate manner",
+                "homepage": "https://tools.dhruvs.space/cueitup",
                 "id": 767414170,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-08T00:43:26Z",
+                "open_issues": 1,
                 "owner": "dhth",
                 "repo": "cueitup",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "aws",
+                  "bubbletea",
+                  "sqs",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -419,12 +766,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple TUI that looks similar to Docker Desktop",
+                "homepage": null,
                 "id": 763647286,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-08T07:23:04Z",
+                "open_issues": 0,
                 "owner": "arisnacg",
                 "repo": "laboon",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -435,12 +787,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect messages in a Kafka topic in a simple and deliberate manner",
+                "homepage": "https://tools.dhruvs.space/kplay",
                 "id": 766324160,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-09T06:28:28Z",
+                "open_issues": 1,
                 "owner": "dhth",
                 "repo": "kplay",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "bubbletea",
+                  "kafka",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -451,12 +812,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately",
+                "homepage": "https://docs.purpleclay.dev/dns53/",
                 "id": 502261952,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-19T12:14:33Z",
+                "open_issues": 12,
                 "owner": "purpleclay",
                 "repo": "dns53",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "aws",
+                  "bubbletea",
+                  "cli",
+                  "dns",
+                  "dns-record",
+                  "dynamic",
+                  "ec2",
+                  "phz",
+                  "private",
+                  "route53",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -467,12 +845,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full TUI managemnet tool for containers 🏗️",
+                "homepage": null,
                 "id": 1153054585,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-19T05:59:34Z",
+                "open_issues": 24,
                 "owner": "GustavoCaso",
                 "repo": "docker-dash",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "bubbletea-tui",
+                  "containers",
+                  "docker",
+                  "go",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -483,12 +872,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Identify Cloudformation stacks that have drifted or gone out of sync",
+                "homepage": "https://tools.dhruvs.space/outtasync",
                 "id": 765970215,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-09T06:28:28Z",
+                "open_issues": 0,
                 "owner": "dhth",
                 "repo": "outtasync",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "bubbletea",
+                  "cloudformation",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -499,12 +897,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Single-pane Kubernetes workspace — Tab / Space / Enter / Esc drives everything. Zero learning curve, Relatives navigation, YAML compare, and an embedded persistent shell built in.",
+                "homepage": null,
                 "id": 1239407490,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:30:32Z",
+                "open_issues": 0,
                 "owner": "vulcanshen",
                 "repo": "kbu",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "devops",
+                  "go",
+                  "k8s",
+                  "kubectl",
+                  "kubernetes",
+                  "kubernetes-cli",
+                  "lazygit",
+                  "terminal",
+                  "tui",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -515,12 +931,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TUI for password management on cloud",
+                "homepage": "https://github.com/jalpp/PassDIY",
                 "id": 871807948,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-11-20T01:34:54Z",
+                "open_issues": 8,
                 "owner": "jalpp",
                 "repo": "PassDIY",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "1password",
+                  "argon2id",
+                  "bubbletea",
+                  "go",
+                  "hashicorp-vault",
+                  "password-generator",
+                  "password-hash",
+                  "password-manager",
+                  "password-store",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -531,12 +963,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, keyboard-driven Terminal User Interface (TUI) for exploring and managing Google Cloud Storage (GCS).",
+                "homepage": null,
                 "id": 1170889200,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-31T13:38:22Z",
+                "open_issues": 0,
                 "owner": "idan-at",
                 "repo": "lazygcs",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "developer-tools",
+                  "gcs",
+                  "go",
+                  "golang",
+                  "google-cloud-storage",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -547,12 +993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for exploring each layer in a docker image",
+                "homepage": null,
                 "id": 1136293434,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-03T06:40:21Z",
+                "open_issues": 0,
                 "owner": "dukaev",
                 "repo": "superdive",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -563,12 +1014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1034603898,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-10T03:48:10Z",
+                "open_issues": 1,
                 "owner": "TerraConstructs",
                 "repo": "provider-explorer",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -586,12 +1042,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find, verify, and analyze leaked credentials",
+                "homepage": "https://trufflesecurity.com",
                 "id": 77726177,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T09:56:00Z",
+                "open_issues": 525,
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 27621
+                "stars": 27622,
+                "topics": [
+                  "credentials",
+                  "devsecops",
+                  "dynamic-analysis",
+                  "precommit",
+                  "scanning",
+                  "secret",
+                  "secret-management",
+                  "secrets",
+                  "security",
+                  "security-tools",
+                  "trufflehog",
+                  "verification"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -602,12 +1076,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI for managing WireGuard configuration files",
+                "homepage": null,
                 "id": 587747920,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-07T10:11:51Z",
+                "open_issues": 2,
                 "owner": "AndrianBdn",
                 "repo": "wg-cmd",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "linux-server",
+                  "tui",
+                  "vpn-server",
+                  "wireguard"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -625,12 +1109,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TUI for viewing and editing database files.",
+                "homepage": null,
                 "id": 402455845,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-06-11T16:15:29Z",
+                "open_issues": 6,
                 "owner": "mathaou",
                 "repo": "termdbms",
-                "stars": 1820
+                "stars": 1820,
+                "topics": [
+                  "database",
+                  "golang",
+                  "sqlite",
+                  "terminal",
+                  "terminal-based",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -641,12 +1137,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to view redis data in terminal.",
+                "homepage": null,
                 "id": 456796243,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-04T02:32:29Z",
+                "open_issues": 6,
                 "owner": "saltfishpr",
                 "repo": "redis-viewer",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "go",
+                  "redis",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -657,12 +1162,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redis terminal application",
+                "homepage": null,
                 "id": 701347961,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-20T16:47:28Z",
+                "open_issues": 2,
                 "owner": "mat2cc",
                 "repo": "redis_tui",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "command-line",
+                  "go",
+                  "golang",
+                  "redis",
+                  "redis-client",
+                  "terminal-based",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -673,12 +1191,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Postgres CLI with autocompletion and syntax highlighting",
+                "homepage": "https://pgxcli.vercel.app",
                 "id": 1103082049,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T11:50:38Z",
+                "open_issues": 4,
                 "owner": "balajz",
                 "repo": "pgxcli",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "database",
+                  "golang",
+                  "pgx",
+                  "postgresql",
+                  "psql"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -689,12 +1218,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal SQL client for Postgres, MySQL and SQLite.",
+                "homepage": null,
                 "id": 821483237,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-23T21:27:01Z",
+                "open_issues": 0,
                 "owner": "wheelibin",
                 "repo": "qrypad",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "cli",
+                  "databases",
+                  "go",
+                  "golang",
+                  "mysql",
+                  "postgresql",
+                  "sqlite",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -705,12 +1248,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💻  ClickHouse Top",
+                "homepage": null,
                 "id": 582706245,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2024-05-24T12:55:49Z",
+                "open_issues": 2,
                 "owner": "chhetripradeep",
                 "repo": "chtop",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "clickhouse",
+                  "golang",
+                  "monitoring",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -721,12 +1274,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect postgres schemas via a TUI",
+                "homepage": "https://tools.dhruvs.space/schemas",
                 "id": 775182659,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-07T23:41:31Z",
+                "open_issues": 0,
                 "owner": "dhth",
                 "repo": "schemas",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "bubbletea",
+                  "postgres",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -744,12 +1306,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+                "homepage": null,
                 "id": 219616873,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-16T00:02:03Z",
+                "open_issues": 225,
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27100
+                "stars": 27104,
+                "topics": [
+                  "cli",
+                  "excitement",
+                  "hacktoberfest",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -760,12 +1332,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for glamorous shell scripts 🎀",
+                "homepage": null,
                 "id": 502193049,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:08:40Z",
+                "open_issues": 197,
                 "owner": "charmbracelet",
                 "repo": "gum",
-                "stars": 24296
+                "stars": 24299,
+                "topics": [
+                  "bash",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -776,12 +1356,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage your dotfiles across multiple diverse machines, securely.",
+                "homepage": "https://www.chezmoi.io/",
                 "id": 157245200,
                 "language": "Go",
-                "last_commit": "2026-08-28T17:14:10Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:00:04Z",
+                "open_issues": 60,
                 "owner": "twpayne",
                 "repo": "chezmoi",
-                "stars": 21347
+                "stars": 21349,
+                "topics": [
+                  "configuration",
+                  "dotfile",
+                  "dotfile-management",
+                  "dotfile-manager",
+                  "dotfile-managers",
+                  "dotfiles",
+                  "linux",
+                  "macos",
+                  "security",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -792,12 +1388,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The mighty, self-hostable Git server for the command line🍦",
+                "homepage": null,
                 "id": 391209033,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-12T20:42:49Z",
+                "open_issues": 78,
                 "owner": "charmbracelet",
                 "repo": "soft-serve",
-                "stars": 7207
+                "stars": 7208,
+                "topics": [
+                  "git",
+                  "golang",
+                  "ssh"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -808,12 +1413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build terminal forms and prompts 🤷🏻‍♀️",
+                "homepage": null,
                 "id": 703663547,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-12T21:02:17Z",
+                "open_issues": 88,
                 "owner": "charmbracelet",
                 "repo": "huh",
-                "stars": 7132
+                "stars": 7133,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -824,12 +1434,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your shell history: synced, queryable, and in context",
+                "homepage": "https://hishtory.dev",
                 "id": 446655824,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-18T23:18:46Z",
+                "open_issues": 63,
                 "owner": "ddworken",
                 "repo": "hishtory",
-                "stars": 3114
+                "stars": 3114,
+                "topics": [
+                  "bash",
+                  "cli",
+                  "fish",
+                  "golang",
+                  "history",
+                  "shell",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -840,12 +1463,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Charm Tool and Library 🌟",
+                "homepage": null,
                 "id": 236106066,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-03-06T13:39:14Z",
+                "open_issues": 0,
                 "owner": "charmbracelet",
                 "repo": "charm",
-                "stars": 2492
+                "stars": 2492,
+                "topics": [
+                  "go",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -856,12 +1487,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.",
+                "homepage": "https://gsa.zxilly.dev/",
                 "id": 609147387,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T22:06:22Z",
+                "open_issues": 4,
                 "owner": "Zxilly",
                 "repo": "go-size-analyzer",
-                "stars": 2170
+                "stars": 2170,
+                "topics": [
+                  "analyzer",
+                  "binary",
+                  "dependency",
+                  "go",
+                  "golang",
+                  "react",
+                  "symbol",
+                  "terminal-ui",
+                  "treemap",
+                  "typescript",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -872,12 +1520,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cross-platform, cli app to perform various operations on string",
+                "homepage": null,
                 "id": 407875512,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-12-25T11:11:01Z",
+                "open_issues": 12,
                 "owner": "abhimanyu003",
                 "repo": "sttr",
-                "stars": 1343
+                "stars": 1343,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "cli-tool",
+                  "cli-utilities",
+                  "decoding",
+                  "developer-tools",
+                  "devutils",
+                  "encoding",
+                  "encrypt",
+                  "encryption-decryption",
+                  "go",
+                  "json",
+                  "productivity",
+                  "string",
+                  "termux",
+                  "termux-tool",
+                  "transform",
+                  "tui",
+                  "tui-app",
+                  "zeropad"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -888,12 +1562,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MergeStat enables anyone to ask questions about the history and contents of source code.",
+                "homepage": "https://docs.mergestat.com/",
                 "id": 462355543,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:16:30Z",
+                "open_issues": 132,
                 "owner": "mergestat",
                 "repo": "mergestat",
-                "stars": 541
+                "stars": 541,
+                "topics": [
+                  "database",
+                  "github",
+                  "golang",
+                  "postgres"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -904,12 +1588,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manage your GitHub Actions from Terminal with great UI 🧪",
+                "homepage": null,
                 "id": 725731033,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-08T08:37:03Z",
+                "open_issues": 10,
                 "owner": "termkit",
                 "repo": "gama",
-                "stars": 483
+                "stars": 483,
+                "topics": [
+                  "actions",
+                  "bubbles",
+                  "bubbletea",
+                  "cd",
+                  "ci",
+                  "cicd",
+                  "githubactions",
+                  "go",
+                  "golang",
+                  "terminal",
+                  "terminal-ui",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -920,12 +1622,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly configurable CLI tool for writing conventional commits",
+                "homepage": null,
                 "id": 714457662,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-03T09:38:42Z",
+                "open_issues": 8,
                 "owner": "stefanlogue",
                 "repo": "meteor",
-                "stars": 437
+                "stars": 437,
+                "topics": [
+                  "charmbracelet",
+                  "cli",
+                  "commit",
+                  "conventional-commits",
+                  "go",
+                  "golang",
+                  "huh",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -936,12 +1652,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻",
+                "homepage": null,
                 "id": 453526680,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-05T14:03:52Z",
+                "open_issues": 13,
                 "owner": "orlangure",
                 "repo": "gocovsh",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "cli",
+                  "coverage",
+                  "coverage-report",
+                  "go",
+                  "golang",
+                  "golang-cli",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -952,12 +1681,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quickly clean up unused forks on your github account.",
+                "homepage": null,
                 "id": 70362025,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-07T02:29:47Z",
+                "open_issues": 7,
                 "owner": "caarlos0",
                 "repo": "fork-cleaner",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "cleanup",
+                  "github-api",
+                  "golang"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -968,12 +1706,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GoLang interview prep questions. Terminal app with Go challenges and learning links",
+                "homepage": null,
                 "id": 683025770,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-20T09:04:52Z",
+                "open_issues": 8,
                 "owner": "rusinikita",
                 "repo": "trainer",
-                "stars": 310
+                "stars": 310,
+                "topics": [
+                  "bubbletea",
+                  "go",
+                  "golang",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "interview-questions",
+                  "quiz",
+                  "terminal-app",
+                  "terminal-ui",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -984,12 +1739,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive viewer for JSON logs.",
+                "homepage": null,
                 "id": 669762612,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-20T07:05:41Z",
+                "open_issues": 0,
                 "owner": "hedhyw",
                 "repo": "json-log-viewer",
-                "stars": 238
+                "stars": 238,
+                "topics": [
+                  "bubbletea",
+                  "go",
+                  "golang",
+                  "interactive",
+                  "json",
+                  "json-logging",
+                  "json-logs",
+                  "logs",
+                  "structured-logging",
+                  "terminal",
+                  "viewer"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1000,12 +1772,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A rapid http(s) benchmark tool written in Go",
+                "homepage": null,
                 "id": 342758643,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-03-16T02:57:25Z",
+                "open_issues": 8,
                 "owner": "gonetx",
                 "repo": "httpit",
-                "stars": 232
+                "stars": 232,
+                "topics": [
+                  "benchmark",
+                  "fast",
+                  "go",
+                  "golang",
+                  "gonetx",
+                  "http",
+                  "http-loader",
+                  "https",
+                  "load-test",
+                  "performance",
+                  "pipeline"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1016,12 +1805,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple toolkit for GitFlow.",
+                "homepage": null,
                 "id": 123890578,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-10T09:19:26Z",
+                "open_issues": 0,
                 "owner": "mritd",
                 "repo": "gitflow-toolkit",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "conventional-commits",
+                  "git",
+                  "gitflow",
+                  "gitflow-toolkit",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1032,12 +1832,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stay updated on PRs from your terminal",
+                "homepage": "https://tools.dhruvs.space/prs",
                 "id": 779329820,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-08T17:48:15Z",
+                "open_issues": 2,
                 "owner": "dhth",
                 "repo": "prs",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "bubbletea",
+                  "github",
+                  "pull-requests",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1048,12 +1858,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗓️ Markdown Table Editor TUI",
+                "homepage": null,
                 "id": 758887125,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-05-19T10:00:28Z",
+                "open_issues": 2,
                 "owner": "szktkfm",
                 "repo": "mdtt",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "command-line",
+                  "go",
+                  "golang",
+                  "markdown",
+                  "shell",
+                  "terminal",
+                  "terminal-based",
+                  "tui",
+                  "tui-app"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1064,12 +1891,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pathos - CLI for editing a PATH env variable",
+                "homepage": null,
                 "id": 509548307,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-01T17:41:47Z",
+                "open_issues": 0,
                 "owner": "chip",
                 "repo": "pathos",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "bash",
+                  "bubbles",
+                  "bubbletea",
+                  "cli",
+                  "env",
+                  "environment-variables",
+                  "go",
+                  "golang",
+                  "path",
+                  "shell",
+                  "unix",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1080,12 +1925,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local-first CLI for defining and running your project's workflows.",
+                "homepage": "http://flowexec.io/",
                 "id": 672419907,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:20:12Z",
+                "open_issues": 0,
                 "owner": "flowexec",
                 "repo": "flow",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "automation",
+                  "developer-platform",
+                  "developer-tools",
+                  "terminal",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1096,12 +1952,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a system-wide ascii keyboard visualizer and keycaster in the terminal",
+                "homepage": null,
                 "id": 1265828131,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:00:48Z",
+                "open_issues": 3,
                 "owner": "arvingarciabtw",
                 "repo": "ditto",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "ascii",
+                  "command-line",
+                  "eye-candy",
+                  "keyboard",
+                  "rice",
+                  "terminal",
+                  "tui",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1112,12 +1982,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-forge collaboration platform",
+                "homepage": "https://gitsocial.org/",
                 "id": 1084535317,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-16T03:46:31Z",
+                "open_issues": 0,
                 "owner": "gitsocial-org",
                 "repo": "gitsocial",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "cross-forge",
+                  "decentralized",
+                  "forgeless",
+                  "git",
+                  "go",
+                  "kanban",
+                  "object-storage",
+                  "rpc",
+                  "s3",
+                  "sbom",
+                  "scrum",
+                  "serverless",
+                  "social",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1128,12 +2020,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal terminal emulator for Bubbletea.",
+                "homepage": null,
                 "id": 639753998,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-05-09T17:55:10Z",
+                "open_issues": 0,
                 "owner": "BigJk",
                 "repo": "crt",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "ebiten",
+                  "ebitengine",
+                  "go",
+                  "golang",
+                  "terminal",
+                  "terminal-emulator"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1144,12 +2048,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turn raw test output into beautiful data",
+                "homepage": null,
                 "id": 1062893910,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-08T22:34:08Z",
+                "open_issues": 3,
                 "owner": "DaltonSW",
                 "repo": "prism",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "cli",
+                  "golang",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1160,12 +2073,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A color picker for the terminal",
+                "homepage": null,
                 "id": 893248617,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-24T20:35:48Z",
+                "open_issues": 1,
                 "owner": "ChausseBenjamin",
                 "repo": "termpicker",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1176,12 +2094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI GitHub release browser",
+                "homepage": null,
                 "id": 577643654,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-01T14:33:35Z",
+                "open_issues": 0,
                 "owner": "rubysolo",
                 "repo": "brows",
-                "stars": 83
+                "stars": 83,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1192,12 +2115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run a command multiple times and glance at the outputs via a TUI",
+                "homepage": "https://tools.dhruvs.space/mult",
                 "id": 793751148,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T22:54:15Z",
+                "open_issues": 0,
                 "owner": "dhth",
                 "repo": "mult",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1208,12 +2136,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub CLI extension to easily manage your branches",
+                "homepage": null,
                 "id": 464208375,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-04-12T15:08:12Z",
+                "open_issues": 0,
                 "owner": "joaom00",
                 "repo": "gh-b",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "gh-extension",
+                  "go"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1224,12 +2160,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Multi-tab framework of Bubbletea programs!",
+                "homepage": null,
                 "id": 820599589,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-03T15:13:39Z",
+                "open_issues": 2,
                 "owner": "termkit",
                 "repo": "skeleton",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "framework",
+                  "go",
+                  "golang",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1240,12 +2188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Floating progress bar compatible with any loggers that you might use",
+                "homepage": null,
                 "id": 685603209,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-07-30T06:29:56Z",
+                "open_issues": 0,
                 "owner": "charm-and-friends",
                 "repo": "tapioca",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1256,12 +2209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI to execute AT Commands via serial port connections.",
+                "homepage": null,
                 "id": 388939650,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2021-07-26T19:46:14Z",
+                "open_issues": 0,
                 "owner": "khaapamyaki",
                 "repo": "at_cli",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1272,12 +2230,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub rule-based notifications management",
+                "homepage": "https://github.com/nobe4/gh-not",
                 "id": 800898004,
                 "language": "Go",
-                "last_commit": "2026-08-28T02:33:30Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:06:26Z",
+                "open_issues": 12,
                 "owner": "nobe4",
                 "repo": "gh-not",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "cli",
+                  "gh-cli",
+                  "gh-extension",
+                  "github",
+                  "github-api",
+                  "github-cli",
+                  "github-cli-extension",
+                  "go",
+                  "notifications"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1288,12 +2261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cozy up with your logs",
+                "homepage": null,
                 "id": 1031564923,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-08-08T12:17:55Z",
+                "open_issues": 2,
                 "owner": "DaltonSW",
                 "repo": "campfire",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1304,12 +2282,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Client special for vim users",
+                "homepage": null,
                 "id": 1117963653,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-02-25T08:19:26Z",
+                "open_issues": 0,
                 "owner": "sheenazien8",
                 "repo": "sq",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "golang",
+                  "sql-client",
+                  "tui",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1320,12 +2308,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fun and fast lines of code counter, made with Go!",
+                "homepage": null,
                 "id": 778403692,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-07-28T22:46:07Z",
+                "open_issues": 0,
                 "owner": "ramirezfernando",
                 "repo": "ube",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "cloc",
+                  "go",
+                  "goreleaser",
+                  "linux",
+                  "macos",
+                  "statistics",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1336,12 +2339,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TUI git helper (catppuccin theme)",
+                "homepage": "https://a3chron.vercel.app/projects/gith",
                 "id": 1025718567,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-10-21T07:52:31Z",
+                "open_issues": 0,
                 "owner": "a3chron",
                 "repo": "gith",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "catppuccin",
+                  "git",
+                  "go",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1352,12 +2365,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bash/zsh ctrl+r improved command history finder.",
+                "homepage": null,
                 "id": 643763995,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-04-17T05:31:09Z",
+                "open_issues": 0,
                 "owner": "grrlopes",
                 "repo": "storydb",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "bash",
+                  "command",
+                  "command-line-tool",
+                  "history",
+                  "tui",
+                  "zsh",
+                  "zsh-plugin"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1368,12 +2394,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI tool for managing and scripting HTTP/RESTful requests",
+                "homepage": null,
                 "id": 688884476,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-03-07T08:17:00Z",
+                "open_issues": 0,
                 "owner": "susiteemu",
                 "repo": "startpoint",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cli",
+                  "http",
+                  "http-requests",
+                  "manager",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1384,12 +2422,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A gh-dash-style terminal dashboard (TUI) for Gitea & Forgejo — PRs, issues, notifications, Actions runs, and branches. Go + Bubble Tea.",
+                "homepage": null,
                 "id": 1285935075,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T01:27:05Z",
+                "open_issues": 3,
                 "owner": "gbarany",
                 "repo": "tea-dash",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "code-review",
+                  "codeberg",
+                  "dashboard",
+                  "developer-tools",
+                  "forgejo",
+                  "gitea",
+                  "go",
+                  "golang",
+                  "pull-requests",
+                  "self-hosted",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1400,12 +2458,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI tool transforming Windows Terminal experience by splitting multi commands into panes",
+                "homepage": null,
                 "id": 856859490,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-07T03:28:02Z",
+                "open_issues": 0,
                 "owner": "songlim327",
                 "repo": "mpwt",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "terminal",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1416,12 +2482,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lazygit for SVN - a fast, keyboard-driven TUI for SVN",
+                "homepage": "https://bapatchirag.github.io/revision/",
                 "id": 1308511746,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T04:39:26Z",
+                "open_issues": 0,
                 "owner": "bapatchirag",
                 "repo": "revision",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bubbletea",
+                  "charm",
+                  "charmbracelet",
+                  "go",
+                  "golang",
+                  "lazygit",
+                  "subversion",
+                  "subversion-client",
+                  "svn",
+                  "svn-client",
+                  "terminal",
+                  "terminal-app",
+                  "terminal-based",
+                  "terminal-ui",
+                  "tui",
+                  "version-control"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1432,12 +2520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal user interface (TUI) for working with Amazon Web Services Simple Queue Service.",
+                "homepage": null,
                 "id": 937318131,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-28T18:32:57Z",
+                "open_issues": 1,
                 "owner": "kontrolplane",
                 "repo": "kue",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1448,12 +2541,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web3/Cosmos tools to avoid re-writing the same code one million times.",
+                "homepage": "https://hanchond.com/",
                 "id": 834246236,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-01-10T10:31:59Z",
+                "open_issues": 13,
                 "owner": "hanchon",
                 "repo": "hanchond",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1464,12 +2562,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal UI for Azure DevOps pull requests — browse, diff, comment, and approve without leaving the terminal.",
+                "homepage": "https://github.com/superyyrrzz/adotop/releases/latest",
                 "id": 1223687463,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-03T12:10:55Z",
+                "open_issues": 1,
                 "owner": "superyyrrzz",
                 "repo": "adotop",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "azure",
+                  "azure-devops",
+                  "bubbletea",
+                  "cli",
+                  "code-review",
+                  "developer-tools",
+                  "devops",
+                  "go",
+                  "pull-requests",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1480,12 +2595,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fuzzy finder for the Fish shell: search command history, files, Git branches, and worktrees from a single Ctrl+R interface. Written in Go.",
+                "homepage": "https://jedipunkz.rocks/fuzz.fish/",
                 "id": 1131521215,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:41:40Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:19:41Z",
+                "open_issues": 0,
                 "owner": "jedipunkz",
                 "repo": "fuzz.fish",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "command-line",
+                  "developer-tools",
+                  "fish",
+                  "fish-plugin",
+                  "fish-shell",
+                  "fisher",
+                  "fuzzy-finder",
+                  "fuzzy-search",
+                  "fzf",
+                  "git-branch",
+                  "git-worktree",
+                  "go",
+                  "golang",
+                  "history-search",
+                  "productivity",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1496,12 +2636,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full-screen, keyboard-driven terminal UI for exploring, calling, and debugging gRPC services. Zero config — server reflection does the rest.",
+                "homepage": "https://pkg.go.dev/github.com/alonshuld/grpctui",
                 "id": 1325318524,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-11T06:43:07Z",
+                "open_issues": 0,
                 "owner": "alonshuld",
                 "repo": "grpctui",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "api-client",
+                  "bubbletea",
+                  "charmbracelet",
+                  "cli",
+                  "developer-tools",
+                  "go",
+                  "golang",
+                  "grpc",
+                  "grpc-client",
+                  "grpc-reflection",
+                  "grpcurl",
+                  "protobuf",
+                  "terminal",
+                  "terminal-ui",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1512,12 +2673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "docker buildx-style live progress display for mage builds",
+                "homepage": null,
                 "id": 1261534053,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-07T15:38:40Z",
+                "open_issues": 0,
                 "owner": "dmotylev",
                 "repo": "magetui",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1528,12 +2694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM generated one of projects that automate simple things",
+                "homepage": null,
                 "id": 1070838995,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-15T17:11:14Z",
+                "open_issues": 0,
                 "owner": "nkxxll",
                 "repo": "oneoffprojs",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1544,12 +2715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful and intuitive Postman-like API testing tool — right in your terminal. ",
+                "homepage": null,
                 "id": 975685159,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-05-13T02:24:18Z",
+                "open_issues": 0,
                 "owner": "Suryakantdsa",
                 "repo": "TermiPOSTMAN",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1560,12 +2736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like the morning video in 50 First Dates — AI catch-up briefs for any git repo",
+                "homepage": "https://github.com/balgaly/50-first-sessions",
                 "id": 1273669625,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-19T11:58:57Z",
+                "open_issues": 0,
                 "owner": "balgaly",
                 "repo": "50-first-sessions",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1576,12 +2757,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal demo project for beam analysis using FEniCS running on a private Kubernetes Jupyter pod.",
+                "homepage": "https://ghost.elfenec.org/un-solveur-de-poutres-fenics-deploye-sur-k3s-et-pilote-en-tui/",
                 "id": 1206103960,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-04-12T15:14:59Z",
+                "open_issues": 0,
                 "owner": "alfenec",
                 "repo": "fenics-tui",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bubble-tea",
+                  "fem",
+                  "fenicsx",
+                  "finite-element-analysis",
+                  "go",
+                  "golang",
+                  "jupyter",
+                  "jupyter-notebook",
+                  "kubernetes",
+                  "mechanics-of-materials",
+                  "notebook",
+                  "rdm",
+                  "structural-analysis",
+                  "structure-analysis",
+                  "terminal-app",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -1599,12 +2802,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pretty fancy and modern terminal file manager",
+                "homepage": "https://superfile.dev",
                 "id": 774468912,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:05:16Z",
+                "open_issues": 261,
                 "owner": "yorukot",
                 "repo": "superfile",
-                "stars": 22944
+                "stars": 22947,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "file-manager",
+                  "filemanager",
+                  "filesystem",
+                  "golang",
+                  "hacktoberfest",
+                  "linux-app",
+                  "terminal-app",
+                  "terminal-based",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1615,12 +2835,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal file manager",
+                "homepage": null,
                 "id": 436414970,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-06T09:07:56Z",
+                "open_issues": 10,
                 "owner": "antonmedv",
                 "repo": "walk",
-                "stars": 3635
+                "stars": 3636,
+                "topics": [
+                  "cli",
+                  "file-manager",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1631,12 +2860,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal based file manager",
+                "homepage": null,
                 "id": 356883757,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-12-30T17:19:36Z",
+                "open_issues": 3,
                 "owner": "mistakenelf",
                 "repo": "fm",
-                "stars": 635
+                "stars": 635,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "file-manager",
+                  "filemanager",
+                  "fm",
+                  "go",
+                  "golang",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1647,12 +2891,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌸 a pastel treemap TUI that shows what's eating your disk",
+                "homepage": null,
                 "id": 1303106579,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T18:48:28Z",
+                "open_issues": 0,
                 "owner": "Zingzy",
                 "repo": "diskbloom",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "bubbletea",
+                  "charm",
+                  "cli",
+                  "disk-space-analyzer",
+                  "disk-usage",
+                  "disk-usage-analyzer",
+                  "golang",
+                  "linux",
+                  "macos",
+                  "terminal",
+                  "treemap",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -1670,12 +2932,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cozy typing speed tester in terminal",
+                "homepage": null,
                 "id": 473981351,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-03-06T10:52:58Z",
+                "open_issues": 20,
                 "owner": "bloznelis",
                 "repo": "typioca",
-                "stars": 951
+                "stars": 951,
+                "topics": [
+                  "cli",
+                  "golang",
+                  "terminal",
+                  "tui",
+                  "typing",
+                  "typingspeedtest",
+                  "typingtest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1686,12 +2961,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play chess in your terminal",
+                "homepage": null,
                 "id": 434045629,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-01-25T15:00:41Z",
+                "open_issues": 10,
                 "owner": "maaslalani",
                 "repo": "gambit",
-                "stars": 906
+                "stars": 906,
+                "topics": [
+                  "chess",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1702,12 +2985,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play Tetris in your terminal.",
+                "homepage": null,
                 "id": 717619659,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-05T21:51:57Z",
+                "open_issues": 5,
                 "owner": "Broderick-Westrope",
                 "repo": "tetrigo",
-                "stars": 682
+                "stars": 682,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "tetris",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1718,12 +3014,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play Wordle over SSH.",
+                "homepage": null,
                 "id": 454585938,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-03-28T19:05:44Z",
+                "open_issues": 2,
                 "owner": "ajeetdsouza",
                 "repo": "clidle",
-                "stars": 633
+                "stars": 633,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "ssh",
+                  "tui",
+                  "wordle"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1734,12 +3044,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Star Wars SSH + Telnet server written in Go.",
+                "homepage": null,
                 "id": 541960471,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T12:03:51Z",
+                "open_issues": 43,
                 "owner": "gabe565",
                 "repo": "ascii-movie",
-                "stars": 615
+                "stars": 615,
+                "topics": [
+                  "ascii-art",
+                  "golang",
+                  "ssh",
+                  "star-wars",
+                  "telnet",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1750,12 +3072,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typing test in your terminal",
+                "homepage": null,
                 "id": 347547386,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-05-25T17:30:49Z",
+                "open_issues": 4,
                 "owner": "maaslalani",
                 "repo": "typer",
-                "stars": 501
+                "stars": 501,
+                "topics": [
+                  "cli",
+                  "terminal",
+                  "typing"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1766,12 +3097,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Klondike solitaire for the terminal",
+                "homepage": null,
                 "id": 584630595,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-20T10:22:29Z",
+                "open_issues": 4,
                 "owner": "brianstrauch",
                 "repo": "solitaire-tui",
-                "stars": 366
+                "stars": 366,
+                "topics": [
+                  "bubbletea",
+                  "go",
+                  "solitaire",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1782,12 +3123,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Slay the Spire\"-like roguelite fully in console.",
+                "homepage": "https://bigjk.itch.io/end-of-eden",
                 "id": 625912772,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-09-02T20:02:06Z",
+                "open_issues": 2,
                 "owner": "BigJk",
                 "repo": "end_of_eden",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "deckbuilder",
+                  "game",
+                  "gamedev",
+                  "lua",
+                  "open-source-game",
+                  "roguelike",
+                  "terminal",
+                  "terminal-game"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1798,12 +3153,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal game to practice keyboard typing",
+                "homepage": null,
                 "id": 307164372,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-06-05T08:56:46Z",
+                "open_issues": 4,
                 "owner": "CamiloGarciaLaRotta",
                 "repo": "kboard",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "bubbletea",
+                  "game",
+                  "go",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1814,12 +3179,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple TUI written in go to play sudoku in the terminal",
+                "homepage": null,
                 "id": 500503526,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-11-10T16:36:23Z",
+                "open_issues": 0,
                 "owner": "fedeztk",
                 "repo": "sku",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "go",
+                  "sudoku",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1830,12 +3206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flappy Bird-inspired terminal game written in Go.",
+                "homepage": null,
                 "id": 514928856,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-20T20:38:07Z",
+                "open_issues": 0,
                 "owner": "kbrgl",
                 "repo": "flapioca",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1846,12 +3227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "minesweeper cli",
+                "homepage": null,
                 "id": 723605368,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2023-12-29T04:32:05Z",
+                "open_issues": 0,
                 "owner": "maxpaulus43",
                 "repo": "go-sweep",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1862,12 +3248,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiplatform fractals explorer 🌌",
+                "homepage": null,
                 "id": 519559090,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-11-13T10:43:42Z",
+                "open_issues": 1,
                 "owner": "MicheleFiladelfia",
                 "repo": "fractals-cli",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "burning-ship",
+                  "cli",
+                  "collaborate",
+                  "fractal",
+                  "github",
+                  "julia-sets",
+                  "mandelbrot",
+                  "mandelbrot-explorer",
+                  "mandelbrot-fractal",
+                  "mandelbrot-set",
+                  "terminal-based",
+                  "tty"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1878,12 +3282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The sleek,  terminal typing test inspired by MonkeyType!",
+                "homepage": null,
                 "id": 958146935,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-13T22:20:04Z",
+                "open_issues": 3,
                 "owner": "prime-run",
                 "repo": "go-typer",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1894,12 +3303,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go Package + CLI Tool for interacting with Advent of Code workflows",
+                "homepage": "https://pkg.go.dev/go.dalton.dog/aocgo",
                 "id": 833601149,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-26T17:14:17Z",
+                "open_issues": 6,
                 "owner": "DaltonSW",
                 "repo": "aocgo",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "advent-of-code",
+                  "bubbletea",
+                  "cli",
+                  "golang",
+                  "tui",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1910,12 +3331,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play Conway's Game of Life in your terminal.",
+                "homepage": null,
                 "id": 827688902,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:59:14Z",
+                "open_issues": 10,
                 "owner": "gabe565",
                 "repo": "cli-of-life",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "bubbletea",
+                  "cellular-automata",
+                  "conways-game-of-life",
+                  "golang",
+                  "hashlife",
+                  "quadtree"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1926,12 +3359,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interactive terminal-based application designed to teach users the basics of Vim motions in a fun and engaging way",
+                "homepage": "https://github.com/dasvh/go-learn-vim",
                 "id": 900740705,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-14T13:35:52Z",
+                "open_issues": 0,
                 "owner": "dasvh",
                 "repo": "go-learn-vim",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "bubbletea",
+                  "go",
+                  "golang",
+                  "tui",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1942,12 +3386,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pick tiles, but not yourself!",
+                "homepage": null,
                 "id": 691201212,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-02-21T15:54:48Z",
+                "open_issues": 6,
                 "owner": "wI2L",
                 "repo": "scrabbler",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bubbletea",
+                  "scrabble",
+                  "terminal-ui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1958,12 +3411,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Play wordle in your terminal",
+                "homepage": null,
                 "id": 860413124,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-27T13:36:29Z",
+                "open_issues": 0,
                 "owner": "sa-",
                 "repo": "wordle-tui",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bubbletea",
+                  "golang",
+                  "tui",
+                  "tui-game",
+                  "wordle"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1974,12 +3438,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cyberpunk persistent multiplayer world in your terminal: a neon planet of ten sciences where developers and scientists meet across disciplines and keep each other company at 2am. Take a rocket to the moon and scream at your LLM.",
+                "homepage": "https://sorbalda.github.io/vibeworld/",
                 "id": 1288669665,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T01:13:05Z",
+                "open_issues": 0,
                 "owner": "SorBalda",
                 "repo": "vibeworld",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "cyberpunk",
+                  "game",
+                  "go",
+                  "multiplayer",
+                  "social",
+                  "terminal",
+                  "terminal-game",
+                  "tui",
+                  "voice-chat"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -1990,12 +3471,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal-based TTRPG character manager",
+                "homepage": null,
                 "id": 1050695491,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-13T14:19:44Z",
+                "open_issues": 3,
                 "owner": "Simon-Hostettler",
                 "repo": "dnc",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "bubbletea",
+                  "character-sheet",
+                  "charm",
+                  "dice",
+                  "dnd",
+                  "duckdb",
+                  "go",
+                  "tabletop-rpg",
+                  "terminal",
+                  "ttrpg",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2006,12 +3504,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CHIP-8 Interpreter",
+                "homepage": null,
                 "id": 756104409,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-03-10T06:11:24Z",
+                "open_issues": 0,
                 "owner": "braheezy",
                 "repo": "chip-8",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "chip-8",
+                  "go",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2022,12 +3529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GIFs on the terminal. Output is actual text",
+                "homepage": null,
                 "id": 815642599,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-07-04T16:50:34Z",
+                "open_issues": 0,
                 "owner": "namzug16",
                 "repo": "gifterm",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2038,12 +3550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI虚拟宠物游戏框架，插件化物种系统 | TUI virtual pet game framework with plugin-based species system ",
+                "homepage": null,
                 "id": 1168398886,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-03-09T03:29:02Z",
+                "open_issues": 0,
                 "owner": "yizhixiaokong",
                 "repo": "clipet",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2054,12 +3571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TUI typing game about gophers",
+                "homepage": null,
                 "id": 1172277622,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-28T08:14:37Z",
+                "open_issues": 0,
                 "owner": "mikegetz",
                 "repo": "gophertyper",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2070,12 +3592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1271746840,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:43:57Z",
+                "open_issues": 0,
                 "owner": "BosBJJ",
                 "repo": "hjkl-hero",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2093,12 +3620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 965233961,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-04-28T00:44:17Z",
+                "open_issues": 0,
                 "owner": "Andrew-Wichmann",
                 "repo": "fireworks-cli",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2109,12 +3641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a quiet moon in your terminal — plant, wall, ledge. orbits VibeWorld.",
+                "homepage": null,
                 "id": 1304681216,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-25T13:07:45Z",
+                "open_issues": 0,
                 "owner": "SorBalda",
                 "repo": "philosophic-moon",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2132,12 +3669,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The beautiful game in your terminal. Minimal TUI app to keep up with live & recent football/soccer matches written in Go.",
+                "homepage": "https://thegolazo.app",
                 "id": 1115340485,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-26T02:22:05Z",
+                "open_issues": 6,
                 "owner": "0xjuanma",
                 "repo": "golazo",
-                "stars": 826
+                "stars": 826,
+                "topics": [
+                  "bubbletea",
+                  "charmbracelet",
+                  "cli",
+                  "football",
+                  "football-data",
+                  "go",
+                  "golang",
+                  "interactive",
+                  "soccer",
+                  "sports",
+                  "terminal",
+                  "tui",
+                  "worldcup",
+                  "worldcup2026"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2148,12 +3705,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal Spotify client for macOS and Linux",
+                "homepage": "https://dubeykartikay.github.io/lazyspotify/",
                 "id": 1185329586,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-22T18:38:57Z",
+                "open_issues": 20,
                 "owner": "dubeyKartikay",
                 "repo": "lazyspotify",
-                "stars": 421
+                "stars": 422,
+                "topics": [
+                  "cli",
+                  "go",
+                  "homebrew",
+                  "librespot",
+                  "linux",
+                  "macos",
+                  "music-player",
+                  "spotify",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2164,12 +3737,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal music player with Soulseek integration, MusicBrainz tagging, Last.fm scrobbling, and radio mode. Built with Go and Bubble Tea.",
+                "homepage": null,
                 "id": 1105798876,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-18T18:16:05Z",
+                "open_issues": 4,
                 "owner": "llehouerou",
                 "repo": "waves",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "audio",
+                  "bubbletea",
+                  "cli",
+                  "command-line",
+                  "flac",
+                  "go",
+                  "golang",
+                  "lastfm",
+                  "linux",
+                  "mp3",
+                  "music",
+                  "music-player",
+                  "radio",
+                  "soulseek",
+                  "terminal",
+                  "terminal-music-player",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2180,12 +3776,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TUI radio player making use of Radio Browser API and Bubbletea.",
+                "homepage": null,
                 "id": 761346360,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-23T14:03:53Z",
+                "open_issues": 5,
                 "owner": "dancnb",
                 "repo": "sonicradio",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2196,12 +3797,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A guitar tuner for your terminal",
+                "homepage": null,
                 "id": 1126329878,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-14T13:56:36Z",
+                "open_issues": 0,
                 "owner": "SteveMCWin",
                 "repo": "ttune",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "bubbletea",
+                  "golang",
+                  "lipgloss",
+                  "music",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2212,12 +3824,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rig.fm",
+                "homepage": "https://rig.fm/",
                 "id": 1128641538,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-27T22:16:16Z",
+                "open_issues": 1,
                 "owner": "MWhyte",
                 "repo": "rig",
-                "stars": 7
+                "stars": 8,
+                "topics": [
+                  "bubble-tea",
+                  "bubbletea",
+                  "cli",
+                  "go",
+                  "golang",
+                  "internet-radio",
+                  "mpv",
+                  "radio",
+                  "terminal",
+                  "terminal-app",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2228,12 +3857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MLB play-by-plays and overviews, but beautifully in your terminal",
+                "homepage": null,
                 "id": 1070939226,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-10-08T00:01:41Z",
+                "open_issues": 0,
                 "owner": "DaltonSW",
                 "repo": "BatterUp",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2251,12 +3885,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal based alternative to Discord",
+                "homepage": null,
                 "id": 867308599,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-08-10T20:53:48Z",
+                "open_issues": 0,
                 "owner": "Kyren223",
                 "repo": "eko",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "chat",
+                  "discord",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2267,12 +3911,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bulk-delete your Discord messages and reactions from your data package",
+                "homepage": "https://codemania.dev/delete-all-discord-messages.html",
                 "id": 1298848516,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:16:34Z",
+                "open_issues": 0,
                 "owner": "DatCodeMania",
                 "repo": "discord-delete",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bubbletea",
+                  "bulk-delete",
+                  "cli",
+                  "data-export",
+                  "discord",
+                  "gdpr",
+                  "go",
+                  "golang",
+                  "privacy",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2283,12 +3944,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal based chat application build using WebSocket and Bubble Tea Framework",
+                "homepage": null,
                 "id": 763931919,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-06T04:49:35Z",
+                "open_issues": 0,
                 "owner": "athulreji",
                 "repo": "vault-client",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "bubbletea",
+                  "go",
+                  "golang",
+                  "tui",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2299,12 +3971,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal-based voice/text chat over WebRTC. A Bubble Tea TUI client connects peer-to-peer for audio (Opus) and messaging, using a lightweight Go signaling server to broker room handshakes.",
+                "homepage": null,
                 "id": 1338779037,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-08-19T18:09:41Z",
+                "open_issues": 0,
                 "owner": "arthursfares",
                 "repo": "skulls",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "bubbletea",
+                  "go",
+                  "malgo",
+                  "opus",
+                  "pion",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2322,12 +4006,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Portal is a quick and easy command-line file transfer utility from any computer to another 🌌 ✨",
+                "homepage": "https://portal.spatiumportae.com",
                 "id": 412444545,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-20T14:40:18Z",
+                "open_issues": 29,
                 "owner": "SpatiumPortae",
                 "repo": "portal",
-                "stars": 1766
+                "stars": 1766,
+                "topics": [
+                  "data-transfer",
+                  "e2e",
+                  "file-sharing",
+                  "filetransfer",
+                  "go",
+                  "golang",
+                  "p2p",
+                  "pake",
+                  "peer-to-peer"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2338,12 +4037,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SSH directory ✨",
+                "homepage": null,
                 "id": 444063538,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-12T20:43:42Z",
+                "open_issues": 19,
                 "owner": "charmbracelet",
                 "repo": "wishlist",
-                "stars": 1655
+                "stars": 1655,
+                "topics": [
+                  "hacktoberfest",
+                  "ssh"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2354,12 +4061,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖥 Securely transfer and send anything between computers with TUI.",
+                "homepage": null,
                 "id": 452395183,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-16T20:06:36Z",
+                "open_issues": 10,
                 "owner": "abdfnx",
                 "repo": "tran",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "cli",
+                  "data-sharing",
+                  "data-transfer",
+                  "end-to-end",
+                  "file-sharing",
+                  "filetransfer",
+                  "golang",
+                  "peer-to-peer",
+                  "sender",
+                  "terminal-based",
+                  "transfer",
+                  "tui",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2370,12 +4096,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network Doctor is a cross-platform network troubleshooting TUI that turns interface, DNS, TCP, TLS, HTTP, proxy, and path-MTU checks into one plain-English diagnosis.",
+                "homepage": "https://heymaikol.github.io/network-doctor/",
                 "id": 1282665509,
                 "language": "Go",
-                "last_commit": "2026-08-28T21:10:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:04:35Z",
+                "open_issues": 0,
                 "owner": "heymaikol",
                 "repo": "network-doctor",
-                "stars": 307
+                "stars": 308,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "cross-platform",
+                  "dns",
+                  "golang",
+                  "network-diagnostics",
+                  "network-tools",
+                  "network-troubleshooting",
+                  "networking",
+                  "sysadmin",
+                  "tls",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2386,12 +4130,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TUI for sharing files over local network - batteries included",
+                "homepage": null,
                 "id": 957535406,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-08-06T20:52:35Z",
+                "open_issues": 0,
                 "owner": "MuhamedUsman",
                 "repo": "letshare",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "file-receiver",
+                  "file-sharing-application",
+                  "filesharing",
+                  "filesharing-on-network",
+                  "filesharing-service",
+                  "golang",
+                  "linux",
+                  "macos",
+                  "qrcode",
+                  "tui",
+                  "webui",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2402,12 +4164,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern TUI browser for the finger protocol, built for exploring.",
+                "homepage": null,
                 "id": 1253565816,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:13:57Z",
+                "open_issues": 15,
                 "owner": "jonathandeamer",
                 "repo": "lookit",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "finger",
+                  "smallnet",
+                  "tildeverse"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2425,12 +4196,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal based presentation tool",
+                "homepage": "http://maaslalani.com/slides/",
                 "id": 364729022,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-08T18:44:50Z",
+                "open_issues": 77,
                 "owner": "maaslalani",
                 "repo": "slides",
-                "stars": 11635
+                "stars": 11637,
+                "topics": [
+                  "markdown",
+                  "presentation",
+                  "slides",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2441,12 +4222,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Track stocks, crypto, and derivatives prices and positions in real time from your terminal",
+                "homepage": null,
                 "id": 332361864,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-28T21:50:24Z",
+                "open_issues": 33,
                 "owner": "achannarasappa",
                 "repo": "ticker",
-                "stars": 6221
+                "stars": 6221,
+                "topics": [
+                  "bitcoin",
+                  "crypto-trading",
+                  "cryptocurrencies",
+                  "derivatives",
+                  "financial-markets",
+                  "golang",
+                  "golang-application",
+                  "stock-market",
+                  "stock-positions",
+                  "stocks",
+                  "stocks-app",
+                  "terminal",
+                  "terminal-app",
+                  "ticker",
+                  "trading",
+                  "trading-software",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2457,12 +4261,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌐 A time zone helper",
+                "homepage": null,
                 "id": 334494310,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-14T01:46:51Z",
+                "open_issues": 8,
                 "owner": "oz",
                 "repo": "tz",
-                "stars": 898
+                "stars": 898,
+                "topics": [
+                  "timezone",
+                  "tzdata",
+                  "zone-helper"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2473,12 +4286,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One binary, zero extensions, real time multi browser bookmark manager . Works with any browser and handles profiles. Multi-device sync and archival",
+                "homepage": "https://gosuki.net",
                 "id": 700075378,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-15T23:15:54Z",
+                "open_issues": 2,
                 "owner": "blob42",
                 "repo": "gosuki",
-                "stars": 545
+                "stars": 545,
+                "topics": [
+                  "archivebox",
+                  "archiving",
+                  "bookmark-manager",
+                  "bookmarks",
+                  "bookmarks-manager",
+                  "buku",
+                  "cli",
+                  "cloudless",
+                  "extension-free",
+                  "golang",
+                  "multi-browser",
+                  "multi-device-sync",
+                  "multi-profile",
+                  "organizer",
+                  "privacy",
+                  "real-time",
+                  "self-hosted",
+                  "standalone",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2489,12 +4327,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Task Timer (tt) is a dead simple TUI task timer",
+                "homepage": null,
                 "id": 329969457,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-07T02:29:59Z",
+                "open_issues": 3,
                 "owner": "caarlos0",
                 "repo": "tasktimer",
-                "stars": 455
+                "stars": 455,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2505,12 +4348,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A no-frills time tracking toolkit for command line nerds",
+                "homepage": "https://tools.dhruvs.space/hours",
                 "id": 812644610,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T22:54:06Z",
+                "open_issues": 16,
                 "owner": "dhth",
                 "repo": "hours",
-                "stars": 345
+                "stars": 345,
+                "topics": [
+                  "time-tracker",
+                  "time-tracking",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2521,12 +4373,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "on-my-mind: a keyboard-driven task manager for the command line",
+                "homepage": "https://tools.dhruvs.space/omm",
                 "id": 825978481,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-05T21:12:55Z",
+                "open_issues": 11,
                 "owner": "dhth",
                 "repo": "omm",
-                "stars": 331
+                "stars": 331,
+                "topics": [
+                  "bubbletea",
+                  "task-manager",
+                  "todo-app",
+                  "todolist"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2537,12 +4399,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and simple terminal-based task and todo manager built in go",
+                "homepage": null,
                 "id": 953210081,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-24T07:42:19Z",
+                "open_issues": 6,
                 "owner": "prime-run",
                 "repo": "togo",
-                "stars": 184
+                "stars": 184,
+                "topics": [
+                  "go",
+                  "productivity",
+                  "terminal-tool",
+                  "todo-app",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2553,12 +4426,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Batch software uninstall",
+                "homepage": null,
                 "id": 422960011,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2022-02-12T07:46:25Z",
+                "open_issues": 0,
                 "owner": "r-darwish",
                 "repo": "idnt",
-                "stars": 103
+                "stars": 103,
+                "topics": [
+                  "apt",
+                  "brew",
+                  "chocolatey",
+                  "go",
+                  "pacman",
+                  "uninstall"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2569,12 +4454,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slurm TUI",
+                "homepage": null,
                 "id": 580169762,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-10-11T09:39:54Z",
+                "open_issues": 12,
                 "owner": "CLIP-HPC",
                 "repo": "SlurmCommander",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "hpc",
+                  "slurm",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2585,12 +4480,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes library, with viewer and shortcuts to edit and create new notes.",
+                "homepage": null,
                 "id": 470733750,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2022-10-18T08:59:42Z",
+                "open_issues": 1,
                 "owner": "torbratsberg",
                 "repo": "noted",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cli",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2601,12 +4504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal based multi-event countdown timer",
+                "homepage": null,
                 "id": 519682462,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-16T03:01:21Z",
+                "open_issues": 0,
                 "owner": "aldernero",
                 "repo": "countdown",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2617,12 +4525,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "punchout takes the suck out of logging time on JIRA",
+                "homepage": "https://tools.dhruvs.space/punchout",
                 "id": 770680100,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:46:02Z",
+                "open_issues": 1,
                 "owner": "dhth",
                 "repo": "punchout",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "bubbletea",
+                  "jira",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2633,12 +4550,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Do maths like a normal person",
+                "homepage": null,
                 "id": 1054390652,
                 "language": "Go",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-15T17:10:55Z",
+                "open_issues": 0,
                 "owner": "parnoldx",
                 "repo": "nascTUI",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "calculator",
+                  "calculus",
+                  "education",
+                  "equation",
+                  "go",
+                  "math",
+                  "nasc",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2649,12 +4580,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal-native call recorder for macOS: system audio + mic, local files, on-device diarized transcription. No bots, no cloud.",
+                "homepage": null,
                 "id": 1329767103,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-13T07:30:32Z",
+                "open_issues": 0,
                 "owner": "scaccogatto",
                 "repo": "nastro",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "audio-recording",
+                  "bubbletea",
+                  "cli",
+                  "diarization",
+                  "golang",
+                  "macos",
+                  "meeting-notes",
+                  "transcription",
+                  "tui",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2665,12 +4612,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform CLI and Web UI typing application built for developers to master speed and syntax.",
+                "homepage": "https://chuma-beep.github.io/typist/",
                 "id": 1190362453,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-24T20:20:49Z",
+                "open_issues": 1,
                 "owner": "chuma-beep",
                 "repo": "typist",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cli",
+                  "go",
+                  "golang",
+                  "productivity",
+                  "tui-app",
+                  "typing-practice",
+                  "web-ui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2681,12 +4641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ciphery is a simple, local vault manager app designed for securely storing and managing secrets.",
+                "homepage": null,
                 "id": 855262323,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2024-09-12T21:45:44Z",
+                "open_issues": 0,
                 "owner": "aable0",
                 "repo": "ciphery",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2697,12 +4662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1037521784,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-08-14T14:16:04Z",
+                "open_issues": 0,
                 "owner": "yuvals1",
                 "repo": "bubblecal",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2713,12 +4683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1252135265,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-28T10:03:37Z",
+                "open_issues": 0,
                 "owner": "FlynnWan",
                 "repo": "tudo",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2736,12 +4711,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌿 It's Hacker News in your terminal",
+                "homepage": null,
                 "id": 283105657,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:36:42Z",
+                "open_issues": 1,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2065
+                "stars": 2065,
+                "topics": [
+                  "cli",
+                  "client",
+                  "command-line",
+                  "console",
+                  "hacker",
+                  "hacker-news",
+                  "hackernews",
+                  "news",
+                  "reader",
+                  "terminal",
+                  "tui",
+                  "ycombinator"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2752,12 +4745,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSS reader for the terminal",
+                "homepage": null,
                 "id": 580794699,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-08T19:07:13Z",
+                "open_issues": 33,
                 "owner": "guyfedwards",
                 "repo": "nom",
-                "stars": 741
+                "stars": 741,
+                "topics": [
+                  "bubbletea",
+                  "cli",
+                  "golang",
+                  "hacktoberfest",
+                  "rss",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2768,12 +4773,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Neon Modem Overdrive (https://tty.fail/mrus/neonmodem)",
+                "homepage": "https://neonmodem.com",
                 "id": 583532956,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T14:05:18Z",
+                "open_issues": 21,
                 "owner": "mrusme",
                 "repo": "neonmodem",
-                "stars": 701
+                "stars": 701,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "ascii-art",
+                  "bbs",
+                  "bulletin-board",
+                  "bulletin-board-system",
+                  "bulletinboard",
+                  "cli",
+                  "command-line",
+                  "command-line-tool",
+                  "discourse",
+                  "discourse-api",
+                  "forum",
+                  "forum-application",
+                  "hacker-news",
+                  "hackernews",
+                  "lemmy",
+                  "terminal",
+                  "terminal-app",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2784,12 +4815,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Canard. A command line TUI client for the journalist RSS aggregator.",
+                "homepage": "https://マリウス.com/canard-a-command-line-tui-client-for-the-journalist-rss-aggregator/",
                 "id": 356987767,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-17T13:59:11Z",
+                "open_issues": 0,
                 "owner": "mrusme",
                 "repo": "canard",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "canard",
+                  "cli",
+                  "command-line",
+                  "command-line-tool",
+                  "commandline",
+                  "commandline-interface",
+                  "commandline-tool",
+                  "journalist",
+                  "reader",
+                  "rss",
+                  "rss-reader",
+                  "terminal-based",
+                  "text-user-interface",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2800,12 +4851,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LoL Esports in the terminal!",
+                "homepage": null,
                 "id": 957538580,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-20T14:00:21Z",
+                "open_issues": 13,
                 "owner": "matthieugusmini",
                 "repo": "rift",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "cli",
+                  "cool-kids",
+                  "esports",
+                  "go",
+                  "golang",
+                  "league-of-legends",
+                  "lolesports",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2816,12 +4881,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stay informed without leaving your command line",
+                "homepage": null,
                 "id": 692788563,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-01T11:31:40Z",
+                "open_issues": 0,
                 "owner": "zMoooooritz",
                 "repo": "nachrichten",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "cli",
+                  "go",
+                  "news"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2832,12 +4906,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Bubble Tea implementation of https://github.com/mikegetz/drudge",
+                "homepage": null,
                 "id": 1163019616,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-28T07:46:11Z",
+                "open_issues": 0,
                 "owner": "mikegetz",
                 "repo": "drudgetea",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2848,12 +4927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal application for displaying NOAA based marine forecast and tide information.",
+                "homepage": null,
                 "id": 1105582623,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-12-01T15:10:28Z",
+                "open_issues": 0,
                 "owner": "ngmaloney",
                 "repo": "marine-terminal",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2871,12 +4955,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐬🧋  Remote control your flipper from the local terminal or over SSH",
+                "homepage": null,
                 "id": 518599161,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-23T12:02:41Z",
+                "open_issues": 3,
                 "owner": "jon4hz",
                 "repo": "fztea",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "bubbletea",
+                  "flipper",
+                  "flipper-zero",
+                  "flipperzero",
+                  "serial-communication",
+                  "ssh",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2887,12 +4984,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Automates terminal operations.",
+                "homepage": null,
                 "id": 560164357,
                 "language": "Go",
-                "last_commit": "2026-08-28T15:12:42Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:01:42Z",
+                "open_issues": 6,
                 "owner": "koki-develop",
                 "repo": "clive",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "cli",
+                  "golang",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2903,12 +5009,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal based UNIX user and group browser",
+                "homepage": null,
                 "id": 496742930,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-27T20:14:21Z",
+                "open_issues": 1,
                 "owner": "ariasmn",
                 "repo": "ugm",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "cli",
+                  "functional",
+                  "go",
+                  "golang",
+                  "groups",
+                  "linux",
+                  "tui",
+                  "unix",
+                  "users"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2919,12 +5040,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and intuitive lscolors configuration. Put that glam in your term.",
+                "homepage": "https://dalton.dog/stylish",
                 "id": 911397182,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-24T13:52:22Z",
+                "open_issues": 0,
                 "owner": "DaltonSW",
                 "repo": "stylish",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "bash",
+                  "brew",
+                  "bubbletea",
+                  "colors",
+                  "golang",
+                  "lipgloss",
+                  "ls",
+                  "tree",
+                  "tui",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2935,12 +5072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI System Monitor in Go",
+                "homepage": null,
                 "id": 907201837,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-05-01T19:08:47Z",
+                "open_issues": 0,
                 "owner": "diegolara93",
                 "repo": "gobottom",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -2958,12 +5100,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks",
+                "homepage": null,
                 "id": 576970458,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-10T11:12:53Z",
+                "open_issues": 3,
                 "owner": "TheYahya",
                 "repo": "enola",
-                "stars": 867
+                "stars": 867,
+                "topics": [
+                  "cli",
+                  "go",
+                  "golang",
+                  "search",
+                  "sherlock",
+                  "sherlock-holmes",
+                  "social-network",
+                  "username"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2974,12 +5130,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Translating TUI written in go using simplytranslate's API",
+                "homepage": null,
                 "id": 441671997,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-06-14T20:34:41Z",
+                "open_issues": 2,
                 "owner": "fedeztk",
                 "repo": "got",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "go",
+                  "golang",
+                  "translate",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -2990,12 +5158,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A language aquisition terminal application (TUI) to learn languages with text.",
+                "homepage": "https://lingotext.github.io/",
                 "id": 723481587,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-11-07T10:05:33Z",
+                "open_issues": 5,
                 "owner": "hsnborn22",
                 "repo": "LinGo",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "foreign-languages",
+                  "go",
+                  "golang",
+                  "language",
+                  "language-aquisition",
+                  "languages",
+                  "learn",
+                  "learning-languages",
+                  "lingo",
+                  "polyglot"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -3006,12 +5190,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TUI-klient för SVTs text-tv skriven i Go.",
+                "homepage": null,
                 "id": 310697466,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2021-05-28T20:41:15Z",
+                "open_issues": 0,
                 "owner": "wille1101",
                 "repo": "sttg",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "golang",
+                  "svt",
+                  "texttv"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -3029,12 +5222,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A beautiful terminal dashboard for hledger 💰",
+                "homepage": null,
                 "id": 560224372,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-11T15:16:44Z",
+                "open_issues": 11,
                 "owner": "siddhantac",
                 "repo": "puffin",
-                "stars": 568
+                "stars": 568,
+                "topics": [
+                  "bubbletea",
+                  "finance",
+                  "golang",
+                  "hledger",
+                  "ledger",
+                  "ledger-cli",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             },
@@ -3045,12 +5251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 915464270,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T09:08:12Z",
+                "open_issues": 8,
                 "owner": "Rshep3087",
                 "repo": "lunchtui",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
             }
@@ -3072,12 +5283,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper for charm's freeze cli tool for usage in neovim",
+            "homepage": null,
             "id": 778232974,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-03-25T13:10:43Z",
+            "open_issues": 1,
             "owner": "charm-and-friends",
             "repo": "freeze.nvim",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "nvim-plugin"
+            ]
           },
           "first_seen": "2026-08-28T21:15:02.085Z"
         }
@@ -3094,12 +5315,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line JSON processor",
+            "homepage": "https://jqlang.org",
             "id": 5101141,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T15:06:16Z",
+            "open_issues": 472,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35503
+            "stars": 35506,
+            "topics": [
+              "jq"
+            ]
           },
           "first_seen": "2026-08-28T21:15:02.085Z"
         }
@@ -3108,15 +5336,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:02.085Z",
+    "last_updated": "2026-08-29T04:47:09.098Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Featuring only the most showstopping, glamorous CLI tooling out there...",
+      "homepage": null,
       "id": 808303530,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-21T08:57:14Z",
+      "open_issues": 2,
       "owner": "charm-and-friends",
       "repo": "charm-in-the-wild",
-      "stars": 286
+      "stars": 286,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "cd3fa7fbc3af2caa2b894a05e7ed6e43185618a4",
     "enhanced_repository": "enhansome/enhansome-charm-in-the-wild",
