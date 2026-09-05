@@ -80,7 +80,7 @@
                 "open_issues": 9,
                 "owner": "aandrew-me",
                 "repo": "tgpt",
-                "stars": 3255,
+                "stars": 3256,
                 "topics": [
                   "ai",
                   "chatbot",
@@ -139,11 +139,11 @@
                 "id": 1301824521,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T14:19:18Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-05T12:50:00Z",
+                "open_issues": 26,
                 "owner": "YoanWai",
                 "repo": "agent-manager",
-                "stars": 392,
+                "stars": 394,
                 "topics": [
                   "agentic",
                   "ai-agents",
@@ -305,6 +305,36 @@
             },
             {
               "node_type": "item",
+              "title": "OpenLore",
+              "description": "A frontier knowledge base that's minimal, extensible and agent-native. Keeps your context current and insepctable. (built with Wish)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A minimal, extensible, agent-native knowledge base that keeps shared context current and inspectable",
+                "homepage": "https://openlore.sh",
+                "id": 1280296384,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-04T22:21:29Z",
+                "open_issues": 3,
+                "owner": "aakarim",
+                "repo": "OpenLore",
+                "stars": 86,
+                "topics": [
+                  "agent",
+                  "agent-memory",
+                  "agents",
+                  "knowledge",
+                  "knowledge-base",
+                  "knowledge-management",
+                  "knowledgebase",
+                  "memory"
+                ]
+              },
+              "first_seen": "2026-09-05T13:32:05.410Z"
+            },
+            {
+              "node_type": "item",
               "title": "Keen Code",
               "description": "A context-aware terminal AI coding agent written in Go with multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, and hashline edits. (built with Bubbles, Bubble Tea, Glamour, Lip Gloss, and Ultraviolet)",
               "children": [],
@@ -315,8 +345,8 @@
                 "id": 1158827208,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:18:54Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-04T23:54:20Z",
+                "open_issues": 8,
                 "owner": "mochow13",
                 "repo": "keen-code",
                 "stars": 61,
@@ -414,11 +444,11 @@
                 "id": 1350488158,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T04:27:51Z",
+                "last_commit": "2026-09-04T20:48:26Z",
                 "open_issues": 0,
                 "owner": "bon5co",
                 "repo": "bermuda",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "agent-orchestration",
                   "agents",
@@ -502,7 +532,7 @@
                 "open_issues": 453,
                 "owner": "daytonaio",
                 "repo": "daytona",
-                "stars": 71809,
+                "stars": 71798,
                 "topics": [
                   "agentic-workflow",
                   "ai",
@@ -609,8 +639,8 @@
                 "id": 292427680,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T14:29:41Z",
-                "open_issues": 290,
+                "last_commit": "2026-09-05T13:06:56Z",
+                "open_issues": 295,
                 "owner": "cloudposse",
                 "repo": "atmos",
                 "stars": 1372,
@@ -645,7 +675,7 @@
                 "open_issues": 21,
                 "owner": "leg100",
                 "repo": "pug",
-                "stars": 698,
+                "stars": 700,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
@@ -1047,11 +1077,11 @@
                 "id": 77726177,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T02:37:37Z",
-                "open_issues": 538,
+                "last_commit": "2026-09-05T08:10:18Z",
+                "open_issues": 539,
                 "owner": "trufflesecurity",
                 "repo": "trufflehog",
-                "stars": 27685,
+                "stars": 27691,
                 "topics": [
                   "credentials",
                   "devsecops",
@@ -1152,7 +1182,7 @@
                 "open_issues": 6,
                 "owner": "mathaou",
                 "repo": "termdbms",
-                "stars": 1820,
+                "stars": 1821,
                 "topics": [
                   "database",
                   "golang",
@@ -1349,7 +1379,7 @@
                 "open_issues": 230,
                 "owner": "charmbracelet",
                 "repo": "glow",
-                "stars": 27186,
+                "stars": 27195,
                 "topics": [
                   "cli",
                   "excitement",
@@ -1372,10 +1402,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-01T04:26:00Z",
-                "open_issues": 203,
+                "open_issues": 205,
                 "owner": "charmbracelet",
                 "repo": "gum",
-                "stars": 24333,
+                "stars": 24336,
                 "topics": [
                   "bash",
                   "shell"
@@ -1395,11 +1425,11 @@
                 "id": 157245200,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:29:08Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-05T13:24:09Z",
+                "open_issues": 59,
                 "owner": "twpayne",
                 "repo": "chezmoi",
-                "stars": 21460,
+                "stars": 21470,
                 "topics": [
                   "configuration",
                   "dotfile",
@@ -1456,7 +1486,7 @@
                 "open_issues": 93,
                 "owner": "charmbracelet",
                 "repo": "huh",
-                "stars": 7148,
+                "stars": 7149,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
@@ -1526,11 +1556,11 @@
                 "id": 609147387,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-31T00:57:28Z",
+                "last_commit": "2026-09-05T11:38:26Z",
                 "open_issues": 8,
                 "owner": "Zxilly",
                 "repo": "go-size-analyzer",
-                "stars": 2170,
+                "stars": 2171,
                 "topics": [
                   "analyzer",
                   "binary",
@@ -1563,7 +1593,7 @@
                 "open_issues": 12,
                 "owner": "abhimanyu003",
                 "repo": "sttr",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1601,7 +1631,7 @@
                 "id": 462355543,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T03:00:37Z",
+                "last_commit": "2026-09-04T16:09:41Z",
                 "open_issues": 135,
                 "owner": "mergestat",
                 "repo": "mergestat",
@@ -1631,7 +1661,7 @@
                 "open_issues": 10,
                 "owner": "termkit",
                 "repo": "gama",
-                "stars": 483,
+                "stars": 484,
                 "topics": [
                   "actions",
                   "bubbles",
@@ -1665,7 +1695,7 @@
                 "open_issues": 8,
                 "owner": "stefanlogue",
                 "repo": "meteor",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "charmbracelet",
                   "cli",
@@ -1987,11 +2017,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "a system-wide ascii keyboard visualizer and keycaster in the terminal",
-                "homepage": null,
+                "homepage": "ditto.arvingarcia.com",
                 "id": 1265828131,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-30T02:31:10Z",
+                "last_commit": "2026-09-05T12:47:09Z",
                 "open_issues": 3,
                 "owner": "arvingarciabtw",
                 "repo": "ditto",
@@ -2021,11 +2051,11 @@
                 "id": 1084535317,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T00:43:02Z",
+                "last_commit": "2026-09-05T01:32:35Z",
                 "open_issues": 0,
                 "owner": "gitsocial-org",
                 "repo": "gitsocial",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "bubbletea",
                   "cli",
@@ -2158,7 +2188,7 @@
                 "open_issues": 0,
                 "owner": "dhth",
                 "repo": "mult",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
@@ -2269,7 +2299,7 @@
                 "id": 800898004,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T00:06:37Z",
+                "last_commit": "2026-09-05T00:06:38Z",
                 "open_issues": 12,
                 "owner": "nobe4",
                 "repo": "gh-not",
@@ -2461,8 +2491,8 @@
                 "id": 1285935075,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T01:24:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-04T20:57:38Z",
+                "open_issues": 1,
                 "owner": "gbarany",
                 "repo": "tea-dash",
                 "stars": 13,
@@ -2634,7 +2664,7 @@
                 "id": 1131521215,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:32:42Z",
+                "last_commit": "2026-09-05T07:52:46Z",
                 "open_issues": 0,
                 "owner": "jedipunkz",
                 "repo": "fuzz.fish",
@@ -2851,7 +2881,7 @@
                 "open_issues": 264,
                 "owner": "yorukot",
                 "repo": "superfile",
-                "stars": 23081,
+                "stars": 23096,
                 "topics": [
                   "bubbletea",
                   "cli",
@@ -3748,10 +3778,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-03T23:06:47Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "0xjuanma",
                 "repo": "golazo",
-                "stars": 852,
+                "stars": 855,
                 "topics": [
                   "bubbletea",
                   "charmbracelet",
@@ -4174,11 +4204,11 @@
                 "id": 1282665509,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T09:33:45Z",
+                "last_commit": "2026-09-05T11:44:39Z",
                 "open_issues": 12,
                 "owner": "heymaikol",
                 "repo": "network-doctor",
-                "stars": 346,
+                "stars": 354,
                 "topics": [
                   "bubbletea",
                   "cli",
@@ -4320,7 +4350,7 @@
                 "open_issues": 77,
                 "owner": "maaslalani",
                 "repo": "slides",
-                "stars": 11645,
+                "stars": 11647,
                 "topics": [
                   "markdown",
                   "presentation",
@@ -4346,7 +4376,7 @@
                 "open_issues": 33,
                 "owner": "achannarasappa",
                 "repo": "ticker",
-                "stars": 6223,
+                "stars": 6224,
                 "topics": [
                   "bitcoin",
                   "crypto-trading",
@@ -4665,31 +4695,6 @@
             },
             {
               "node_type": "item",
-              "title": "punchout",
-              "description": "Takes the suck out of logging time on JIRA. (built with Bubble Tea)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "punchout takes the suck out of logging time on JIRA",
-                "homepage": "https://tools.dhruvs.space/punchout",
-                "id": 770680100,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-09-04T11:11:19Z",
-                "open_issues": 0,
-                "owner": "dhth",
-                "repo": "punchout",
-                "stars": 28,
-                "topics": [
-                  "bubbletea",
-                  "jira",
-                  "tui"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:02.085Z"
-            },
-            {
-              "node_type": "item",
               "title": "nastro",
               "description": "Terminal call recorder for macOS: records system audio + mic (no bot joins the call), transcribes on-device with speaker diarization. TUI + headless CLI. (built with Bubble Tea)",
               "children": [],
@@ -4704,7 +4709,7 @@
                 "open_issues": 0,
                 "owner": "scaccogatto",
                 "repo": "nastro",
-                "stars": 28,
+                "stars": 29,
                 "topics": [
                   "audio-recording",
                   "bubbletea",
@@ -4716,6 +4721,31 @@
                   "transcription",
                   "tui",
                   "whisper"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:02.085Z"
+            },
+            {
+              "node_type": "item",
+              "title": "punchout",
+              "description": "Takes the suck out of logging time on JIRA. (built with Bubble Tea)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "punchout takes the suck out of logging time on JIRA",
+                "homepage": "https://tools.dhruvs.space/punchout",
+                "id": 770680100,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-09-05T11:54:24Z",
+                "open_issues": 0,
+                "owner": "dhth",
+                "repo": "punchout",
+                "stars": 28,
+                "topics": [
+                  "bubbletea",
+                  "jira",
+                  "tui"
                 ]
               },
               "first_seen": "2026-08-28T21:15:02.085Z"
@@ -4835,7 +4865,7 @@
                 "open_issues": 1,
                 "owner": "bensadeh",
                 "repo": "circumflex",
-                "stars": 2068,
+                "stars": 2069,
                 "topics": [
                   "cli",
                   "client",
@@ -5371,8 +5401,8 @@
                 "id": 915464270,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-31T09:07:34Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-05T05:09:30Z",
+                "open_issues": 8,
                 "owner": "Rshep3087",
                 "repo": "lunchtui",
                 "stars": 26,
@@ -5436,10 +5466,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T06:30:47Z",
-            "open_issues": 477,
+            "open_issues": 476,
             "owner": "jqlang",
             "repo": "jq",
-            "stars": 35551,
+            "stars": 35552,
             "topics": [
               "jq"
             ]
@@ -5451,7 +5481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:31:45.555Z",
+    "last_updated": "2026-09-05T13:32:05.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "Featuring only the most showstopping, glamorous CLI tooling out there...",
@@ -5459,8 +5489,8 @@
       "id": 808303530,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-03T19:54:22Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-04T20:01:47Z",
+      "open_issues": 1,
       "owner": "charm-and-friends",
       "repo": "charm-in-the-wild",
       "stars": 287,
@@ -5469,7 +5499,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "91e0d60409abb31b7cf2aee7eb9a2ba860309ca1",
+    "original_repository_sha": "34573687e63351d765b24b5703be5b96a319f936",
     "enhanced_repository": "enhansome/enhansome-charm-in-the-wild",
     "enhanced_repository_description": null,
     "title": "Awesome Charm In The Wild with stars"
