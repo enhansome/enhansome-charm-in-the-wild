@@ -26,10 +26,10 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,699 | 🐛 66 | 🌐 Go | 📅 2025-10-03 - A terminal-based AI coding engine for complex tasks. (*built with Bubble Tea*)
+* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,700 | 🐛 66 | 🌐 Go | 📅 2025-10-03 - A terminal-based AI coding engine for complex tasks. (*built with Bubble Tea*)
 * [mods](https://github.com/charmbracelet/mods) ⚠️ Archived - AI on the CLI, built for pipelines. (*built with Bubble Tea*)
-* [tgpt](https://github.com/aandrew-me/tgpt) ⭐ 3,271 | 🐛 5 | 🌐 Go | 📅 2026-10-05 - Conversational AI for the CLI; no API keys necessary. (*built with Bubble Tea*)
-* [OpenLore](https://github.com/aakarim/OpenLore) ⭐ 923 | 🐛 4 | 🌐 Go | 📅 2026-10-06 - A frontier knowledge base that's minimal, extensible and agent-native. Keeps your context current and insepctable. (*built with Wish*)
+* [tgpt](https://github.com/aandrew-me/tgpt) ⭐ 3,270 | 🐛 5 | 🌐 Go | 📅 2026-10-05 - Conversational AI for the CLI; no API keys necessary. (*built with Bubble Tea*)
+* [OpenLore](https://github.com/aakarim/OpenLore) ⭐ 958 | 🐛 4 | 🌐 Go | 📅 2026-10-06 - A frontier knowledge base that's minimal, extensible and agent-native. Keeps your context current and insepctable. (*built with Wish*)
 * [chatgpt-cli](https://github.com/j178/chatgpt) ⭐ 777 | 🐛 11 | 🌐 Go | 📅 2026-08-29 - A CLI for ChatGPT. (*built with Bubble Tea*)
 * [agent-manager](https://github.com/YoanWai/agent-manager) ⭐ 570 | 🐛 56 | 🌐 Go | 📅 2026-10-06 - tmux TUI for Claude Code, Codex, OpenCode, Grok, Gemini CLI, and Pi: live status, a prompt without attaching, and in-terminal diff review. (*built with Bubbles, Bubble Tea and Lip Gloss*)
 * [chatgpt-tui](https://github.com/tearingItUp786/chatgpt-tui) ⭐ 198 | 🐛 5 | 🌐 Go | 📅 2026-07-16 - A TUI for ChatGPT with SQLite sessions. (*built with Bubble Tea*)
@@ -44,7 +44,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 * [clawchat-cli](https://github.com/ngmaloney/clawchat-cli) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-03-19 - A CLI chat client for OpenClaw Gateway and Ollama models. (*built with Bubble Tea and Lip Gloss*)
 * [wattop](https://github.com/jasonm4130/wattop) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2026-10-04 - Terminal monitor for Apple Silicon Macs that shows live Claude Code and Codex sessions, subagents, tokens/s and estimated cost beside CPU/GPU power, temperatures and fans. (*built with Bubbles, Bubble Tea and Lip Gloss*)
 * [clipt](https://github.com/Struki84/clipt) ⭐ 0 | 🐛 9 | 🌐 Go | 📅 2026-07-02 - Chat TUI go module for your agents and LLMs. (*built with Bubble Tea, Lip Gloss, Glamour*)
-* [jobtail](https://github.com/dalogax/jobtail) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-04 - Cron for coding agents: schedules shell commands and headless Claude Code, opencode and Codex runs, with a TUI to read each run's transcript and resume its session. (*built with Bubbles, Bubble Tea and Lip Gloss*)
+* [jobtail](https://github.com/dalogax/jobtail) ⭐ 0 | 🐛 1 | 🌐 Go | 📅 2026-10-06 - Cron for coding agents: schedules shell commands and headless Claude Code, opencode and Codex runs, with a TUI to read each run's transcript and resume its session. (*built with Bubbles, Bubble Tea and Lip Gloss*)
 
 ### Cloud and DevOps
 
@@ -78,7 +78,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-* [Trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 28,298 | 🐛 563 | 🌐 Go | 📅 2026-10-06 - Find leaked credentials. (*built with Bubble Tea*)
+* [Trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 28,305 | 🐛 562 | 🌐 Go | 📅 2026-10-06 - Find leaked credentials. (*built with Bubble Tea*)
 * [WG Commander](https://github.com/AndrianBdn/wg-cmd) ⭐ 226 | 🐛 2 | 🌐 Go | 📅 2026-07-07 - A TUI for a simple WireGuard VPN setup. (*built with Bubble Tea*)
 * [y509](https://github.com/kanywst/y509) ⭐ 36 | 🐛 2 | 🌐 Go | 📅 2026-10-05 - Inspect and validate X.509 certificate chains, catching the missing intermediates and bad ordering that break curl but not browsers. (*built with Bubbles, Bubble Tea, Lip Gloss and Huh*)
 
@@ -90,7 +90,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 * [redis-viewer](https://github.com/SaltFishPr/redis-viewer) ⭐ 152 | 🐛 6 | 🌐 Go | 📅 2026-07-04 - A Redis database browser. (*built with Bubble Tea*)
 * [redis\_tui](https://github.com/mat2cc/redis_tui) ⭐ 119 | 🐛 2 | 🌐 Go | 📅 2025-04-20 - A Redis database browser. (*built with Bubble Tea*)
 * [pgxcli](https://github.com/balajz/pgxcli) ⭐ 75 | 🐛 4 | 🌐 Go | 📅 2026-10-02 - Postgres CLI with autocompletion and syntax highlighting. (*built with Bubble Tea, Lip Gloss, Huh*)
-* [qrypad](https://github.com/wheelibin/qrypad) ⭐ 42 | 🐛 0 | 🌐 Go | 📅 2026-09-24 - A terminal SQL client for Postgres, MySQL and SQLite. (*built with Bubble Tea*)
+* [qrypad](https://github.com/wheelibin/qrypad) ⭐ 43 | 🐛 0 | 🌐 Go | 📅 2026-09-24 - A terminal SQL client for Postgres, MySQL and SQLite. (*built with Bubble Tea*)
 * [chtop](https://github.com/chhetripradeep/chtop) ⭐ 34 | 🐛 2 | 🌐 Go | 📅 2024-05-24 - Monitor your ClickHouse node without leaving the terminal. (*built with Bubble Tea*)
 * [schemas](https://github.com/dhth/schemas) ⭐ 28 | 🐛 0 | 🌐 Go | 📅 2026-06-07 - Lets you inspect PostgreSQL schemas in the terminal. (*built with Bubble Tea*)
 
@@ -98,18 +98,18 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-* [Glow](https://github.com/charmbracelet/glow) ⭐ 27,594 | 🐛 242 | 🌐 Go | 📅 2026-10-05 - A markdown reader, browser, and online markdown stash. (*built with Bubble Tea*)
-* [gum](https://github.com/charmbracelet/gum) ⭐ 24,464 | 🐛 211 | 🌐 Go | 📅 2026-09-24 - Interactivity and styling for shells and shell scripts. (*built with Bubble Tea*)
-* [chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,836 | 🐛 60 | 🌐 Go | 📅 2026-10-05 - Securely manage your dotfiles across multiple machines. (*built with Bubble Tea*)
-* [Soft Serve](https://github.com/charmbracelet/soft-serve) ⭐ 7,250 | 🐛 83 | 🌐 Go | 📅 2026-10-05 - A command-line-first Git server that runs a TUI over SSH. (*built with Bubble Tea*)
-* [Huh?](https://github.com/charmbracelet/huh) ⭐ 7,189 | 🐛 103 | 🌐 Go | 📅 2026-10-01 - An interactive prompt and form toolkit. (*built with Bubble Tea*)
+* [Glow](https://github.com/charmbracelet/glow) ⭐ 27,597 | 🐛 242 | 🌐 Go | 📅 2026-10-05 - A markdown reader, browser, and online markdown stash. (*built with Bubble Tea*)
+* [gum](https://github.com/charmbracelet/gum) ⭐ 24,465 | 🐛 211 | 🌐 Go | 📅 2026-09-24 - Interactivity and styling for shells and shell scripts. (*built with Bubble Tea*)
+* [chezmoi](https://github.com/twpayne/chezmoi) ⭐ 21,842 | 🐛 60 | 🌐 Go | 📅 2026-10-05 - Securely manage your dotfiles across multiple machines. (*built with Bubble Tea*)
+* [Soft Serve](https://github.com/charmbracelet/soft-serve) ⭐ 7,248 | 🐛 83 | 🌐 Go | 📅 2026-10-05 - A command-line-first Git server that runs a TUI over SSH. (*built with Bubble Tea*)
+* [Huh?](https://github.com/charmbracelet/huh) ⭐ 7,192 | 🐛 103 | 🌐 Go | 📅 2026-10-01 - An interactive prompt and form toolkit. (*built with Bubble Tea*)
 * [hiSHtory](https://github.com/ddworken/hishtory) ⭐ 3,122 | 🐛 63 | 🌐 Go | 📅 2026-03-18 - Your shell history in context: synced, and queryable. (*built with Bubble Tea*)
 * [charm](https://github.com/charmbracelet/charm) ⚠️ Archived - The official Charm user account manager. (*built with Bubble Tea*)
-* [go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) ⭐ 2,182 | 🐛 7 | 🌐 Go | 📅 2026-10-05 - Explore the dependency size of your golang binary in the terminal. (*built with Bubble Tea and Lip Gloss*)
+* [go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) ⭐ 2,183 | 🐛 7 | 🌐 Go | 📅 2026-10-05 - Explore the dependency size of your golang binary in the terminal. (*built with Bubble Tea and Lip Gloss*)
 * [sttr](https://github.com/abhimanyu003/sttr) ⭐ 1,354 | 🐛 13 | 🌐 Go | 📅 2025-12-25 - A general-purpose text transformer. (*built with Bubble Tea*)
 * [mergestat](https://github.com/mergestat/mergestat) ⭐ 541 | 🐛 135 | 🌐 TypeScript | 📅 2026-09-15 - Run SQL queries on Git repositories. (*built with Bubble Tea*)
 * [gama](https://github.com/termkit/gama) ⭐ 483 | 🐛 10 | 🌐 Go | 📅 2025-11-08 - Manage GitHub Actions from the terminal. (*built with Bubble Tea*)
-* [meteor](https://github.com/stefanlogue/meteor) ⭐ 440 | 🐛 8 | 🌐 Go | 📅 2026-04-03 - A highly customizable conventional commit message tool. (*built with Bubble Tea*)
+* [meteor](https://github.com/stefanlogue/meteor) ⭐ 441 | 🐛 8 | 🌐 Go | 📅 2026-04-03 - A highly customizable conventional commit message tool. (*built with Bubble Tea*)
 * [gocovsh](https://github.com/orlangure/gocovsh) ⭐ 390 | 🐛 13 | 🌐 Go | 📅 2025-12-05 - Explore Go coverage reports from the CLI. (*built with Bubble Tea*)
 * [fork-cleaner](https://github.com/caarlos0/fork-cleaner) ⚠️ Archived - Clean up old and inactive forks in your GitHub account. (*built with Bubble Tea*)
 * [trainer](https://github.com/rusinikita/trainer) ⭐ 310 | 🐛 8 | 🌐 Go | 📅 2025-01-20 - A Go concurrency coding interview simulator with learning materials. (*built with Bubble Tea*)
@@ -151,7 +151,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 * [magetui](https://github.com/dmotylev/magetui) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-06-07 - A docker buildx-style live progress display for mage builds. (*built with Bubble Tea and Lip Gloss*)
 * [TermiPOSTMAN](https://github.com/Suryakantdsa/TermiPOSTMAN) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-05-13 - A beautiful and intuitive Postman-like API testing tool — right in your terminal. (*built with Bubble Tea*)
 * [fifty](https://github.com/balgaly/50-first-sessions) ⭐ 0 | 🐛 1 | 🌐 Go | 📅 2026-08-30 - AI catch-up brief from your git history. Like the morning video in 50 First Dates, for your repos. (*built with Lip Gloss*)
-* [sf-deck](https://github.com/Jacob-Stokes/sf-deck) ⭐ 0 | 🐛 1 | 🌐 Go | 📅 2026-10-05 - A keyboard-first Salesforce workspace for browsing multiple orgs, metadata, records, code, permissions, SOQL, and deployments. (*built with Bubble Tea, Bubbles, and Lip Gloss*)
+* [sf-deck](https://github.com/Jacob-Stokes/sf-deck) ⭐ 0 | 🐛 2 | 🌐 Go | 📅 2026-10-06 - A keyboard-first Salesforce workspace for browsing multiple orgs, metadata, records, code, permissions, SOQL, and deployments. (*built with Bubble Tea, Bubbles, and Lip Gloss*)
 * [fenics-tui](https://github.com/alfenec/fenics-tui) ⭐ 0 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-12 - Terminal-based beam analysis tool using Bubble Tea, FEniCS, and Kubernetes for distributed finite element simulations and automated validation.
 * [gh-dash](https://www.github.com/dlvhdr/gh-dash) - A GitHub CLI extension for PRs and issues. (*built with Bubble Tea*)
 * [gh-hookshot](https://www.github.com/marcelblijleven/gh-hookshot) - A GitHub CLI extension for Webhooks and webhook deliveries. (*built with Bubble Tea and Lip Gloss*)
@@ -160,8 +160,8 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-* [superfile](https://github.com/MHNightCat/superfile) ⭐ 23,680 | 🐛 285 | 🌐 Go | 📅 2026-10-05 - A fancy, modern terminal-based file manager. (*built with Bubble Tea*)
-* [walk](https://github.com/antonmedv/walk) ⭐ 3,641 | 🐛 10 | 🌐 Go | 📅 2026-01-06 - A terminal navigator. (*built with Bubble Tea*)
+* [superfile](https://github.com/MHNightCat/superfile) ⭐ 23,685 | 🐛 285 | 🌐 Go | 📅 2026-10-05 - A fancy, modern terminal-based file manager. (*built with Bubble Tea*)
+* [walk](https://github.com/antonmedv/walk) ⭐ 3,642 | 🐛 10 | 🌐 Go | 📅 2026-01-06 - A terminal navigator. (*built with Bubble Tea*)
 * [fm](https://github.com/knipferrc/fm) ⭐ 634 | 🐛 3 | 🌐 Go | 📅 2025-12-30 - A terminal-based file manager. (*built with Bubble Tea*)
 * [diskbloom](https://github.com/Zingzy/diskbloom) ⭐ 46 | 🐛 0 | 🌐 Go | 📅 2026-07-16 - A pastel treemap disk usage analyzer. (*built with Bubbles, Bubble Tea and Lip Gloss*)
 * [filu](https://github.com/vulcanshen/filu) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-10-06 - A no-learning-curve terminal file manager for macOS and Linux, driven entirely by Tab, Space, Enter and Esc. (*built with Bubble Tea and Lip Gloss*)
@@ -211,7 +211,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 ### Media
 
 * [Golazo](https://github.com/0xjuanma/golazo) ⭐ 868 | 🐛 7 | 🌐 Go | 📅 2026-09-07 - A minimalist TUI for following live and recent football/soccer matches. (*built with Bubble Tea, Bubbles, Lip Gloss*)
-* [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) ⭐ 443 | 🐛 22 | 🌐 Go | 📅 2026-09-10 - Terminal Spotify client for macOS and Linux. (*built with Bubble Tea, Lip Gloss*)
+* [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) ⭐ 444 | 🐛 22 | 🌐 Go | 📅 2026-09-10 - Terminal Spotify client for macOS and Linux. (*built with Bubble Tea, Lip Gloss*)
 * [Waves](https://github.com/llehouerou/waves) ⭐ 173 | 🐛 2 | 🌐 Go | 📅 2026-09-24 - Terminal music player with library browsing, queue management, and Soulseek integration. (*built with Bubble Tea, Lip Gloss*)
 * [sonicradio](https://github.com/dancnb/sonicradio) ⭐ 86 | 🐛 5 | 🌐 Go | 📅 2026-01-23 - A TUI radio player making use of Radio Browser API. (*built with Bubble Tea*)
 * [tTune](https://github.com/SteveMCWin/ttune) ⭐ 47 | 🐛 0 | 🌐 Go | 📅 2026-04-14 - An aesthetic guitar tuner for your terminal. (built with Bubble Tea, Lip Gloss)
@@ -235,7 +235,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 * [portal](https://github.com/ZinoKader/portal) ⭐ 1,764 | 🐛 29 | 🌐 Go | 📅 2024-08-20 - Secure transfers between computers. (*built with Bubble Tea*)
 * [wishlist](https://github.com/charmbracelet/wishlist) ⭐ 1,667 | 🐛 21 | 🌐 Go | 📅 2026-10-01 - An SSH directory and bastian. (*built with Bubble Tea*)
 * [tran](https://github.com/abdfnx/tran) ⭐ 447 | 🐛 10 | 🌐 Go | 📅 2026-02-16 - Securely transfer stuff between computers (based on [portal](https://github.com/ZinoKader/portal) ⭐ 1,764 | 🐛 29 | 🌐 Go | 📅 2024-08-20). (*built with Bubble Tea*)
-* [Network Doctor](https://github.com/heymaikol/network-doctor) ⭐ 403 | 🐛 36 | 🌐 Go | 📅 2026-10-06 - A cross-platform TUI that pinpoints where a network connection breaks and suggests fixes. (*built with Bubble Tea, Bubbles and Lip Gloss*)
+* [Network Doctor](https://github.com/heymaikol/network-doctor) ⭐ 405 | 🐛 36 | 🌐 Go | 📅 2026-10-06 - A cross-platform TUI that pinpoints where a network connection breaks and suggests fixes. (*built with Bubble Tea, Bubbles and Lip Gloss*)
 * [letshare](https://github.com/MuhamedUsman/letshare) ⭐ 44 | 🐛 0 | 🌐 Go | 📅 2025-08-06 - A TUI for sharing files over local network - batteries included. (*built with Bubble Tea*)
 * [lookit](https://github.com/jonathandeamer/lookit) ⭐ 7 | 🐛 17 | 🌐 Go | 📅 2026-08-28 - A modern TUI browser for the finger protocol ([RFC 1288](https://www.rfc-editor.org/rfc/rfc1288)). Built for exploring, not just querying. (*built with Bubble Tea, Bubbles and Lip Gloss*)
 * [sshu](https://github.com/vulcanshen/sshu) ⭐ 2 | 🐛 0 | 🌐 Go | 📅 2026-10-06 - A keyboard-driven TUI for SSH and SFTP, with a host book, a live terminal grid and two-sided file transfers. (*built with Bubble Tea and Lip Gloss*)
@@ -245,8 +245,8 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-* [Slides](https://github.com/maaslalani/slides) ⭐ 11,676 | 🐛 78 | 🌐 Go | 📅 2026-07-08 - A markdown-based presentation tool. (*built with Bubble Tea*)
-* [ticker](https://github.com/achannarasappa/ticker) ⭐ 6,241 | 🐛 35 | 🌐 Go | 📅 2026-06-28 - A terminal stock viewer and stock position tracker. (*built with Bubble Tea*)
+* [Slides](https://github.com/maaslalani/slides) ⭐ 11,678 | 🐛 78 | 🌐 Go | 📅 2026-07-08 - A markdown-based presentation tool. (*built with Bubble Tea*)
+* [ticker](https://github.com/achannarasappa/ticker) ⭐ 6,240 | 🐛 35 | 🌐 Go | 📅 2026-06-28 - A terminal stock viewer and stock position tracker. (*built with Bubble Tea*)
 * [tz](https://github.com/oz/tz) ⭐ 901 | 🐛 8 | 🌐 Go | 📅 2025-02-14 - A scheduling aid for people in multiple time zones. (*built with Bubble Tea*)
 * [GoSuki](https://github.com/blob42/gosuki) ⭐ 554 | 🐛 2 | 🌐 Go | 📅 2026-08-15 - No cloud, real time, multi-browser, extension-free bookmark manager. (*built with Bubble Tea*)
 * [tasktimer](https://github.com/caarlos0/tasktimer) ⚠️ Archived - A dead-simple task timer. (*built with Bubble Tea*)
@@ -271,7 +271,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 * [circumflex](https://github.com/bensadeh/circumflex) ⭐ 2,097 | 🐛 2 | 🌐 Go | 📅 2026-10-04 - Read Hacker News in the terminal. (*built with Bubble Tea*)
 * [nom](https://github.com/guyfedwards/nom) ⭐ 749 | 🐛 36 | 🌐 Go | 📅 2026-07-08 - An RSS reader and manager. (*built with Bubble Tea*)
-* [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) ⭐ 695 | 🐛 21 | 🌐 Go | 📅 2026-07-21 - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (*built with Bubble Tea*)
+* [Neon Modem Overdrive](https://github.com/mrusme/neonmodem) ⭐ 695 | 🐛 13 | 🌐 Go | 📅 2026-10-06 - A BBS-style TUI client for Discourse, Lemmy, Lobste.rs and Hacker News. (*built with Bubble Tea*)
 * [Canard](https://github.com/mrusme/canard) ⚠️ Archived - An RSS client. (*built with Bubble Tea*)
 * [rift](https://github.com/matthieugusmini/rift) ⭐ 26 | 🐛 13 | 🌐 Go | 📅 2026-07-20 - LoL Esports in the terminal. (*built with Bubble Tea*)
 * [nachrichten](https://github.com/zMoooooritz/nachrichten) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2026-02-01 - Access up-to-date news in German provided by the [Tagesschau](https://www.tagesschau.de/). (*built with Bubble Tea*)
@@ -282,7 +282,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!-- In alphabetical order, please -->
 
-* [fztea](https://github.com/jon4hz/fztea) ⭐ 403 | 🐛 3 | 🌐 Go | 📅 2026-02-23 - A Flipper Zero TUI. (*built with Bubble Tea*)
+* [fztea](https://github.com/jon4hz/fztea) ⭐ 404 | 🐛 3 | 🌐 Go | 📅 2026-02-23 - A Flipper Zero TUI. (*built with Bubble Tea*)
 * [cLive](https://github.com/koki-develop/clive) ⭐ 395 | 🐛 6 | 🌐 Go | 📅 2026-10-01 - Automate terminal operations and view them live in a browser. (*built with Bubble Tea*)
 * [ugm](https://github.com/ariasmn/ugm) ⭐ 162 | 🐛 1 | 🌐 Go | 📅 2026-04-27 - A unix user and group browser. (*built with Bubble Tea*)
 * [stylish](https://github.com/daltonsw/stylish) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2025-01-24 - A simple tool to configure stylish LS colors. (*built with Bubble Tea*)
@@ -321,7 +321,7 @@ Want to add your additional [bubbles](https://github.com/charmbracelet/bubbles) 
 
 <!--lint disable awesome-list-item-->
 
-* **[Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/)** - Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) ⭐ 35,750 | 🐛 426 | 🌐 C | 📅 2026-10-06 and [Gum](https://github.com/charmbracelet/gum) ⭐ 24,464 | 🐛 211 | 🌐 Go | 📅 2026-09-24.
+* **[Outsourcing My Memory to Gum](https://devon.lol/blog/outsourcing-my-memory-to-gum/)** - Build a function to discover npm scripts in any project using [jq](https://github.com/jqlang/jq) ⭐ 35,750 | 🐛 427 | 🌐 C | 📅 2026-10-06 and [Gum](https://github.com/charmbracelet/gum) ⭐ 24,465 | 🐛 211 | 🌐 Go | 📅 2026-09-24.
 * **[Rapidly Building Interactive CLIs in Go with Bubble Tea](https://www.inngest.com/blog/interactive-clis-with-bubbletea)** - [Inngest](https://www.inngest.com/) talks about why they chose Bubble Tea and their method for building Bubble Tea applications.
 * **[Tips for Building Bubble Tea Progams](https://leg100.github.io/en/posts/building-bubbletea-programs/)** - In his inaugural blog post, [Louis Garman](https://leg100.github.io) talks through best practices for building Bubble Tea applications. As featured in [Golang Weekly](https://golangweekly.com/issues/521) and on [Hacker News](https://news.ycombinator.com/item?id=41369065).
 
